@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "FAQ"
+date:   2017-07-12 17:10:32 -0400
+categories: beta
+---
+<b>Do I need to download the extension?</b><br>
+Yes. For now, that's the only way you can get credit for fully reading things.
+
+<b>What is the Hot Topics page?</b><br>
+Hot Topics are articles that people are commenting on, sorted in reverse chronological order.
+
+<b>Can I "submit" an article to the Hot Topics page?</b><br>
+Totally. Just comment on anything, anywhere, and it will shoot to the top of the page.
+
+<b>What is the Reading List?</b><br>
+Your Reading List is private, nobody else can see it. It shows what you've really read and where you merely skimmed.
+
+<b>How do you prevent people from cheating?</b><br>
+Our software is sophisticated. It knows where you're really reading and where you're skimming. We suggest that you don't waste your time trying to trick it. If you've got a lot of time on your hands - go for it. Let us know how it goes. 
+
+<b>Can I use my phone?</b><br>
+Yes and no. You can use your phone to do everything EXCEPT get credit for fully reading things. After you get credit for really reading something, you can participate in the comments, indefinitely, from any device.
+
+<b>How does the "beta" work?</b><br>
+This whole thing is one big experiment. Anybody, anywhere can join our community. We're also working with a small group of people on a weekly basis to get feedback about our technology. Read more about that [here](http://blog.reallyread.it/jekyll/update/2017/07/06/beta-testers.html).  
+
+<b>What's the reallyread.it business plan? How are you going to make money?</b><br>
+Our website is free. We think that publishers will pay us to embed our comment sections under their content. (Because publishers embed our comments section directly on their page, their commenters don't need to add the extension!)
+
+<b>What if I have another question?</b><br>
+Email us: support@reallyread.it
+
+
