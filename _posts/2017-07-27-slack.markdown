@@ -4,7 +4,7 @@ title:  "Join us on Slack"
 date:   2017-07-26 17:10:32 -0400
 categories: beta
 ---
-Join the reallyread.it Slack channel to connect with other community members in real time.
+Connect with other reallyread.it community members in real time.
 
 Also, Slack is a great way to provide feedback directly to the people who are building reallyread.it. (Our work gets boring sometimes. We enjoy the interruptions.)
 
