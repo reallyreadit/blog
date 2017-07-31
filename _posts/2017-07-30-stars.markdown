@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Stars will change the way you read."
+date:   2017-07-30 17:10:32 -0400
+categories: beta
+---
+Today we're launching a new cool feature. You can now "star" any articles or stories that you might want to read or comment on at a later time.
+
+Really reading is hard. It requires two meaningful investments - time and attention. Trying to read a 45-minute article in five minutes is weak. (So is trying to tweet about it.)
+
+Stars are for anything that's too long for right now, but worth a revisit later. They might also be the ones clogging up your browser tabs right now. 
+
+Go star some stuff and let us know what you think.
+
+We built stars because the community asked for it. Got an idea for a new feature or functionality? Email bill@reallyread.it
+
+
+

@@ -14,19 +14,20 @@ Hot Topics are articles that people are commenting on, sorted in reverse chronol
 Totally. Just comment on anything, anywhere, and it will shoot to the top of the page.
 
 <b>What is the Reading List?</b><br>
-Your Reading List is private, nobody else can see it. It shows what you've really read and where you merely skimmed.
+Your Reading List is private, nobody else can see it. Star articles to add them to your Reading List.
 
 <b>How do you prevent people from cheating?</b><br>
-Our software is sophisticated. It knows where you're really reading and where you're skimming. We suggest that you don't waste your time trying to trick it. If you've got a lot of time on your hands - go for it. Let us know how it goes. 
+Our software is sophisticated. It won't give you credit for skipping or skimming. 
 
 <b>Can I use my phone?</b><br>
-Yes and no. You can use your phone to do everything EXCEPT get credit for fully reading things. After you get credit for really reading something, you can participate in the comments, indefinitely, from any device.
+Yes and no. You have to use Chrome on Mac or PC to get credit for really erading. However, once you get credit, you can comment from any device, including mobile.
 
-<b>How does the "beta" work?</b><br>
-This whole thing is one big experiment. Anybody, anywhere can join our community. We're also working with a small group of people on a weekly basis to get feedback about our technology. Read more about that [here](http://blog.reallyread.it/jekyll/update/2017/07/06/beta-testers.html).  
+
+<b>What does "beta" mean?</b><br>
+It means that this is a big experiment and we want your feedback. Click [here](http://blog.reallyread.it/jekyll/update/2017/07/06/beta-testers.html) for more info.  
 
 <b>What's the reallyread.it business plan? How are you going to make money?</b><br>
-Our website is free. We think that publishers will pay us to embed our comment sections under their content. (Because publishers embed our comments section directly on their page, their commenters don't need to add the extension!)
+To keep our product free for our community, we license our technology (an easy-to-install embed) to publishers who want to clean up their comments sections and improve reader engagement. 
 
 <b>What if I have another question?</b><br>
 Email us: support@reallyread.it
