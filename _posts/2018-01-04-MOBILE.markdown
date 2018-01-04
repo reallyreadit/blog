@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "We're building a mobile app!"
+date:   2018-01-04 12:30:32 -0400
+categories: product
+---
+It's as official now as it's ever going to be: **We're building a mobile app that will launch in a few months!**
+
+We are proud to be working with [DALI](http://dali.dartmouth.edu/) and, specifically, our brand new mobile development team: Shirley (PM), Dorothy and Mira (design team), Drew and Jiachen (developers). We also have Luisa, Anne, and the broader team at DALI (shout outs to Erica and Tim!)
+
+reallyread.it is working well for people who read regularly *in the Chrome browser, on their desktop computer*. But it's not even available for people who read on their phones and tablets.
+
+We're already counting down the days until we can send out a link to download [the app] on your [mobile device]. (At this point, we haven't even decided on a platform or design! In line with teal principals, we're planning to defer as much decision-making as possible to the new mobile team.)
+
+The next few weeks are (hopefully!) going to be a wild ride. Stay tuned for further updates.
+
+-Bill and Jeff

@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Announcing: Article of the Day!"
+date:   2017-12-30 14:10:32 -0400
+categories: product
+---
+When we started reallyread.it, we focused all of our attention on designing an elegant and simple solution to fix one of the biggest problems on the web: the comment section. 
+
+This was long before the last presidential election, back in the days when Donald Trump was still just a reality-TV-celebrity-figure and not the reality-TV-celebrity-figure-AND-commander-in-chief. We had a premonition that the global race-to-the-bottom in the media space was going to hit an inflection point. Content snippets couldn't get any shorter. (One hundred and forty characters isn't enough space to describe a breakfast let alone debate the merits of a several thousand page tax proposal.) Headlines couldn't get grabbier. Attention spans couldn't get shorter. Feeds, for crying out loud, couldn't _possibly_ get any more boring. 
+
+People, soon, we thought, would start seeking out opportunities to have deeper, more thoughtful conversations. They would find others, like them, in small pockets across the internet. And they would decide, collectively, to focus their attention on reading. Really reading. Longer, more intelligent articles and stories. 
+
+Before there was Make America Great Again, we were working out a way to Make The World Read Again. (Come to think of it, "Make People Read Again" might be an excellent tagline for reallyread.it; It might look great on a bumper sticker or even, dare I say, a red baseball cap!)
+
+But I digress.
+
+**The point is this: the problem - that most people don't _really, actually_ read things on the internet - is far greater than we could have possibly imagined.**
+
+As such, in order to execute on our mission of making people feel smarter and more informed, we've had to zoom out and out and out and even further out to solve some problems that we didn't necessarily anticipate when we initially set out to create reallyread.it. The biggest of these "surprise" roadblocks is that <u>**it is surprisingly hard to find worthwhile stuff to read on the internet.**</u>
+
+It gives us great pleasure to announce that we've solved that problem!
+
+**Our solution is the Article of the Day.** It lives front and center at the top of the reallyread.it homepage. Go check it out! 
+
+Here's how it works and why it matters: 
+
+The Article of the Day isn't "curated" or "selected" by any human being. Rather, our system uses data from our reader community (in other words, everyone who has the reallyread.it extension installed). To protect user privacy, it's a totally anonymous process; users never know what other _individual_ users are reading. Rather, _everyone_ can know what _lots of people_ are reading. 
+
+We believe that stuff that's being really read is worth really reading. Since nobody actually reads clickbait, there's no place for it on reallyread.it. Ditto with fake news.
+
+Next time you find yourself with a little block of time to make yourself smarter and more informed, try really reading the reallyread.it Article of the Day. It's better than scrolling mindlessly through your Facebook feed. Or sifting through memes on reddit. Or using Google to search for "news." We've been there. We know.
+
+**In short, we can help you spend less time trying to find stuff to read so that you can spend more time really reading.**
+
+In conclusion, here's a short list of things NOT to rely on when deciding how to spend your time online: 
+1) Article titles. 
+2) Stuff your friends are sharing and liking. (Since a vast majority of them aren't really reading anything anyway.)
+3) Stuff that people are _paying_ to put in front of your eyeballs.
+
+Give it a shot and let us know what you think! 

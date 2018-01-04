@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Incorporated"
+date:   2018-01-02 14:10:32 -0400
+categories: company
+---
+As of now, we're a real company! <br>
+
+Entity Name: reallyread.it, inc. <br>
+
+Filing Jurisdiction:  Delaware<br>
+
+Entity Type:  Profit Corporation<br>
+
+Authorized Shares: 1,500<br>
+
+<br>
+<h3>
+<strong>Let's do this!</strong>
+</h3>
