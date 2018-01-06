@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Suggested Readings"
-date:   2018-01-02 14:10:32 -0400
+date:   2017-12-30 14:10:32 -0400
 categories: product
 ---
 <h1>Hello readers,</h1>
