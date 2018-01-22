@@ -6,7 +6,7 @@ categories: product
 ---
 It's as official now as it's ever going to be: **We're building a mobile app that will launch in a few months!**
 
-We are proud to be working with [DALI](http://dali.dartmouth.edu/) and, specifically, our brand new mobile development team: Shirley (PM), Dorothy and Mira (design team), Drew and Jiachen (developers). We also have Luisa, Anne, and the broader team at DALI (shout outs to Erica and Tim!)
+We are proud to be working with [DALI](http://dali.dartmouth.edu/) and, specifically, our brand new mobile development team: Shirley (PM), Dorothy and Mira (design team), Drew, Jiachen and Vivian (developers). We also have Luisa, Anne, and the broader team at DALI (shout outs to Erica and Tim!)
 
 reallyread.it is working well for people who read regularly *in the Chrome browser, on their desktop computer*. But it's not even available for people who read on their phones and tablets.
 
@@ -15,3 +15,5 @@ We're already counting down the days until we can send out a link to download [t
 The next few weeks are (hopefully!) going to be a wild ride. Stay tuned for further updates.
 
 -Bill and Jeff
+
+UPDATE (1/20/18): I corrrected the article to include Vivian!

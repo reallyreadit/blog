@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Updates!"
+date:   2018-01-19 12:30:32 -0400
+categories: product
+---
+The homepage has been transformed! We hope you like it!
+  
+Send feedback, thoughts, ideas to support@reallyread.it

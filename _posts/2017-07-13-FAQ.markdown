@@ -4,14 +4,14 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-<b>Do I need to download the extension?</b><br>
-Yes. For now, that's the only way you can get credit for fully reading things.
+<b>Why should I add the extension?</b><br>
+So that reallyread.it can track when you really read things.
 
-<b>What is the Hot Topics page?</b><br>
-Hot Topics are articles that people are commenting on, sorted in reverse chronological order.
+<b>What's on the homepage?</b><br>
+Only two things impact the algorithm that sorts our homepage: reads and comments. When our community is reading a particular article, it rises. Similarly, commenting on articles pushes them up on the homepage. Each day, the highest ranked article is crowned "Article of the Day" and it gets a little trophy to keep forever.
 
-<b>Can I "submit" an article to the Hot Topics page?</b><br>
-Totally. Just comment on anything, anywhere, and it will shoot to the top of the page.
+<b>Can I "submit" an article?</b><br>
+YES. Please do! The "submission" process is simple - just read and comment on something. Since there can't be multiple conversation threads about the same article, to "submit" an article is basically just to be the first one to comment on it. When you do, it will pop up to the homepage for everyone to see! 
 
 <b>What is the Reading List?</b><br>
 Your Reading List is private, nobody else can see it. Star articles to add them to your Reading List.
@@ -20,16 +20,15 @@ Your Reading List is private, nobody else can see it. Star articles to add them 
 Our software is sophisticated. It won't give you credit for skipping or skimming. 
 
 <b>Can I use my phone?</b><br>
-Yes and no. You have to use Chrome on Mac or PC to get credit for really reading. However, once you get credit, you can comment from any device, including mobile.
-
+Soon! We're releasing a mobile app in March. In the meantime, you have to use Chrome on Mac or PC to get credit for really reading. However, once you get credit, you can comment from any device, including mobile.
 
 <b>What does "beta" mean?</b><br>
-It means that this is a big experiment and we want your feedback. Click [here](http://blog.reallyread.it/jekyll/update/2017/07/06/beta-testers.html) for more info.  
+It means that this is a big experiment and we want your feedback!  
 
 <b>What's the reallyread.it business plan? How are you going to make money?</b><br>
-To keep our product free for our community, we license our technology (an easy-to-install embed) to publishers who want to clean up their comments sections and improve reader engagement. 
+We are licensing our technology to publishers who want to fix engagement on their websites. We aim to keep the site free forever for real readers.
 
 <b>What if I have another question?</b><br>
 Email us: support@reallyread.it
 
-
+<b>UPDATE (1/20/18): Removed all references to "Hot Topics." RIP.</b><br>
