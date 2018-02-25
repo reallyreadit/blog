@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Growth Hack Ideas"
+date:   2018-02-25 12:30:32 -0400
+categories: growth
+---
+* **Hack Twitter.** Turn the reallyread.it Twitter account into a bot that broadcasts the Article of the Day every day and tweets it at the author and publication. (For example: "Today's article of the day -link- comes from @ggreenwald in @guardian.)
+* **Outreach to Dartmouth** Work with the DALI team (brainstorm and execution) to do outreach through the best undergrad (and beyond?) channels to promote reallyread.it and the new mobile app.
+* **Hand out flyers.** In front of the Barnes & Noble on Union Square. Real readers will be hanging out there. (Do same time every week. Test different flyers & approaches.) 
+* **More flyering** Make larger, epic, hand-drawn?, full-page flyers for bulletin boards. The kind with the little rip-off thingies cut into it so people can rip-off a piece of paper that says "reallyread.it"
+* **Google Ads.** (?) Figure it out.
+* **SEO.** Ditto.
+* **Sticker campaign.** Send reallyread.it stickers to the first 100 people who make 10 or more comments on the website. Hype it up in the blog & emails. 
+* **Content Marketing.** Topic ideas: company priorities/policies, teal principals, design thinking, screens & screen-time, Matter. Growth hacks :)
+* **Reading Lists.** Not everybody is interested in reading everything, but everybody is interested in *something*. Send curated reading suggestions (BCC lists) based on what people want to read about. Examples: tech, startups, design, privacy, crypto, yoga, education, trump, etc.
+* **Influencer Campaign.** Get some important people to promote us. (For starters, add them to advisory board?)
+* **Suggested Readings Email.** Links to AOTDs, every Tuesday morning.
+* **Host an event.** At the Matter HQ in NYC. 
+* **Weekly company update emails.** Every Thursday morning. (See Content Marketing.)
+* **PR/Press/Earned Media.** (Is there a cheap, outsourced way to do this?)
+* **Make an explainer video.** 1 minute long. Very high level overview of community & idea.
+* **PRODUCT: User can share rr content via email.** ASAP.
+* **PRODUCT: User can tell all of their friends about rr.**
+
+
+
+
+
+
+
