@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Growth Hack Ideas"
-date:   2018-02-25 01:01:32 -0400
+date:   2018-02-24 01:01:32 -0400
 categories: growth
 ---
 * **Hack Twitter.** Turn the reallyread.it Twitter account into a bot that broadcasts the Article of the Day every day and tweets it at the author and publication. (For example: "Today's article of the day -link- comes from @ggreenwald in @guardian.)
