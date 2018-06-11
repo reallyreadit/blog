@@ -4,7 +4,7 @@ title:  "We're hiring"
 date:   2017-09-20 17:10:32 -0400
 categories: company
 ---
-We are seeking 2-4 interns to take on meaningful roles at [reallyread.it](https://reallyread.it/), an exciting, early-stage technology company. Interns should be ready to start immediately and commit 5-15 hours/week, including holidays and breaks, for the duration of the academic year ending in June 2017. If things go well, we may want to extend some or all of these internships through summer and/or hire full-time.
+We are seeking 2-4 interns to take on meaningful roles at [reallyread.it](https://reallyread.it/), an exciting, early-stage technology company. Interns should be ready to start immediately and commit 5-15 hours/week. If things go well, we may want to extend some or all of these internships through summer and/or hire full-time.
 
 We need hard-working, self-motivated team-players. 
 
@@ -24,8 +24,6 @@ We need a media maven to help us define and communicate our message to the world
 - community management
 
 You must be passionate about reading and knowledge. You should be a great writer and storyteller. We are especially interested in talking to candidates who have worked in product marketing roles or in the media industry, but we're open to working with highly-energetic candidates who have less experience. 
-
-We will consider Dartmouth undergraduates for this role.
 
 This is an unpaid position. 
 

@@ -4,10 +4,16 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-<b>Why should I add the extension?</b><br>
-So that reallyread.it can track when you really read things.
+<b> How do I know I'm getting credit for the articles I'm reading?</b><br>
+When the Chrome extension detects an article it displays the reallyread.it comment counter over the extension icon. Click on the extension icon and you should see the article details along with your progress.
 
-<b>What's on the homepage?</b><br>
+<b>How do I claim my pizza?</b><br>
+We'll reach out to you within 24 hours of your win in order to make arrangements.
+
+<b>What kind of pizza do I get?</b><br>
+Winning the challenge gets you $15 towards the pizza of your choice. We can either send you an e-gift certificate for a major pizza chain or make arrangements with your favorite local pizza place.
+
+<b>How do articles end up on the homepage?</b><br>
 Only two things impact the algorithm that sorts our homepage: reads and comments. When our community is reading a particular article, it rises. Similarly, commenting on articles pushes them up on the homepage. Each day, the highest ranked article is crowned "Article of the Day" and it gets a little trophy to keep forever.
 
 <b>Can I "submit" an article?</b><br>
@@ -25,10 +31,8 @@ Soon! We're releasing a mobile app in March. In the meantime, you have to use Ch
 <b>What does "beta" mean?</b><br>
 It means that this is a big experiment and we want your feedback!  
 
-<b>What's the reallyread.it business plan? How are you going to make money?</b><br>
-We are licensing our technology to publishers who want to fix engagement on their websites. We aim to keep the site free forever for real readers.
+<b>How do you make money?</b><br>
+We don't yet. But, we have plans to build some cool tools for publishers, to help them i
 
 <b>What if I have another question?</b><br>
 Email us: support@reallyread.it
-
-<b>UPDATE (1/20/18): Removed all references to "Hot Topics." RIP.</b><br>
