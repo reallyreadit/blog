@@ -4,35 +4,35 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-<b> How do I know I'm getting credit for the articles I'm reading?</b><br>
+### **What is reallyread.it?**
+First and foremost, we’re a community. A group of people who love reading and critical thinking. The platform (also called reallyread.it) is our hub. It is a radical and innovative social media network, unlike anything else on the web. By encouraging deep, real reading (versus skimming and scanning) reallyread.it makes people smarter, happier and healthier.
+
+### **What is “real” reading?** 
+Reading is the cognitive process of decoding symbols to derive meaning. Before the internet, reading something meant reading the whole thing. (This is still true with books. You wouldn’t say, “Last summer I read Moby Dick” if you only read the first page.) In our digital age, everyone “reads” everything, but nobody really reads anything. Real reading is top to bottom, beginning to end. It’s how writers intend to be read. 
+
+### **Why should I read?**
+Because it’s good for your brain. And your mental health. And your career. And your relationships. And it’s fun. Reading is like exercise, the more you do it the better you get.
+
+### **What’s wrong with Facebook, Twitter and Reddit?**
+These platforms are designed to prevent you from reading. They want you stuck in your personalized feed, scrolling past headlines, taking in quick bits of info, and, most importantly, seeing as many ads as possible. It’s always shallow and never challenging. The more you use these sites the worse you feel.
+
+### **How do I join?**
+Create an account and use the mobile app or Chrome extension to track your reading. Try to go on a streak by reading a full article (5 minutes or longer) every single day. 
+
+### **How do I know I'm getting credit for the articles I'm reading?**
 When the Chrome extension detects an article it displays the reallyread.it comment counter over the extension icon. Click on the extension icon and you should see the article details along with your progress.
 
-<b>How do I claim my pizza?</b><br>
-We'll reach out to you within 24 hours of your win in order to make arrangements.
+### **Who picks the articles on the Home page?**
+Nobody. To avoid human bias, everything is crowdsourced. Our algorithm is powered by reading data created by the community. If something is getting lots of reads, it’s probably worth reading. Nobody reads clickbait, which is why it doesn’t exist here. 
 
-<b>What kind of pizza do I get?</b><br>
-Winning the challenge gets you $15 towards the pizza of your choice. We can either send you an e-gift certificate for a major pizza chain or make arrangements with your favorite local pizza place.
+### **Is there voting? Can I “like” something?**
+No. Since reading is the fundamental currency that powers the platform, reading (or not reading) an article is effectively the same as voting for (or against) it. 
 
-<b>How do articles end up on the homepage?</b><br>
-Only two things impact the algorithm that sorts our homepage: reads and comments. When our community is reading a particular article, it rises. Similarly, commenting on articles pushes them up on the homepage. Each day, the highest ranked article is crowned "Article of the Day" and it gets a little trophy to keep forever.
+### **Who are the moderators?**  
+reallyread.it has no moderators.
 
-<b>Can I "submit" an article?</b><br>
-YES. Please do! The "submission" process is simple - just read and comment on something. Since there can't be multiple conversation threads about the same article, to "submit" an article is basically just to be the first one to comment on it. When you do, it will pop up to the homepage for everyone to see! 
+### **How does reallyread.it make money?** 
+It doesn’t. Yet. In 2019, we’ll begin experimenting with a few different business models.
 
-<b>What is the Reading List?</b><br>
-Your Reading List is private, nobody else can see it. Star articles to add them to your Reading List.
-
-<b>How do you prevent people from cheating?</b><br>
-Our software is sophisticated. It won't give you credit for skipping or skimming. 
-
-<b>Can I use my phone?</b><br>
-Soon! We're releasing a mobile app in March. In the meantime, you have to use Chrome on Mac or PC to get credit for really reading. However, once you get credit, you can comment from any device, including mobile.
-
-<b>What does "beta" mean?</b><br>
-It means that this is a big experiment and we want your feedback!  
-
-<b>How do you make money?</b><br>
-We don't yet. But, we have plans to build some cool tools for publishers, to help them i
-
-<b>What if I have another question?</b><br>
-Email us: support@reallyread.it
+### **I want to get involved. How can I help?** 
+Two things: (1) Use the platform as much as possible and send us your feedback. (2) Spread the word! Tell everyone you know about reallyread.it!
