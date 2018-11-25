@@ -4,6 +4,8 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
+[Updated: Nov 2018]
+
 ### **What is reallyread.it?**
 First and foremost, we’re a community. A group of people who love reading and critical thinking. The platform (also called reallyread.it) is our hub. It is a radical and innovative social media network, unlike anything else on the web. By encouraging deep, real reading (versus skimming and scanning) reallyread.it makes people smarter, happier and healthier.
 
