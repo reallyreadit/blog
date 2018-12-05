@@ -4,37 +4,45 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-[Updated: Nov 2018]
+[Updated: Dec 2018]
 
-### **What is reallyread.it?**
-First and foremost, we’re a community. A group of people who love reading and critical thinking. The platform (also called reallyread.it) is our hub. It is a radical and innovative social media network, unlike anything else on the web. By encouraging deep, real reading (versus skimming and scanning) reallyread.it makes people smarter, happier and healthier.
+## **What is reallyread.it?**
+We are a community. A group of people who love reading and critical thinking. Every day we read the best articles and stories from the world's top publications and independent writers. The platform (also called reallyread.it) is our hub. It's a radically new kind of social media network, one that's actually *good* for you.
 
-### **What is “real” reading?** 
-Reading is the cognitive process of decoding symbols to derive meaning. Before the internet, reading something meant reading the whole thing. (This is still true with books. You wouldn’t say, “Last summer I read Moby Dick” if you only read the first page.) In our digital age, everyone “reads” everything, but nobody really reads anything. Real reading is top to bottom, beginning to end. It’s how writers intend to be read. 
+## **What is “real” reading?** 
+Reading is the cognitive process of decoding symbols to derive meaning. Before the internet, reading something meant reading the whole thing. (This is still true with books. You wouldn’t say, “Last summer I read Moby Dick” if you only read the first page.) In our digital age, everyone “reads” everything, but nobody really reads anything. Real reading is top to bottom, beginning to end. It’s how writers intend to be read.   
 
-### **Why should I read?**
-Because it’s good for your brain. And your mental health. And your career. And your relationships. And it’s fun. Reading is like exercise, the more you do it the better you get.
+## **How can I become a better reader?** 
+Read bigger, longer, smarter stuff and you'll become a better reader. Reading is like exercise, the more you do it the better you get. It also keeps getting more and more fun. Use reallyread.it for a few months and you'll find yourself plowing through bigger and bigger books. 
 
-### **What’s wrong with Facebook, Twitter and Reddit?**
-These platforms are designed to prevent you from reading. They want you stuck in your personalized feed, scrolling past headlines, taking in quick bits of info, and, most importantly, seeing as many ads as possible. It’s always shallow and never challenging. The more you use these sites the worse you feel.
+## **How do I win?** 
+On reallyread.it, everybody wins. If you're feeling extra competitive, try getting on one of the leadersboards! 
 
-### **How do I join?**
-Create an account and use the mobile app or Chrome extension to track your reading. Try to go on a streak by reading a full article (5 minutes or longer) every single day. 
+## **Can I "like" or "upvote" things?**
+Nope. There's none of that here. It's unfortunate that liking has become ubiquitous across the web. The result is the widespread proliferation of clickbait. 
 
-### **How do I know I'm getting credit for the articles I'm reading?**
-When the Chrome extension detects an article it displays the reallyread.it comment counter over the extension icon. Click on the extension icon and you should see the article details along with your progress.
+reallyread.it is powered by reading. As such, reading (or not reading) an article is effectively the same as voting for (or against) it. 
 
-### **Who picks the articles on the Home page?**
+## **Who are the moderators?**  
+Nobody. reallyread.it has no moderators. Conversations stay civil and on-topic because the platform enforces one universal rule: nobody can comment on articles they haven't really read. 
+
+## **Who curates the articles on the Home page?**
 Nobody. To avoid human bias, everything is crowdsourced. Our algorithm is powered by reading data created by the community. If something is getting lots of reads, it’s probably worth reading. Nobody reads clickbait, which is why it doesn’t exist here. 
 
-### **Is there voting? Can I “like” something?**
-No. Since reading is the fundamental currency that powers the platform, reading (or not reading) an article is effectively the same as voting for (or against) it. 
-
-### **Who are the moderators?**  
-reallyread.it has no moderators.
-
-### **How does reallyread.it make money?** 
+## **How does reallyread.it make money?** 
 It doesn’t. Yet. In 2019, we’ll begin experimenting with a few different business models.
 
-### **I want to get involved. How can I help?** 
+## **I want to get involved. How can I help?** 
 Two things: (1) Use the platform as much as possible and send us your feedback. (2) Spread the word! Tell everyone you know about reallyread.it!
+
+
+
+
+
+
+
+
+
+Deep reading makes you smarter, healthier and happier. It's exercise for your brain. And the more you do it the better you get. 
+
+Shallow browsing, aka skimming and scanning, isn't the same thing as reading. It doesn't activate your brain circuitry in the same way. Unlike reading, it's draining and depressing. 
