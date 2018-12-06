@@ -15,7 +15,7 @@ The platform, also called reallyread.it, is our hub. It's a new breed of social 
 It's reading something entirely, from top to bottom, beginning to end. This is how writers intend for their writing to be read. Before social media, we did this more often. On the internet, we almost never do it.
 
 ## **How does it work?**
-**Mac or PC:** Add the chrome extension and create an account on our website, reallyread.it. Read and comment on articles and use the browser button to star and read articles from anywhere on the internet.
+**Mac or PC:** Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, reallyread.it. Read and comment on articles and use the browser button to star and read articles from anywhere on the internet.
 
 **iPhone or iPad:** Read on our mobile app. Find us in the App Store.  
 
