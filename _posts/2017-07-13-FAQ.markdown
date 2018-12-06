@@ -15,23 +15,18 @@ The platform, also called reallyread.it, is our hub. It's a new breed of social 
 It's reading something entirely, from top to bottom, beginning to end. This is how writers intend for their writing to be read. Before social media, we did this more often. On the internet, we almost never do it.
 
 ## **How does it work?**
-**Mac or PC:** Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, reallyread.it. Read and comment on articles and use the browser button to star and read articles from anywhere on the internet.
+**Mac or PC:** Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/). Read and comment on articles and use the browser button to star and read articles from anywhere on the internet.
 
-**iPhone or iPad:** Read on our mobile app. Find us in the App Store.  
+[**COMING SOON**] **iPhone or iPad:**  Read on our mobile app. Find us in the App Store.  
 
 ## **Does *really* reading matter?** 
-Yes. It grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. And it makes you happier and healthier. Non-reading, (skimming and scanning) accomplishes the opposite.
+Yes. It grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. And it makes you happier and healthier. Non-reading (skimming and scanning) does the opposite.
 
 ## **What if I'm not good at reading?**
-Good news: You can get good, fast. Just read, as deeply as possible, as often as possible. Reading is a lot like physical exercise. The more you do it the better you get. 
-
-## **What's an advanced reader?**
-One who no longer wonders whether or not they're an advancer reader.
+Good news: You can get good, fast. Just read, as deeply as possible and as often as possible. Reading is a lot like physical exercise, the more you do it the better you get.  
 
 ## **Can I "like" or "upvote" things?**
-No. We're proud to have done away with vanity metrics. Instead, on reallyread.it, articles rise when they get widely read and/or commented on by our community.
-
-There's also no personalized feed, which means no echo-chambers.
+No. We proud to have done away with vanity metrics. Instead, on reallyread.it, articles rise when they get widely read and/or commented on by our community. There's also no personalized feed, which means no echo-chambers.
 
 ## **Who are the moderators?**  
 reallyread.it has no moderators. Conversations stay civil and on-topic because the platform enforces one universal rule: nobody can comment on articles they haven't really read. 
