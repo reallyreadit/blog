@@ -39,8 +39,8 @@ reallyread.it has no moderators. Conversations stay civil and on-topic because t
 ## **Who curates the articles on the Home page?**
 Nobody. To avoid human bias, everything is crowdsourced. Our algorithm is powered by reading data created by the community. If something is getting lots of reads, it’s probably worth reading. Nobody reads clickbait, which is why it doesn’t exist here. 
 
-## **How does reallyread.it make money?** 
-It doesn't. Yet. And we're going broke building it, so we're in the process of raising a pre-seed round of investment. 
+## **Does reallyread.it make money?** 
+Not yet, but we're exploring several business models that cut advertisers out of the equation.
 
 ## **I want to get involved. How can I help?** 
 Two things: (1) Read and comment as much as possible and (2) tell everyone you know about reallyread.it!
