@@ -15,16 +15,12 @@ We believe in the power of deep, focused, undistracted reading. reallyread.it is
 They're crowdsourced. We collect and analyze data provided (anonymously) by the community. We know which articles are worth reading beacuse we know which articles are <i>being read</i>. 
 
 # **What else can I read?**
-### Mac or PC
-- You can read anything you want from anywhere across the web. 
-### iPhone or iPad
-- The Article of the Day and our daily Hot Reads and Top Reads. Plus, anything on your Starred or History lists. Coming soon: you'll be able to read anything you want from anywhere across the web. 
+- *Mac or PC.* You can read anything you want from anywhere across the web. 
+- *iPhone or iPad.* The Article of the Day and our daily Hot Reads and Top Reads. Plus, anything on your Starred or History lists. Coming soon: you'll be able to read anything you want from anywhere across the web. 
 
 # **How can I get started?**
-### Mac or PC
-- Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/).
-### iPhone or iPad
-- Start reading today. Download the app from the [App Store](https://itunes.apple.com/us/app/reallyread-it/id1441825432).
+- *Mac or PC.* Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/).
+- *iPhone or iPad.* Start reading today. Download the app from the [App Store](https://itunes.apple.com/us/app/reallyread-it/id1441825432).
 
 # **Does reading matter?** 
 Yes. Deep reading grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. It also makes you happier and healthier.
