@@ -6,40 +6,35 @@ categories: beta
 ---
 [Updated: Dec 2018]
 
-## **What is reallyread.it?**
-A community of readers. A group of people who enjoy thinking critically and deeply. Every day we read and talk about the best articles and stories from the world's top publications and independent writers. 
+# **What is reallyread.it?**
+A reading platform that helps you read *better* and read *more*. It's powered by a small, open community of readers and thinkers. We read and talk about the world's best articles. 
 
-The platform, also called reallyread.it, is our hub. It's a new breed of social media, powered by *actual* reading rather than likes and shares. Social media that's really, *actually* good for you. 
+We believe in the power of deep, focused, undistracted reading. reallyread.it is social media that's good for you.
 
-## **What is “real” reading?** 
-It's reading something entirely, from top to bottom, beginning to end. This is how writers intend for their writing to be read. Before social media, we did this more often. On the internet, we almost never do it.
+# **Where do the articles come from?**
+They're crowdsourced. We collect and analyze data provided (anonymously) by the community. We know which articles are worth reading beacuse we know which articles are <i>being read</i>. 
 
-## **How does it work?**
-**Mac or PC:** Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/). Read and comment on articles and use the browser button to star and read articles from anywhere on the internet.
+# **What else can I read?**
+### Mac or PC
+- You can read anything you want from anywhere across the web. 
+### iPhone or iPad
+- The Article of the Day and our daily Hot Reads and Top Reads. Plus, anything on your Starred or History lists. Coming soon: you'll be able to read anything you want from anywhere across the web. 
 
-[**COMING SOON**] **iPhone or iPad:**  Read on our mobile app. Find us in the App Store.  
+# **How can I get started?**
+### Mac or PC
+- Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/).
+### iPhone or iPad
+- Start reading today. Download the app from the [App Store](https://itunes.apple.com/us/app/reallyread-it/id1441825432).
 
-## **Does *really* reading matter?** 
-Yes. It grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. And it makes you happier and healthier. Non-reading (skimming and scanning) does the opposite.
+# **Does reading matter?** 
+Yes. Deep reading grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. It also makes you happier and healthier.
 
-## **What if I'm not good at reading?**
-Good news: You can get good, fast. Just read, as deeply as possible and as often as possible. Reading is a lot like physical exercise, the more you do it the better you get.  
+# **How can I improve my reading?**
+Just do it. Reading is an exercise, like running or lifting weights. Like all exercises, reading reinforces itself; the more you do it, the better you get.
 
-## **Can I "like" or "upvote" things?**
-No. reallyread.it has no vanity metrics. Instead, articles rise when they get widely read or commented on by our community. There's also no personalized feed, which means no echo-chambers.
+# **Does reallyread.it make money?** 
+Not yet. Our first paid products will arrive in 2019.
 
-## **Who are the moderators?**  
-reallyread.it has no moderators. Conversations stay civil and on-topic because the platform enforces one universal rule: nobody can comment on articles they haven't really read. 
+# **Contact information?**
 
-## **Who curates the articles on the Home page?**
-Nobody. To avoid human bias, everything is crowdsourced. Our algorithm is powered by reading data created by the community. If something is getting lots of reads, it’s probably worth reading. Nobody reads clickbait, which is why it doesn’t exist here. 
-
-## **Does reallyread.it make money?** 
-Not yet, but we're exploring several business models that cut advertisers out of the equation.
-
-## **I want to get involved. How can I help?** 
-Two things: (1) Read and comment as much as possible and (2) tell everyone you know about reallyread.it!
-
-## **What if I have *another* question?**
-
-Great! Send Bill an email: bill@reallyread.it 
+To get in touch with the people behind reallyread.it, email Bill: bill (at) reallyread (dot) it
