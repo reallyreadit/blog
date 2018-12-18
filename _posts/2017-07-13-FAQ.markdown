@@ -7,30 +7,22 @@ categories: beta
 [Updated: Dec 2018]
 
 # **What is reallyread.it?**
-A reading platform that helps you read *better* and read *more*. It's powered by a small, open community of readers and thinkers. We read and talk about the world's best articles. 
-
-We believe in the power of deep, focused, undistracted reading. reallyread.it is social media that's good for you.
+A reading platform that helps you read *better* and read *more*. It's powered by a small community of readers and thinkers. Join us! We read and talk about the world's best articles. reallyread.it is social media that's good for you.
 
 # **Where do the articles come from?**
-They're crowdsourced. We collect and analyze data provided (anonymously) by the community. We know which articles are worth reading beacuse we know which articles are <i>being read</i>. 
+All content is crowdsourced. Our algorithm uses reading data provided by our community of readers, aggregated and annonymized. Reads and comments cause articles to rise and longer articles get an extra boost. 
 
-# **What else can I read?**
-- *Mac or PC.* You can read anything you want from anywhere across the web. 
-- *iPhone or iPad.* The Article of the Day and our daily Hot Reads and Top Reads. Plus, anything on your Starred or History lists. Coming soon: you'll be able to read anything you want from anywhere across the web. 
+# Can I read any articles I want? 
+On Mac and PC, yes. On iPhone or iPad, soon! (In the meantime, there's a workaround: Star anything you want from desktop and you can read it on your phone.)  
 
-# **How can I get started?**
-- *Mac or PC.* Add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/).
-- *iPhone or iPad.* Start reading today. Download the app from the [App Store](https://itunes.apple.com/us/app/reallyread-it/id1441825432).
+# Does reading matter? 
+Yes. Deep, focused, undistracted reading grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. And it makes you happier and healthier.
 
-# **Does reading matter?** 
-Yes. Deep reading grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. It also makes you happier and healthier.
+# Will my reading improve?
+Yes. Reading is an exercise, like running or lifting weights. You'll see improvement right away, and the more you do it the better you get.
 
-# **How can I improve my reading?**
-Just do it. Reading is an exercise, like running or lifting weights. Like all exercises, reading reinforces itself; the more you do it, the better you get.
+# Does reallyread.it make money?
+Not yet. Everything is free for now. In 2019, we'll introduce the first paid features and products.
 
-# **Does reallyread.it make money?** 
-Not yet. Our first paid products will arrive in 2019.
-
-# **Contact information?**
-
-To get in touch with the people behind reallyread.it, email Bill: bill (at) reallyread (dot) it
+# How do I get started?
+On Mac or PC, add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/). On iPhone or iPad, download the app from the [App Store](https://itunes.apple.com/us/app/reallyread-it/id1441825432).
