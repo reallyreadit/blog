@@ -62,3 +62,35 @@ We're proud that reallyread.it is a Feed-free(TM) internet site.
 It is morally reprehensible. A phenomenon of our time that future historians will recognize as one of the more shameful human accomplishments, along with global warming,  Every major social media business makes money in the same way, through a simple feature at the center of the platform: a never-ending scroll where 
 
 Future historians will not look back fondly on 'the feed,' the technology phenomenon that currently dominates the internet, a core feature of almost every major social media platform around the world: a game of liking, served up in an endless scroll. Bite-sized pieces of information, 
+
+Why I read.
+
+Reading is everything. I'm sitting in the Island Heights Library reflecting on that fact. I have been coming here since I was 5 years old. It's exactly one block away from the house I grew up in. 
+
+Taking pictures inside a library is some amateur shit, so let me try to explain, in words, where I am and what I am talking about. I'm on a sturdy wooden chair at a sturdy wooden table. I'm staring at a wall of Danielle Steel novels. To my left, a flimsier fold-out table is piled high with broschures and handouts, various public service type things, in various languages, lots of government insignia, lots of red.  
+
+Reading connects me to the world. 
+
+If I could learn how to slow down, it would greatly improve my life. I'm restless, always. And easily distractible. On the move. 
+
+I'm telling you this because I think it has something to do with the reason I deleted all of my social media accounts. I think that if we look it in the eye, we can eliminate most suffering. And I think that all of these things, in turn, have something to do with the reason that I keep working on reallyread.it. So let me see if I can break all of that apart. 
+
+For years, social media capitalized on my weaker sensibilities - the desire for quick, silly hits. Nothing cerebral, nothing complex. Everything superficial, shallow. Facebook isn't where you go to be creatively inspired, it's where you go to turn everything off. To shut down. To just sit there and surveil for a little while. 
+
+From one alien to another, in outer space: Humans, sitting before boxes, looking at fake worlds, instead of going out and living in the real one. 
+ 
+to make the world fake and then look at it for a little while. Not soon enough, I realized that I wasn't getting enough value in exchange for how much was being extracted from me. So that's why I quit: The juice wasn't worth the squeeze. 
+
+I was an English major, which is a crazy way to spend four years. Some of the classes were "seminar"-style, meaning they involved a small group of students, usually less than ten, around a table with a member of the faculty. Homework for literature classes often involved hundreds of pages of reading and professors weren't shy about cold-calling. On a weekly basis, it was often a guarantee that you'd be asked to pipe up about Chaucer, Dickens, and a room full of friends and enemies who were ready to pipe up if you mixed up the Bronte sisters or - god forbid! - just straight up don't understand anything by Faulkner.
+
+Soon after my first year at Stanford, Apple released the iPhone and practically overnight everyone had one. It was possible to distract yourself with email or Facebook during classtime, especially in larger lectures where everyone hid behind Macbooks, but in small group discussions it was out of the question. The conversations were too intellectually demanding. And although the stakes were virtually non-existant (everyone got solid grades and was entitled to unlimited hand-holding whenever necessary) we dialed-in, got fully present, stood up for things we believed in, and everything was built upon the reading, beacuse that's where all the thinking started and ended, with something that someone wrote that was worth reading and thinking about. The people shall not perish from One Hundred Years of Solitude. 
+
+One of the purposes of reallyread.it is to create a space for elevated discourse on the internet. Not just civil, elevated. People need to do more than just respect one another. We need to start building ideas together, leaning on each other, probing the deepest recesses of thought. 
+
+As a society, we seem to have developed the hardened perspective that intelligent conversation is too much to ask for, especially online, and extra-especially on open platforms where anyone can participate. 
+
+But it's possible, and it always starts with reading. With slowing down a bit. With becoming, for just a moment, a little less cyborg and a little more human.
+
+Finally, thanks to a fascinating article I discovered on reallyread.it, I started keeping a simple dream journal. It's a riot: weird, fun, scary, and silly in all the ways you'd expect. I highly recommend it. There's a pretty big reward for very small time investment, plus it's a wonderfully relaxing way to spend the first moments of wakefulness in the morning. 
+
+Most important, just keep reading.
