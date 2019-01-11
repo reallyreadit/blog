@@ -1,9 +1,27 @@
 ---
 layout: post
-title:  "TL;DR: The internet has a reading problem."
-date:   2019-01-01 02:30:32 -0400
-categories: product
+title:  "reallyread.it iOS app is live in the App Store!"
+date:   2018-12-08
+categories: mobile
 ---
+
+
+What even *is* social media? 
+
+When Earthlings 'do' social media, what are they actually doing? (Hint: not reading.) 
+
+And what, in turn, is social media doing to us, as individuals and as a society? 
+
+No shortage of “experts” have weighed in on these questions and the world’s largest and most reputable news organizations seem [downright] [obsessed] [with] [the] [topic]. This isn't a huge surprise; these same orgnizations have the most to lose in a world where 'media’ and ‘news’ have come to mean ‘anybody anywhere saying anything.' But the questions remain unanswered. 
+
+Social media : candy :: reading : vegetables. 
+
+It's a great - and strange! - time to be building a social media platform. 
+
+'Great' because basically everyone everywhere now knows that Facebook, Twitter and Reddit are junk.
+
+But also 'strange' because user experiences, across the board, are so outrageously low. The concept of *constructive* conversation sounds impossibly idealistic. Wasting countless hours wading through an endless stream of bad content, on our feeds and in our inboxes, seems like an unavoidable reality that we should just get used to. But we shouldnt...
+
 # Imagine that an alien from outer space is watching a human use Facebook. 
 
 There's a good chance the alien would think that the human is playing a relatively boring video game. The ‘video’ part is interactive and involves a lot of rapid scrolling through information - the News Feed. The ‘game’ is the liking and sharing, the earning of points.
@@ -37,3 +55,10 @@ On both sides of the aisle, people feel misunderstood and unable to understand. 
 # Give it a try! 
 
 Join us! It's free and easy to get started. 
+
+
+We're proud that reallyread.it is a Feed-free(TM) internet site.  
+
+It is morally reprehensible. A phenomenon of our time that future historians will recognize as one of the more shameful human accomplishments, along with global warming,  Every major social media business makes money in the same way, through a simple feature at the center of the platform: a never-ending scroll where 
+
+Future historians will not look back fondly on 'the feed,' the technology phenomenon that currently dominates the internet, a core feature of almost every major social media platform around the world: a game of liking, served up in an endless scroll. Bite-sized pieces of information, 
