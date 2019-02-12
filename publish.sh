@@ -13,3 +13,5 @@ jekyll build
 aws s3 sync _site s3://blog.reallyread.it --region us-east-2 --delete
 
 JEKYLL_ENV=development
+
+git push
