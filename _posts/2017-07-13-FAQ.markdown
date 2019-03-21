@@ -7,7 +7,7 @@ categories: beta
 [Updated: Dec 2018]
 
 # **What is reallyread.it?**
-A reading platform that helps you read *better* and read *more*. It's powered by a small community of readers and thinkers. Join us! We read and talk about the world's best articles. reallyread.it is social media that's good for you.
+reallyread.it is a web platform for focused, distraction-free reading.
 
 # **Where do the articles come from?**
 All content is crowdsourced. Our algorithm uses reading data provided by our community of readers, aggregated and annonymized. Reads and comments cause articles to rise up the list. And longer articles get an extra boost. 
