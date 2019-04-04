@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title:  "We changed our name! reallyread.it is now Readup!"
-date:   2019-03-25
+title:  "Congrats to Tripleg for his 100-day reading streak!!"
+date:   2019-04-03
 categories:
 ---
 
