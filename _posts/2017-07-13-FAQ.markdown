@@ -4,25 +4,32 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-[Updated: Dec 2018]
+[Updated: April 2019]
 
-# **What is reallyread.it?**
-reallyread.it is a web platform for focused, distraction-free reading.
+# **How do articles get on Readup?**
+If several people read the same thing (or if anybody comments on anything) it will appear on the Trending list. Everything is crowdsourced by our community of readers.
 
-# **Where do the articles come from?**
-All content is crowdsourced. Our algorithm uses reading data provided by our community of readers, aggregated and annonymized. Reads and comments cause articles to rise up the list. And longer articles get an extra boost. 
+# **Who picks the Article of the Day?**
+Nobody. It's picked automatically, every night at midnight, from the top of the Trending list.
 
-# **Can I read any articles I want?**
-On Mac and PC, yes. On iPhone or iPad, soon! (In the meantime, there's a workaround: Star anything you want from desktop and you can read it on your phone.)  
-
-# **Does reading matter?**
-Yes. Deep, focused, undistracted reading grows the brain and feeds the soul. It makes you smarter and more informed about what's going on in the world. And it makes you happier and healthier.
+# **What are the stars?**
+Stars are the key to getting the most out of Readup. Whenever you see an article that you want to read later, star it. It's important to dedicate time to reading through your stars.
 
 # **Will my reading improve?**
-Yes. Reading is an exercise, like running or lifting weights. You'll see improvement right away, and the more you do it the better you'll get.
+Yep. Reading is just like exercise: the more you do it the better you get. And as you improve you'll find it more enjoyable too. 
 
-# **Does reallyread.it make money?**
-Not yet. Everything is free for now. In 2019, we'll introduce the first paid features and products.
+# **Who moderates the comments?**
+Nobody! Things stay civil since only readers can comment.
 
-# **How do I get started?**
-On Mac or PC, add the [chrome extension](https://chrome.google.com/webstore/detail/reallyreadit/mkeiglkfdfamdjehidenkklibndmljfi) and create an account on our website, [reallyread.it](https://reallyread.it/). On iPhone or iPad, download the app from the [App Store](https://itunes.apple.com/us/app/reallyread-it/id1441825432).
+# **Does Readup make money?**
+Not yet. (We're surviving on ramen!)
+
+# **How <i>will</i> Readup make money?**
+We plan to create a premium version of Readup that will unlock access to top-quality content from publishers that currently paid subscriptions.
+
+# **Who's behind Readup?**
+Two friends, [Bill](https://www.billloundy.com) (CEO)
+ and Jeff (CTO). We don't use social media, but we're fascinated by the internet and we love to read. We hope to grow the company, but first we need to grow the community. 
+
+ # **How can I help?**
+Spread the word! And send Bill a friendly email: bill@readup.com. We're love to hear from you. 
