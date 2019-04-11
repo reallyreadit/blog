@@ -6,30 +6,30 @@ categories: beta
 ---
 [Updated: April 2019]
 
-# **How do articles get on Readup?**
+**How do articles get on Readup?**<br>
 If several people read the same thing (or if anybody comments on anything) it will appear on the Trending list. Everything is crowdsourced by our community of readers.
 
-# **Who picks the Article of the Day?**
+**Who picks the Article of the Day?**<br>
 Nobody. It's picked automatically, every night at midnight, from the top of the Trending list.
 
-# **What are the stars?**
+**What are the stars?**<br>
 Stars are the key to getting the most out of Readup. Whenever you see an article that you want to read later, star it. It's important to dedicate time to reading through your stars.
 
-# **Will my reading improve?**
+**Will my reading improve?**<br>
 Yep. Reading is just like exercise: the more you do it the better you get. And as you improve you'll find it more enjoyable too. 
 
-# **Who moderates the comments?**
+**Who moderates the comments?**<br>
 Nobody! Things stay civil since only readers can comment.
 
-# **Does Readup make money?**
+**Does Readup make money?**<br>
 Not yet. (We're surviving on ramen!)
 
-# **How <i>will</i> Readup make money?**
+**How <i>will</i> Readup make money?**<br>
 We plan to create a premium version of Readup that will unlock access to top-quality content from publishers that currently offer paid subscriptions. Profoundly positive reading experiences (distraction-free, amazing content) are worth paying for. We might even have to get into the hardware game if someone doesn't solve that problem. Reading digital content should be just as delightful as reading a book.
 
-# **Who's behind Readup?**
+**Who's behind Readup?**<br>
 Two friends, [Bill](https://www.billloundy.com) (CEO)
  and Jeff (CTO). We don't use social media, but we're fascinated by the internet and we love to read.
 
-# **How can I help?**
+**How can I help?**<br>
 Spread the word! And send Bill a friendly email: bill@readup.com. We'd love to hear from you. 
