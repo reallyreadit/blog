@@ -43,4 +43,4 @@ Readup began when I called Jeff, totally out of the blue, and said, "Let's fix c
 
 Readup should be a place where you can speak your mind freely. Be honest. Be yourself. Be wrong. Be weird. Think out loud. Work through things. I know how hard all of this can be. I recently started posting on my [personal site](https://billloundy.com/). "Torture" isn't a strong enough word. (Now you see why I was ruminating on that David Foster Wallace quote?) It might be true that speaking freely makes us human, but that doesn't make it easy. And if Readup can make it one iota easier, we're definitely on to something.  
 
-**What do you think? Whether you're brand new to Readup or you've been around for a while, We'd love to hear from you. Why do you or don't you comment? Where should we go next with this crazy experiment?**
+**What do you think? Whether you're brand new to Readup or you've been around for a while, we'd love to hear from you. Why do you or don't you comment? Where should we go next with this crazy experiment?**
