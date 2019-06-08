@@ -28,7 +28,7 @@ gems:
 
 # Author details.
 bill_loundy:
-    name: Bill Loundy
+    author.name: Bill Loundy
     email: bill@readup.com
     web: https://billloundy.com/about.html
 
