@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fear and loathing in the comments 
+title:  Fear and Loathing in the Comments 
 date:   2019-05-24
 ---
 We've always had big plans for the Readup blog. It's the perfect place for general announcements and updates. But more importantly, it's the ideal forum for talking through some of the messier stuff that's happening behind the scenes and soliciting feedback from the readers in our community. So getting this blog up and running in a real and meaningful way has been a no-brainer from the very beginning. 
