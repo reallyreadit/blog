@@ -50,6 +50,6 @@ That’s one of several passages that I surrounded with stars and exclamation po
 
 **The solution has never _not_ been reading. Now, for the first time ever, the solution is measurable.** 
 
-Eighty years from now, we’ll look back on one hundred years of screen time. What a fantastical thing to consider, as we sit here, reading and writing that story as we speak. 
+Eighty years from now, we’ll look back on one hundred years of screen time. What a fantastical thing to consider, that we're reading and writing that story as we speak. 
 
 **What say you? About Stats. About screen time. About anything and everything. Your feedback is our future.**
