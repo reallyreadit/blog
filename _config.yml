@@ -26,6 +26,12 @@ markdown: kramdown
 gems:
   - jekyll-feed
 
+# Author details.
+bill_loundy:
+    name: Bill Loundy
+    email: bill@readup.com
+    web: https://billloundy.com/about.html
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
