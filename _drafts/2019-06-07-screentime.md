@@ -2,7 +2,7 @@
 layout: post
 title:  One Hundred Years of Screen Time 
 date:   2019-06-07
-author: bill_loundy
+author: Bill Loundy
 ---
 For quite some time, I’ve struggled to explain the rationale behind what appears to be the most glaringly hypocritical aspect of my life: I’m the CEO of a tech company that makes [an app], and yet I refuse to use a smartphone. I have a flip phone. Most peoples’ eyes glaze over when I try clarify that, first of all, Readup isn’t just an app. It’s a platform. And since I tend to be long-winded anyway, it’s an approach that’s never going to work. I need a new angle. 
 
