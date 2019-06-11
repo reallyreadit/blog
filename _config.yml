@@ -38,4 +38,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - LICENSE.txt
+  - publish.sh
   - README.md
