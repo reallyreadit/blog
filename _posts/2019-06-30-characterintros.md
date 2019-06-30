@@ -22,19 +22,19 @@ The idea is to make hanging with readers online as cool as it is to hang with re
 
 Communities are as strong as their leaders. The usernames that appear on the Leaderboards are the lifeblood that keeps Readup alive.
 
-<b>(3) Motivate more people to read.</b>
+Using Readup is your gift to the world. If you appear on the Leaderboards, you're a _really good_ gift-giver. We see the badges as tiny tokens of our genuine, heartfelt gratitude. You <i>are</i> not just the reason that this thing exists, you are the thing itself. 
 
-Anything that gets people reading is good. At one point in the company history, we gave away free pizza to cajole people into reading every day. At libraries all around the world, librarians give out treats and prizes and words of encouragement to get children _and adults_ reading. Similarly, we believe in carrots, not sticks. Reading on the internet shouldn't be a carrotless endeavor. On the contrary, it should be abundantly fruitful.
+<b>(3) Inspire people to read.</b>
 
-Similarly, Stats feature is a carrot. Designed to reward you for good behavior, by showing you helpful information about your reading habits.
+Anything that motivates people to read is a good thing. Librarians all around the world are bribing kids into reading with candy. This time last year, we were giving away pizzas to cajole people into a daily reading habit. 
 
-Each carrot, in turn, sometimes feels like a shot in the dark. That's why we want as much of your feedback as possible, all along the way.
+We believe in carrots, not sticks. Reading on the internet shouldn't be a carrotless endeavor. It should be abundantly fruitful.
 
-Reading, by definition, is a solitary endeavor. Like painting a picture or going scuba diving, it’s basically the opposite of a game. It’s also free. That’s what makes it more like a gift, one that you can give to yourself whenever you want. The cost, however, is your most valuable resource: time. 
+Building and launching carrots into the internet often feels like taking a shot in the dark. That's why we rely on your feedback, all along the way.
+
+Reading, like painting a picture or going scuba diving, is the opposite of a game. And it’s free. It's more like a gift, one that you can give to yourself whenever you want. The cost, however, is your most valuable resource: time. 
 
 The act of reading and the prize of reading are inextricably bound.
-
-When you use Readup, you’re also giving a gift to the rest of the world. And if you appear on the Leaderboards, it means you’re a really spectacular gift-giver. We see the badges as tiny tokens of our genuine gratitude. You <i>are</i> this thing. 
 
 > SCRIBES are the reason that conversations on Readup are better than anywhere else on the internet. If "community conversationalists" wasn't such a mouthful of an expression, we would have called them that. **They earn The Quill.**
 
