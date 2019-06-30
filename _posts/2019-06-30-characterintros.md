@@ -26,13 +26,13 @@ Using Readup is your gift to the world. If you appear on the Leaderboards, you'r
 
 <b>(3) Inspire people to read.</b>
 
-Anything that motivates people to read is a good thing. Librarians all around the world are bribing kids into reading with candy. This time last year, we were giving away pizzas to cajole people into a daily reading habit. 
+Anything that motivates people to read is a good thing. Librarians all around the world are bribing kids into reading with candy. This time last year, Readup was cajoling people into a daily reading habit with, of all things, free pizza.
 
-We believe in carrots, not sticks. Reading on the internet shouldn't be a carrotless endeavor. It should be abundantly fruitful.
+We believe in carrots (and pizza) not sticks. Reading on the internet shouldn't be a carrotless (meaning: rewardless) endeavor.
 
 Building and launching carrots into the internet often feels like taking a shot in the dark. That's why we rely on your feedback, all along the way.
 
-Reading, like painting a picture or going scuba diving, is the opposite of a game. And it’s free. It's more like a gift, one that you can give to yourself whenever you want. The cost, however, is your most valuable resource: time. 
+Reading, like painting a picture or going scuba diving, is the opposite of a game. And it’s free. It's a gift that you can give to yourself whenever you want. The cost is your most valuable resource: time. 
 
 The act of reading and the prize of reading are inextricably bound.
 
