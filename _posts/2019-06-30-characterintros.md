@@ -14,7 +14,7 @@ Here’s what we aim to accomplish with this update:
 
 It’s not possible to make the act of reading any better than it already is. It’s perfect. It’s a solo endeavor, a moment of sacred communion between reader and writer, one that transcends time and space. Reading works. That’s why we’re not messing with it. (In fact, we spend a lot of time trying to “un-mess” what the internet has done to it.) 
 
-But that doesn't mean that there's not a lot that tech can do to increase the quality of <i>community engagement</i> aspect of reading, which in many cases can be as fun and enriching as act of reading itself. 
+But that doesn't mean that there's not a lot that technology can do to improve the <i>commmunity aspect</i> of the experience - what happens after you finish reading something. In many cases, the conversation that follows the act of reading can be just as enriching as the act of reading itself.
 
 The idea is to make hanging with readers online as cool as it is to hang with readers in the real world. The leaderboard should feel frivolous, but also useful, inspiring, and practical.
 
