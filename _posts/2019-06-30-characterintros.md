@@ -22,7 +22,9 @@ The idea is to make hanging with readers online as cool as it is to hang with re
 
 Communities are as strong as their leaders. The usernames that appear on the Leaderboards are the lifeblood that keeps Readup alive.
 
-Using Readup is your gift to the world. If you appear on the Leaderboards, you're a _really good_ gift-giver. We see the badges as tiny tokens of our genuine, heartfelt gratitude. You <i>are</i> not just the reason that this thing exists, you are the thing itself. 
+Using Readup is your gift to the world. If you appear on the Leaderboards, you're a _really good_ gift-giver. We see the badges as tiny tokens of our genuine, heartfelt gratitude. 
+
+You aren't just the reason that this thing exists, you <i>are</i> the thing itself. 
 
 <b>(3) Inspire people to read.</b>
 
