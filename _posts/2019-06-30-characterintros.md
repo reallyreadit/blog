@@ -44,7 +44,7 @@ The act of reading and the prize of reading are inextricably bound.
 
 <hr>
 
-**SCOUTS** forage the internet for articles and stories that are worthy of the platform. These folks have the key to the conversations on Readup. They mine the incredible raw materials (articles and stories) that get served up on Readup. **They earn the Pair of Binoculars.** 
+**SCOUTS** forage the internet for articles and stories that are worthy of the platform. They mine for precious raw materials (articles and stories) that get served up on Readup. **They earn the Pair of Binoculars.** 
 
 <hr>
 
