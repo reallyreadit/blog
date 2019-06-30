@@ -16,9 +16,9 @@ It’s not possible to make the act of reading any better than it already is. It
 
 But that doesn't mean that there's not a lot that technology can do to improve the <i>commmunity aspect</i> of the experience - what happens after you finish reading something. In many cases, the conversation that follows the act of reading can be just as enriching as the act of reading itself.
 
-The idea is to make hanging with readers online as cool as it is to hang with readers in the real world. The leaderboard should feel frivolous, but also useful, inspiring, and practical.
+The idea is to make hanging with readers online as cool as it is to hang with readers in the real world. The Leaderboard should feel frivolous, but also useful, inspiring, and practical.
 
-<b>(2) Recognize the leaders of the community.</b>
+<b>(2) Recognize the Leaders of the community.</b>
 
 Communities are as strong as their leaders. The usernames that appear on the Leaderboards are the lifeblood that keeps Readup alive.
 
