@@ -28,7 +28,7 @@ You aren't just the reason that this thing exists, you <i>are</i> the thing itse
 
 <b>(3) Inspire people to read.</b>
 
-Anything that motivates people to read is a good thing. Librarians all around the world are bribing kids into reading with candy. This time last year, Readup was cajoling people into a daily reading habit with, of all things, free pizza.
+Anything that motivates people to read is a good thing. Librarians all around the world bribe kids into reading with candy. At precisely this time last year, Readup was cajoling people into a daily reading habit with, of all things, free pizza.
 
 We believe in carrots (and pizza) not sticks. Reading on the internet shouldn't be a carrotless (meaning: rewardless) endeavor.
 
