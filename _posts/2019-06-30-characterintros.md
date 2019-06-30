@@ -6,6 +6,8 @@ author: Bill Loundy
 ---
 We are pleased to announce some major updates to the Leaderboards. In addition to sprucing up the old Leaderboards, we’re introducing two new leadership concepts to the Readup community: Readup Scouts and Readup Scribes.
 
+<img src="https://blog.readup.com/pics/leaderboardsv2.png">
+
 Here’s what we aim to accomplish with this update: 
 
 <b>(1) Make Readup more interesting and fun.</b>
