@@ -36,8 +36,6 @@ The act of reading and the prize of reading are inextricably bound.
 
 When you use Readup, you’re also giving a gift to the rest of the world. And if you appear on the Leaderboards, it means you’re a really spectacular gift-giver. We see the badges as tiny tokens of our genuine gratitude. You <i>are</i> this thing. 
 
-Without further ado, here are the new ones: 
-
 > SCRIBES are the reason that conversations on Readup are better than anywhere else on the internet. If "community conversationalists" wasn't such a mouthful of an expression, we would have called them that. **They earn The Quill.**
 
 > SCOUTS forage the internet for articles and stories that are worthy of the platform. These folks have the key to the conversations on Readup. They mine the incredible raw materials (articles and stories) that get served up on Readup. **They earn the Pair of Binoculars.** 
