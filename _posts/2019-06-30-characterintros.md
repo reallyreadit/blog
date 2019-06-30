@@ -36,10 +36,14 @@ Reading, like painting a picture or going scuba diving, is the opposite of a gam
 
 The act of reading and the prize of reading are inextricably bound.
 
-> SCRIBES are the reason that conversations on Readup are better than anywhere else on the internet. If "community conversationalists" wasn't such a mouthful of an expression, we would have called them that. **They earn The Quill.**
+<hr>
 
-> SCOUTS forage the internet for articles and stories that are worthy of the platform. These folks have the key to the conversations on Readup. They mine the incredible raw materials (articles and stories) that get served up on Readup. **They earn the Pair of Binoculars.** 
+**SCRIBES** are the reason that conversations on Readup are better than anywhere else on the internet. If "community conversationalists" wasn't such a mouthful of an expression, we would have called them that. **They earn The Quill.**
 
 <hr>
 
-<i><b>What can Readup do to propel your reading abilities and experiences. Hit us up in the comments! </b></i>
+**SCOUTS** forage the internet for articles and stories that are worthy of the platform. These folks have the key to the conversations on Readup. They mine the incredible raw materials (articles and stories) that get served up on Readup. **They earn the Pair of Binoculars.** 
+
+<hr>
+
+<i><b>What can Readup do to propel your reading abilities and experiences? Hit us up in the comments! </b></i>
