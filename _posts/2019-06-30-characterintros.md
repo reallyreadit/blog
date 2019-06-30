@@ -46,4 +46,4 @@ The act of reading and the prize of reading are inextricably bound.
 
 <hr>
 
-<i><b>What can Readup do to propel your reading abilities and experiences? Hit us up in the comments! </b></i>
+<i><b>What can Readup do to propel your reading abilities and experiences? Hit us up in the [comments](https://readup.com/comments/blogreadupcom/be-a-readup-leader)! </b></i>
