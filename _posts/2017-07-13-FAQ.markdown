@@ -4,45 +4,76 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-[Updated: July 2019]
-
-**Can I read anything I want on Readup?**
-
-Yes!
-
-_On your laptop or PC,_ use the Chrome extension to read anything you want in the Chrome browser, or star things for later. Your starred list is your personal reading list.
-
-_On your iPhone_, you can star things (from Safari, for example) by using the share extension button:
+<div style="font-size:25px">
+Who curates the articles on Readup?
+</div>
+<div>
+Nobody. They're crowdsourced by the community. 
+</div>
+<br>
+<div style="font-size:25px">
+Can I read anything I want on Readup?
+</div>
+<div>
+Yes! <br>
+<strong><i>On your laptop or PC,</i></strong> use the Chrome extension to read anything you want in the Chrome browser, or star things for later. Your starred list is your personal reading list.<br>
+<strong><i>On your iPhone</i></strong>, you can star things (from Safari, for example) by using the share extension button:</div><br>
 <div align="middle">
 <img src= "https://blog.readup.com/pics/shareicon.png" width="40px">
 </div>
 <div>
-
 Starred articles will appear on your starred list. 
-
-**Who curates the articles on Readup?**<br>
-Nobody. They're crowdsourced by the community. 
-
-**Who picks the Article of the Day?**<br>
-Nobody. It's picked automatically, every night at midnight, from the top of the Trending list.
-
-**What are the stars?**<br>
+</div>
+<br>
+<div style="font-size:25px">
+Who picks the Article of the Day?
+</div>
+<div>
+Nobody. The AOTD is chosen automatically, every night at midnight, from the top of the Trending list.
+</div>
+<br>
+<div style="font-size:25px">
+What's the purpose of stars?
+</div>
+<div>
 Stars are the key to getting the most out of Readup. Whenever you see an article that you want to read later, star it. It's important to dedicate time to reading through your stars.
-
-**Will my reading improve?**<br>
+</div>
+<br>
+<div style="font-size:25px">
+Will my reading improve?
+</div>
+<div>
 Yes. Reading is like exercise. The more you read the better you'll get at reading.
-
-**Who moderates the comments?**<br>
+</div>
+<br>
+<div style="font-size:25px">
+Who moderates the comments?
+</div>
+<div>
 Nobody. Readup has no moderators.
-
-**Who's behind Readup?**<br>
-Two friends, [Bill Loundy](https://www.billloundy.com/about.html) and Jeff Camera. We don't use social media, but we love the technology and we really love reading.  
-
-**Does Readup make money?**<br>
-Not yet. We're surviving on ramen.
-
-**How <i>will</i> Readup make money?**<br>
-We plan to create a premium version of Readup that will unlock access to top-quality content from publishers that currently offer paid subscriptions. We think that profoundly positive reading experiences (distraction-free, amazing content) are worth paying for.
-
-**How can I help?**<br>
-Spread the word! And send Bill a friendly email: bill@readup.com. We'd love to hear from you. 
+</div>
+<br>
+<div style="font-size:25px">
+Who created Readup?
+</div>
+<div>
+Two friends, <a href="https://www.billloundy.com/about.html">Bill Loundy</a> and Jeff Camera. We don't use any social media, but we love technology and the internet, and, of course, we really love reading.</div>  
+<br>
+<div style="font-size:25px">
+Does Readup make money?
+</div>
+<div>
+Not yet.</div>
+<br>
+<div style="font-size:25px">
+Will Readup ever make money?
+</div>
+<div>
+Yes. Eventually we'll start offering premium features and products that will cost money.
+</div>
+<br>
+<div style="font-size:25px">
+How can I help?
+</div>
+<div>
+Spread the word! And send Bill a friendly email: bill@readup.com. We'd love to hear from you.</div>
