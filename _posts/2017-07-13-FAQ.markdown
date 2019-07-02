@@ -5,14 +5,14 @@ date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
 <div style="font-size:25px">
-Who curates the articles on Readup?
+<strong>Who curates the articles on Readup?</strong>
 </div>
 <div>
 Nobody. They're crowdsourced by the community. 
 </div>
 <br>
 <div style="font-size:25px">
-Can I read anything I want on Readup?
+<strong>Can I read anything I want on Readup?</strong>
 </div>
 <div>
 Yes!<br>
@@ -23,47 +23,47 @@ Yes!<br>
 </div>
 <br>
 <div style="font-size:25px">
-Who picks the Article of the Day?
+<strong>Who picks the Article of the Day?</strong>
 </div>
 <div>
 Nobody. The AOTD is chosen automatically, every night at midnight, from the top of the Trending list.
 </div>
 <br>
 <div style="font-size:25px">
-Will my reading improve?
+<strong>Will my reading improve?</strong>
 </div>
 <div>
 Yes. Reading is like exercise. The more you do it the better you get.
 </div>
 <br>
 <div style="font-size:25px">
-Who moderates the comments?
+<strong>Who moderates the comments?</strong>
 </div>
 <div>
 Nobody. Readup has no moderators.
 </div>
 <br>
 <div style="font-size:25px">
-Who created Readup?
+<strong>Who created Readup?</strong>
 </div>
 <div>
 Two friends, <a href="https://www.billloundy.com/about.html">Bill Loundy</a> and Jeff Camera. We don't use any social media, but we love technology and the internet, and, of course, we really love reading.</div>  
 <br>
 <div style="font-size:25px">
-Does Readup make money?
+<strong>Does Readup make money?</strong>
 </div>
 <div>
 Not yet.</div>
 <br>
 <div style="font-size:25px">
-Will Readup ever make money?
+<strong>Will Readup ever make money?</strong>
 </div>
 <div>
 Yes. Eventually we'll start offering premium features and products that will cost money.
 </div>
 <br>
 <div style="font-size:25px">
-How can I help?
+<strong>How can I help?</strong>
 </div>
 <div>
 Spread the word! Also, send us an email us if you have suggestions about how we can improve. Email: bill@readup.com</div>
