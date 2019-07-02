@@ -10,9 +10,9 @@ categories: beta
 
 Yes!
 
-On your laptop or PC, use the Chrome extension to read anything you want in the Chrome browser, or star things for later. Your starred list is your personal reading list.
+_On your laptop or PC,_ use the Chrome extension to read anything you want in the Chrome browser, or star things for later. Your starred list is your personal reading list.
 
-To star things from your iPhone (from Safari, for example) use the share extension button:
+_On your iPhone_, you can star things (from Safari, for example) by using the share extension button:
 <div align="middle">
 <img src= "https://blog.readup.com/pics/shareicon.png" width="40px">
 </div>
