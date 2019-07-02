@@ -4,10 +4,24 @@ title:  "FAQ"
 date:   2017-07-12 17:10:32 -0400
 categories: beta
 ---
-[Updated: April 2019]
+[Updated: July 2019]
 
-**How do articles get on Readup?**<br>
-If several people read the same thing (or if anybody comments on anything) it will appear on the Trending list. Everything is crowdsourced by our community of readers.
+**Can I read anything I want on Readup?**
+
+Yes!
+
+On your laptop or PC, use the Chrome extension to read anything you want in the Chrome browser, or star things for later. Your starred list is your personal reading list.
+
+To star things from your iPhone (from Safari, for example) use the share extension button:
+<div align="middle">
+<img src= "https://blog.readup.com/pics/shareicon.png" width="40px">
+</div>
+<div>
+
+Starred articles will appear on your starred list. 
+
+**Who curates the articles on Readup?**<br>
+Nobody. They're crowdsourced by the community. 
 
 **Who picks the Article of the Day?**<br>
 Nobody. It's picked automatically, every night at midnight, from the top of the Trending list.
@@ -16,20 +30,19 @@ Nobody. It's picked automatically, every night at midnight, from the top of the 
 Stars are the key to getting the most out of Readup. Whenever you see an article that you want to read later, star it. It's important to dedicate time to reading through your stars.
 
 **Will my reading improve?**<br>
-Yep. Reading is just like exercise: the more you do it the better you get. And as you improve you'll find it more enjoyable too. 
+Yes. Reading is like exercise. The more you read the better you'll get at reading.
 
 **Who moderates the comments?**<br>
-Nobody! Things stay civil since only readers can comment.
-
-**Does Readup make money?**<br>
-Not yet. (We're surviving on ramen!)
-
-**How <i>will</i> Readup make money?**<br>
-We plan to create a premium version of Readup that will unlock access to top-quality content from publishers that currently offer paid subscriptions. Profoundly positive reading experiences (distraction-free, amazing content) are worth paying for. We might even have to get into the hardware game if someone doesn't solve that problem. Reading digital content should be just as delightful as reading a book.
+Nobody. Readup has no moderators.
 
 **Who's behind Readup?**<br>
-Two friends, [Bill](https://www.billloundy.com) (CEO)
- and Jeff (CTO). We don't use social media, but we're fascinated by the internet and we love to read.
+Two friends, [Bill Loundy](https://www.billloundy.com/about.html) and Jeff Camera. We don't use social media, but we love the technology and we really love reading.  
+
+**Does Readup make money?**<br>
+Not yet. We're surviving on ramen.
+
+**How <i>will</i> Readup make money?**<br>
+We plan to create a premium version of Readup that will unlock access to top-quality content from publishers that currently offer paid subscriptions. We think that profoundly positive reading experiences (distraction-free, amazing content) are worth paying for.
 
 **How can I help?**<br>
 Spread the word! And send Bill a friendly email: bill@readup.com. We'd love to hear from you. 
