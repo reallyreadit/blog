@@ -15,14 +15,11 @@ Nobody. They're crowdsourced by the community.
 Can I read anything I want on Readup?
 </div>
 <div>
-Yes! <br>
-<strong><i>On your laptop or PC,</i></strong> use the Chrome extension to read anything you want in the Chrome browser, or star things for later. Your starred list is your personal reading list.<br>
-<strong><i>On your iPhone</i></strong>, you can star things (from Safari, for example) by using the share extension button:</div><br>
+Yes!<br>
+<strong><i>- On your laptop or PC,</i></strong> use the Chrome extension to read anything you want in the Chrome browser, or star things for later.<br>
+<strong><i>- On your iPhone</i></strong>, you can add articles or stories to your starred list (from Safari, for example) by using the share extension button:</div>
 <div align="middle">
 <img src= "https://blog.readup.com/pics/shareicon.png" width="40px">
-</div>
-<div>
-Starred articles will appear on your starred list. 
 </div>
 <br>
 <div style="font-size:25px">
@@ -33,17 +30,10 @@ Nobody. The AOTD is chosen automatically, every night at midnight, from the top 
 </div>
 <br>
 <div style="font-size:25px">
-What's the purpose of stars?
-</div>
-<div>
-Stars are the key to getting the most out of Readup. Whenever you see an article that you want to read later, star it. It's important to dedicate time to reading through your stars.
-</div>
-<br>
-<div style="font-size:25px">
 Will my reading improve?
 </div>
 <div>
-Yes. Reading is like exercise. The more you read the better you'll get at reading.
+Yes. Reading is like exercise. The more you do it the better you get.
 </div>
 <br>
 <div style="font-size:25px">
@@ -76,4 +66,4 @@ Yes. Eventually we'll start offering premium features and products that will cos
 How can I help?
 </div>
 <div>
-Spread the word! And send Bill a friendly email: bill@readup.com. We'd love to hear from you.</div>
+Spread the word! Also, send us an email us if you have suggestions about how we can improve. Email: bill@readup.com</div>
