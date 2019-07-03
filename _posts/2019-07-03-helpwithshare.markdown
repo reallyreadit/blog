@@ -11,22 +11,26 @@ And why do humans share things with other humans?
 Amongst the Readup crew (meaning: me and Jeff) "share" is now officially a meme, a meta-answer to all the things we can't quite figure out: 
 
 - How are we going to grow? _Share._ 
-- When are we going to fundraise? _When we have share._ 
+- When are we going to fundraise? _Once we figure out share._ 
 - What's the purpose of the company? _Share._ 
 
-The concept of "share" is just elusive enough to be an appropriate answer to pretty much everything. But like all memes, the thing that makes it funny is also the thing that has a bit of sting. And it hurts because... well... it's true.
+The concept of "share" is just elusive enough to be an appropriate response to pretty much everything. But like all memes, the thing that makes it funny is also the thing that makes it sting a little bit. And it hurts because... well... it's true.
 
-We haven't figured out "share." And we need to.
+We haven't figured out Share. And we really, seriously need to. Pronto.
 
-I want to walk you through out thoughts and feelings (and failures) related to share, in hopes that you might be able to help us crack this case and achieve the huge explosive growth we're after. Our ambition is to be something much greater than just a quirky little hub of free-thinking on the web. We want to raise conciousness in a big way. We want everyone, everywhere to be able to have excellent distraction-free reading experiences, _and to be able to distinguish true reading from pseudo-reading activities like scrolling through a feed, skimming headlines, and bouncing around from article to article, task to task.
+I want to walk you through our thoughts and feelings (and failures) related to Share, in hopes that you might be able to help us crack this case and achieve the explosive growth we're after. Our ambition is to be something much greater than just a quirky little hub of free-thinking on the web. We want to raise conciousness and critical thinking _across the web_. We want everyone, everywhere to be able to have excellent distraction-free reading experiences, and to be able to distinguish true reading from pseudo-reading activities like scrolling through a feed, skimming headlines, and bouncing around from article to article, task to task.
 
-In the early days of the company, I used to describe Readup (which was then called reallyreadit) as, "a social media platform without liking and sharing." That's only partially true, but more importantly it misses the big point. Here's an attempt to clarify:
+Back in the early days, I used to describe Readup (which was then called reallyreadit [yikes]) as, "a social media platform without liking and sharing." That's a pretty awesome claim, and it still resonates with people. But it's an oversimplification. It's only _partially_ true. It misses the bigger, even better, point. Here's an attempt to clarify:
 
-Most social media networks, including Facebook and Twitter for example, have "liking" and "sharing" at the very core of their existence. These behaviors power the feed. And the feed, in turn, powers the business model, since that's where the ads appear. Without liking and sharing, everything would come to a grinding halt.
+Most social media networks, including Facebook and Twitter for example, have "liking" and "sharing" at the very core of their existence. These are the behaviors that power the Feed. And the Feed, in turn, powers the business, because that's where the ads appear. In other words, the Feed is the thing that makes money and without liking and sharing, everything would come to a grinding halt.
 
-Polling people isn't a good way to figure out what's going on. Aggregate, hairbrained opinions are often misleading and irrelevant, lacking in nuance. Observing _behavior_ on the other hand -- seeing what people _do_ rather than what they _say_ -- can be truly insightful.
+Unfortunately, likes and shares are extraordinarily superficial. You don't need to do anything, you don't even need to think, to like something or share it. More broadly, social scientists know that polling people isn't a good way to figure out what they actually think about a topic. So even if people were taking the time to seriously consider something before liking and sharing it, it _still_ wouldn't be particularly accurate. 
 
-So, "Readup doesn't have likes and shares" is actually an understatement. In lieu of all that junk machinery, we have a proven way to determine who's read what, in detail, at scale. Instead of likes, we have _reads_. On Readup, read something is roughly equivalent to giving it a like, a promotion. 
+Aggregate, hairbrained opinions are misleading and irrelevant at best, lacking in nuance, and at worst, they're completely false. They amplify nonsense and make it look like a signal within the noise, when it's actually still just noise within more noise. 
+
+Observing _behavior_ on the other hand -- seeing what people _do_ rather than what they _say_ -- can be truly insightful.
+
+So, "Readup doesn't have likes and shares" is actually an understatement. In lieu of all that junk machinery, we have a proven way to determine who's read what -- in fine-grained detail, at scale. Instead of likes, we have _reads_. On Readup, reading something is roughly equivalent to giving it a like, a bump up, a promotion. And you don't even need to do it consciously. Reading, by definition, requires consciousness and intentionality, so those principles are baked into the cake already. 
 
 Of course, nobody knows what you've read (because obviously; that would be weird) and the net result is a very _honest_ way to curate articles. 
 
