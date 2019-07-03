@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  On sharing
+title:  Readup needs help figuring out "share"
 date:   2019-07-03
 author: Bill Loundy
 ---
