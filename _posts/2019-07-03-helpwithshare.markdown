@@ -58,4 +58,4 @@ What's on your mind right now? This blog post is an attempt to tease apart an ex
 
 **What does Readup need to build to get you sharing some [thing/idea/comment/concept/piece of content] with the rest of the world?** 
 
-**Imagine using Readup for an entire afternoon. Imagine that you are reading and commenting on a handful of powerful articles and stories. And imagine that _part of that experience_ involves roping in some friends and family, or cross-posting to your other platforms. Can you envision that? If so, - and even if it's a little bit murky - please tell us exactly what you're seeing. How are you sharing? What are you sharing? And the biggest question of all: Why?**
+**Imagine using Readup for an entire afternoon. Imagine that you are reading and commenting on a handful of powerful articles and stories. And imagine that _part of that experience_ involves roping in some friends and family, or cross-posting to your other platforms. Can you envision that? If so - and even if it's a little bit murky - please tell us exactly what you're seeing. How are you sharing? What are you sharing? And the biggest question of all: Why?**
