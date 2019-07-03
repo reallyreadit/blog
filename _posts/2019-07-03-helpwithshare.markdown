@@ -32,13 +32,21 @@ Observing _behavior_ on the other hand -- seeing what people _do_ rather than wh
 
 So, "Readup doesn't have likes and shares" is actually an understatement. In lieu of all that junk machinery, we have a proven way to determine who's read what -- in fine-grained detail, at scale. Instead of likes, we have _reads_. On Readup, reading something is roughly equivalent to giving it a like, a bump up, a promotion. And you don't even need to do it consciously. Reading, by definition, requires consciousness and intentionality, so those principles are baked into the cake already. 
 
-Of course, nobody knows what you've read (because obviously; that would be weird) and the net result is a very _honest_ way to curate articles. 
+Of course, nobody knows what you, as an individual, have read - because obviously. That would just be weird. But the net result of these hundreds of thousands of anonymous little data points is a way to curate articles that's significantly more honest, interesting, transparent, and "accurate"* than anything else out there. (*A relatively solid definition for "fake news" might be: that which people _like_ and _share_ without actually reading.) 
 
-This is a _profound_ innovation, and something that we think is going to sweep the world. Who cares what people _say_ they're reading. Can you even imagine how transformative it would be if we could all tap into data about what everyone was _actually_ reading? 
+This is where "network effects" come into play. As Readup grows, it keeps getting better.
 
-That's the goal, and we'll be able to make that happen in the coming years, as long as we can also figure out... you guessed it: share.
+This no-likes no-shares network is a _profound_ innovation, if we can get it growing. We think it's something that could change the world. Who cares what people _say_ they're reading? Can you even imagine how transformative it would be if we could all tap into data about what everyone was _actually_ reading? What if we incentivize journalists and politicians to make the move? Knowing what we know about how reading has the power to bring people together, it's hard to avoid intense bouts of extreme optimism.
 
-One of our several failed attempts at share still currently exists on the site. If you haven't noticed it, you're not alone:  
+But it's a dangerous, even cruel optimism. Because we can only make it happen if we can also figure out... you guessed it: Share.
+
+When we say "Share" we aren't referring to a "share" feature. In fact, we don't even _know_ what we're referring to, but we think it's an external kind of hook. We think it might be some kind of interaction that:
+- is specific to the core technology of Readup and/or an experience that Readup provides to users, and 
+- involves "roping in" outsiders, extending meaningful value to them in such a way that they can expand on the value by participating in Readup themselves
+
+Furthermore, we have a giant advantage that we still haven't capitalized on. That is: pride in Readup; identification with our mission; wanting to help grow a movement against the moral indignation of social media. It might be possible that people want Readup to grow so much that they're willing to promote us _independent of the core experience._ That might look like a button at the bottom of the site or app that says, "Do you love Readup? Tell everyone you know about it!" But, frankly, we have no reason to believe that the only people who would use such a feature would be our friends and family. :P (If you disagree, let us know!)
+
+Anywho, one of our several failed attempts at share still currently exists on the site. If you haven't noticed it, you're not alone:  
 
 <img src="https://blog.readup.com/pics/lilshare.png">
 
