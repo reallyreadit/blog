@@ -14,9 +14,9 @@ Amongst the Readup crew (meaning: me and Jeff) "share" is now officially a meme,
 - When are we going to fundraise? _Once we figure out share._ 
 - What's the purpose of the company? _Share._ 
 
-The concept of "share" is just elusive enough to be an appropriate response to pretty much everything. But like all memes, the thing that makes it funny is also the thing that makes it sting a little bit. And it hurts because... well... it's true.
+The concept of "share" is just elusive enough to be an appropriate response to pretty much everything. But like all memes, the thing that makes it funny is also the thing that makes it sting a little bit. And it hurts because... well... it's true:
 
-We haven't figured out Share. And we really, seriously need to. Pronto.
+**_We haven't figured out Share. And we really, seriously need to. Pronto._**
 
 I want to walk you through our thoughts and feelings (and failures) related to Share, in hopes that you might be able to help us crack this case and achieve the explosive growth we're after. Our ambition is to be something much greater than just a quirky little hub of free-thinking on the web. We want to raise conciousness and critical thinking _across the web_. We want everyone, everywhere to be able to have excellent distraction-free reading experiences, and to be able to distinguish true reading from pseudo-reading activities like scrolling through a feed, skimming headlines, and bouncing around from article to article, task to task.
 
