@@ -1,0 +1,31 @@
+---
+layout: post
+title:  A Post About Posting and Posts
+date:   2019-09-04
+author: Bill Loundy
+---
+Clever title, eh? 
+
+Before settling on that, I considered a few alternate titles, including "Readup 2.0," "This Changes Everything" and "Readup Will Never Be The Same Again." Ultimately, I couldn't resist the pun, but I also didn't want to risk understating the _bigness_ of what's happening. This: **I have big, exciting news to share about major improvements to the Readup platform.** If you've been away for a while, it's a great time to get back on Readup and .. _ahem!_ ... maybe go tell some friends to check out readup.com. ;)
+
+Our goal is to make the platform more fun, more _social_, and more interesting, without compromising on our commitment to reading. For years, we've been calling ourselves a social reading platform, since we're not a social media company, but also not not a digital media business. Now, finally, the site is really starting to feel like a social reading platform. 
+
+"Read With Friends" is the new slogan.
+
+Reading remains the core experience on Readup, the required entry point to interact with any people or content. But as of today - finally - Readup finally feels truly social. Here's what's new: 
+
+**Profiles** Everyone has a profile. To put stuff on your profile, you post. 
+
+**Post articles.** You can post anything you’ve read to your Readup profile. Posting something proves that you read it. It also kicks off a conversation with the rest of the Readup community. 
+
+**Get followers.** On your profile page, you'll see a "Get followers" button. Share your profile far and wide (please! really!) so that others can stay up to date on your Readup activity.
+
+**Follow people.** It just takes one click and it's a _real_ friend that you can _really_ read with.
+
+**Bookmarks** See what percentage of an article you have read in the grey bookmark icon. 
+
+**Improved Reader Mode.** Images in articles should always work now. And, yes, _even fewer_ distractions! We already had the cleanest, most beautiful reader view on the internet. Now it's even better. 
+
+Stay curious. Stay nice. Have so much fun. And... 
+
+**... _tell us what you think!_ Now more than ever, we really need your feedback. It's code red. Mission critical. So don't hesitate to reach out. support@readup.com or bill@readup.com**
