@@ -18,7 +18,7 @@ The new slogan is: **Read With Friends.**
 
 Reading remains the core experience on Readup, the required entry point to interact with any people or content. Here's what's new: 
 
-**Profiles** Everyone has a profile. To put stuff on your profile, you post. 
+**Profiles.** Everyone has a profile. To put stuff on your profile, you post. 
 
 **Post articles.** You can post anything you’ve read to your Readup profile. Posting something proves that you read it. It also kicks off a conversation with the rest of the Readup community. 
 
@@ -28,7 +28,7 @@ Reading remains the core experience on Readup, the required entry point to inter
 
 **More Discovery.** Click "Following" on the Discover page to view posts from people you follow. 
 
-**Bookmarks** See what percentage of an article you have read in the grey bookmark icon. 
+**Bookmarks.** See what percentage of an article you have read in the grey bookmark icon. 
 
 **Improved Reader Mode.** Images in articles should always work now. And, yes, _even fewer_ distractions! We already had the cleanest, most beautiful reader view on the internet. Now it's even better. 
 
