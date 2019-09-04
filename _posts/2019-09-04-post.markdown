@@ -26,6 +26,8 @@ Reading remains the core experience on Readup, the required entry point to inter
 
 **Follow people.** It just takes one click and it's a _real_ friend that you can _really_ read with.
 
+**More Discovery.** Click "Following" on the Discover page to view posts from people you follow. 
+
 **Bookmarks** See what percentage of an article you have read in the grey bookmark icon. 
 
 **Improved Reader Mode.** Images in articles should always work now. And, yes, _even fewer_ distractions! We already had the cleanest, most beautiful reader view on the internet. Now it's even better. 
