@@ -31,7 +31,7 @@ author: Bill Loundy
 	The Numbers
 </h2>
 <p>
-	In this section, we’ll review the analytics. Simply put, my goal is to overshare. Recklessly. And honestly. Data is tricky. (For more information on that, Jeff and I highly recommend [this article](read:thenewatlantiscom_why-data-is-never-raw---the-new-atlantis). It inspired us to start using the term “capta” instead of “data.”) Some of this stuff isn’t always pretty, but any startup that shows you a bunch of rosy charts isn’t telling the full truth.
+	In this section, we’ll review the analytics. Simply put, my goal is to overshare. Recklessly. And honestly. Data is tricky. (For more information on that, Jeff and I highly recommend <a href="https://readup.com/read/thenewatlantiscom/why-data-is-never-raw---the-new-atlantis">this article</a>. It inspired us to start using the term “capta” instead of “data.”) Some of this stuff isn’t always pretty, but any startup that shows you a bunch of rosy charts isn’t telling the full truth.
 </p>
 <p>
 	We’re still fighting tooth and nail for every new user. This chart should make that fact pretty obvious: 
@@ -42,7 +42,7 @@ author: Bill Loundy
 </p>
 <br>
 <p>
-	There are at least two takeaways here. First, Friday was bangin’. The [AOTD about Mister Rogers](read:the-atlantic_my-friend-mister-rogers) was, indeed, wonderful, but our guess is that the bump had more to do with the big update to the Notifications system which rolled out Wednesday night into Thursday morning. (Yes, it was a long, late night.) Overall, platform engagement on Readup always plummets on weekends, so we’ll need to continue to keep an eye on this to know for sure what’s going on.
+	There are at least two takeaways here. First, Friday was bangin’. The <a href="https://readup.com/read/the-atlantic/my-friend-mister-rogers">AOTD about Mister Rogers</a> was, indeed, wonderful, but our guess is that the bump had more to do with the big update to the Notifications system which rolled out Wednesday night into Thursday morning. (Yes, it was a long, late night.) Overall, platform engagement on Readup always plummets on weekends, so we’ll need to continue to keep an eye on this to know for sure what’s going on.
 </p>
 <p>
 	The second takeaway involves the overall scale - those double-digit numbers on the y-axis. I wish I could say that those values were “in thousands” or something like that, but the truth is that we’re still just super tiny. Over fourteen hundred people have created accounts on Readup, but we’re still on treacherously thin ice. <em>If you’re reading this email, please know how thankful we are that you exist!</em>
