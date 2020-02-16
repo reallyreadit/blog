@@ -35,7 +35,7 @@ So, this week, we did the following:
 </p>
 
 <p>
-    <img src="http://blog.readup.com/pics/import.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="http://blog.readup.com/pics/import.png" style="display:block;margin:0 auto;max-width:320px;">
 </p>
 
 <p>
@@ -43,7 +43,7 @@ So, this week, we did the following:
 </p>
 
 <p>
-Finally, we polished our presence in the <a href="https://apps.apple.com/us/app/readup-app/id1441825432">Apple App Store</a>, a key piece of real estate. <strong>If you love Readup, please give us five stars.</strong>
+Finally, we polished our presence in the <a href="https://apps.apple.com/us/app/readup-app/id1441825432">Apple App Store</a>, a key piece of real estate. <strong>If you love Readup, please give us five stars. ⭐⭐⭐⭐⭐</strong>
 
 <p>
 Party on, people! 
