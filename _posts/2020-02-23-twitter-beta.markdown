@@ -19,10 +19,10 @@ It's a problem within a larger problem that Readup is uniquely positioned to sol
 
 
 <p>
-We're going to do this the way we do everything: with 100% of our attention. It's our new <a href="https://readup.com/comments/reforge/growth-loops-are-the-new-funnels/5Q43eD">flywheel. It's our key to securing an ad-free, distraction-free future for readers everywhere.
+We're going to do this the way we do everything: with 100% of our attention. It's our new <a href="https://readup.com/comments/reforge/growth-loops-are-the-new-funnels/5Q43eD">flywheel</a>. It's our key to securing an ad-free, distraction-free future for readers everywhere.
 </p>
 
-</p>
+<p>
 We need growth. Twitter needs reading, focus, and slowing down. It's a match made in heaven. Maybe. Either way, it's going to be an interesting few weeks. 
 </p>
 
