@@ -19,7 +19,7 @@ It's a problem within a larger problem that Readup is uniquely positioned to sol
 
 
 <p>
-We're going to do this the way we do everything: with 100% attention. This is our new <a href="https://readup.com/comments/reforge/growth-loops-are-the-new-funnels/5Q43eD">flywheel<a>, our path to growth, and the key to securing an ad-free, distraction-free future for readers everywhere. We need <em>bigger</em> growth, faster and Twitter needs reading, focus, and slowing down - so this is a match made in heaven.
+We're going to do this the way we do everything: with 100% attention. This is our new <a href="https://readup.com/comments/reforge/growth-loops-are-the-new-funnels/5Q43eD">flywheel</a>, our path to growth, and the key to securing an ad-free, distraction-free future for readers everywhere. We need <em>bigger</em> growth, faster and Twitter needs reading, focus, and slowing down - so this is a match made in heaven.
 </p>
 
 <p>
