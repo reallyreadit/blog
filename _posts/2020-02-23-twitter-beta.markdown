@@ -35,7 +35,7 @@ In the next few days, we're going to make the Twitter integration available to a
 </p>
 
 <h3>
-To participate in the Twitter beta, fill out <a href="https://forms.gle/oUJwMWFd34Wez3Pc8">this form</a>by Monday at noon PST. 
+To participate in the Twitter beta, fill out <a href="https://forms.gle/oUJwMWFd34Wez3Pc8">this form</a> by Monday at noon PST. 
 </h3>
 
 <p>
