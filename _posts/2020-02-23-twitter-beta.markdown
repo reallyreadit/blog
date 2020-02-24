@@ -19,7 +19,11 @@ It's a problem within a larger problem that Readup is uniquely positioned to sol
 
 
 <p>
-We're going to do this the way we do everything: with 100% attention. This is our new <a href="https://readup.com/comments/reforge/growth-loops-are-the-new-funnels/5Q43eD">flywheel</a>, our path to growth, and the key to securing an ad-free, distraction-free future for readers everywhere. We need <em>bigger</em> growth, faster and Twitter needs reading, focus, and slowing down - so this is a match made in heaven.
+We're going to do this the way we do everything: with 100% of our attention. It's our new <a href="https://readup.com/comments/reforge/growth-loops-are-the-new-funnels/5Q43eD">flywheel. It's our key to securing an ad-free, distraction-free future for readers everywhere.
+</p>
+
+</p>
+We need growth. Twitter needs reading, focus, and slowing down. It's a match made in heaven. Maybe. Either way, it's going to be an interesting few weeks. 
 </p>
 
 <p>
@@ -27,7 +31,7 @@ We're going to do this the way we do everything: with 100% attention. This is ou
 </p>
 
 <p>
-In the coming days, we're going to make the Twitter integration available to a small number of beta testers. In exchange for early access, we'll ask for your candid feedback. You won't have to change your internet behaviors at all, but hopefully you'll enjoy the web, and especially Twitter, a lot more.
+In the next few days, we're going to make the Twitter integration available to a small number of beta testers. In exchange for early access, we'll ask for your candid feedback. You won't have to change your internet behaviors at all, but hopefully you'll enjoy the web, and especially Twitter, a lot more.
 </p>
 
 <h3>
