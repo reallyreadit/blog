@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  
+title:  Nuts And Bolts
 date:   2020-03-01
 author: Bill Loundy
 ---
 <p>
-Dear readers,
+Dear reader,
 </p>
 
 <p>
@@ -16,7 +16,7 @@ After reading <a href="https://readup.com/comments/vulture/garbage-language">Gar
 </p>
 
 <p>
-The Readup Chrome extension <em>automatically</em> imports all of your reading to Readup. It's extremely easy to use, especially if you already use Chrome. You basically just peruse the web as you normally would, and Readup is there when you finish articles to (1) congratulate you for actually finishing (2) connect you with other readers and (3) show you, overall, how your reading behavior is improving with time.
+The Readup Chrome extension <em>automatically</em> imports all of your reading to Readup. You basically just peruse the web as you normally would, and Readup is there when you finish articles to (1) congratulate you for actually finishing (2) connect you with other readers and (3) show you, overall, how your reading behavior is improving with time.
 </p>
 
 <p>
@@ -32,7 +32,7 @@ We think that this is causing a lot of unnecessary confusion, and we think we kn
 </p>
 
 <p>
-There's a huge technical upside to this work, which could amplify our growth. If we have the code for an "import button" on Chrome, we'll also be ready to launch new and improved extension experiences for Safari, Firefox, etc. This is going to make it way easier to explain how Readup works. And it more deeply establishes our claim to be the most privacy-forward information platform on the web.
+There's a huge technical upside to this work, which could amplify our growth. Making this change would greatly simplify the extension and allow us to roll out versions for Firefox, Safari and Edge very quickly. It would also more deeply establish our claim to be the most privacy-forward social platform on the web by switching to an opt-in model.
 </p>
 
 <p>
@@ -44,5 +44,5 @@ Bill
 </p>
 
 <p>
-PS Like a maniac, Jeff <em>built and shipped</em> the v1 Twitter integration in less than a week. If you already signed up for the beta, I'll be in touch with you in the next 48 hours. <strong>If you haven't yet signed up and you want to be among the first to experience Readup + Twitter, email me ASAP (bill@readup.com) and I'll squeeze you in.</strong>
+PS Like a maniac, Jeff <em>built and shipped</em> the v1 Twitter integration in less than a week. If you already signed up for the beta, I'll be in touch with you in the next 48 hours. <strong>If you haven't yet signed up and you want to be among the first to experience Readup + Twitter, email me ASAP (bill@readup.com) and I'll squeeze you in.<strong> 
 </p>
