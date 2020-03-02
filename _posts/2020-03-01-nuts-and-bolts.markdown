@@ -36,7 +36,7 @@ There's a huge technical upside to this work, which could amplify our growth. Ma
 </p>
 
 <p>
-Per usual, don't hold back.
+Per usual, <a href="https://readup.com/comments/blogreadupcom/nuts-and-bolts">don't hold back</a>.
 </p>
 
 <p>
