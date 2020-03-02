@@ -44,5 +44,5 @@ Bill
 </p>
 
 <p>
-PS Like a maniac, Jeff <em>built and shipped</em> the v1 Twitter integration in less than a week. If you already signed up for the beta, I'll be in touch with you in the next 48 hours. <strong>If you haven't yet signed up and you want to be among the first to experience Readup + Twitter, email me ASAP (bill@readup.com) and I'll squeeze you in.<strong> 
+PS Like a maniac, Jeff <em>built and shipped</em> the v1 Twitter integration in less than a week. If you already signed up for the beta, I'll be in touch with you in the next 24 hours. <strong>If you haven't yet signed up and you want to be among the first to experience Readup + Twitter, email me ASAP (bill@readup.com) and I'll squeeze you in.<strong> 
 </p>
