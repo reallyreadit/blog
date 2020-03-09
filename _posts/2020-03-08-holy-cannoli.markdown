@@ -40,7 +40,6 @@ The numbers still look great. These days, we're focused on the <em>daily</em> nu
 Up. That's what matters. Up up up. 
 </p>
 
-
 <p>
 -Bill
 </p>
@@ -48,4 +47,3 @@ Up. That's what matters. Up up up.
 <p>
 PS Just landed in San Francisco!! I'm looking for places to crash and readers to hang with. Hit me up, people!
 </p>
-
