@@ -25,7 +25,7 @@ All of the feedback has inspired a huge shift in mindset. We no longer ask ourse
 </p>
 
 <p>
-Along those lines, we heard one very specific thing, loud and clear: <strong> OMG. We need an Android app!! </strong> Okay! We'll need a few weeks, but we're on it. Seriously. And, in the meantime, Jeff is knees-deep overhauling the desktop app experience so that we can launch new extensions for Chrome, Safari, Firefox, Brave, and Edge.
+Along those lines, we heard one very specific thing, loud and clear: <strong> OMG. We need an Android app!! </strong> Okay! We'll need a few weeks, but we're on it. Seriously. And, in the meantime, Jeff is knees-deep overhauling the desktop browser extension so that we can launch new extensions for Chrome, Safari, Firefox, Brave, and Edge.
 </p>
 
 <p>
