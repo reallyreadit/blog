@@ -46,6 +46,6 @@ Up. That's what matters. Up up up.
 </p>
 
 <p>
-<strong>PS Just landed in San Francisco!! I'm looking for places to crash and readers to hang with.</em> Hit me up, people!</strong>
+PS Just landed in San Francisco!! I'm looking for places to crash and readers to hang with. Hit me up, people!
 </p>
 
