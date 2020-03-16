@@ -38,8 +38,8 @@ Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drin
 <li><a href="https://readup.com/comments/washingtonpost/i-have-the-coronavirus-so-far-it-isnt-that-bad">I have the coronavirus. So far, it isn’t that bad.</a></li><li><a href="https://readup.com/comments/the-cut/man-might-have-infected-an-entire-college-party">Man Might Have Infected an Entire College Party</a></li>
 <li><a href="https://readup.com/comments/the-atlantic/youre-likely-to-get-the-coronavirus">You’re Likely to Get the Coronavirus</a></li>
 <li><a href="https://readup.com/comments/futurism/qa-james-hamblin-md-on-why-youre-likely-to-get-the-coronavirus">Q&A: James Hamblin, MD on Why You’re Likely to Get the Coronavirus</a></li>
-</p>
 </ul>
+</p>
 
 <p>
 If you want to know what's going on, you have to work (read) for it! 
