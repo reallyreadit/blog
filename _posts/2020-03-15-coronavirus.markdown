@@ -36,7 +36,6 @@ Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drin
 <li><a href="https://readup.com/comments/futurism/qa-james-hamblin-md-on-why-youre-likely-to-get-the-coronavirus">Q&A: James Hamblin, MD on Why You’re Likely to Get the Coronavirus</a></li>
 </p>
 </ul>
-</p>
 
 <p>
 If you want to know what's going on, you have to work (read) for it! 
