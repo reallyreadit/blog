@@ -25,7 +25,7 @@ Y Combinator is looking for startups that are just on the verge of growing like 
 </p>
 
 <p>
-We can trace a lot of our growth to <a href="https://twitter.com/readupdotcom">Twitter</a>, <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">my newsletter</a>, and a few other sources, but we also think that the coronavirus has given us a bump. During times of crisis (both real and imagined) people feel an increased need to seek out high-quality, reliable information. In general, a good rule of thumb is this: <em>go to where the readers are.</em>
+We can trace a lot of our growth to <a href="https://twitter.com/readupdotcom">Twitter</a>, <a href="https://billloundy.substack.com/">my newsletter</a>, and a few other sources, but we also think that the coronavirus has given us a bump. During times of crisis (both real and imagined) people feel an increased need to seek out high-quality, reliable information. In general, a good rule of thumb is this: <em>go to where the readers are.</em>
 </p>
 
 <p>
