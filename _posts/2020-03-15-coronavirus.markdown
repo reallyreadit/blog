@@ -42,7 +42,7 @@ Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drin
 </p>
 
 <p>
-If you want to know what's going on, you have to work (read) for it! 
+Feel free to copy/paste those links and email them to others. Or even just forward this email. <strong>And remember: if you want to know what's going on, you have to work (read) for it!</strong>
 </p>
 
 <p>
