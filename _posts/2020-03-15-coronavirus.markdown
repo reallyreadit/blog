@@ -9,15 +9,11 @@ Dear reader,
 </p>
 
 <p>
-Jeff and I have been working hard on our Y Combinator application, which is due tomorrow night. It's hard to overstate how big of a deal it would be if we get accepted. We've been declined twice already. In fact, we haven't even managed to get an interview so far!
+Jeff and I have been working hard on our Y Combinator application, which is due tomorrow night. It's hard to overstate how big of a deal it would be if we get accepted. We're hoping that third time's a charm. Cross your fingers for us!
 </p>
 
 <p>
-But, we've remained committed. And the more that we read about Y Combinator, the more convinced we are that it's exactly what we need right now. 
-</p>
-
-<p>
-YC is looking for startups that are just on the verge of growing like crazy. Conveniently, Readup is just on the verge of growing like crazy. Yet again, we just had our best day and best week ever:  
+Y Combinator is looking for startups that are just on the verge of growing like crazy. Conveniently, yet again, we just had our best day and best week ever.  
 </p>
 
 <p>
@@ -25,11 +21,11 @@ YC is looking for startups that are just on the verge of growing like crazy. Con
 </p>
 
 <p>
-We can trace a lot of our growth to <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">Twitter</a>, <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">my newsletter</a>, etc, but we also think that the coronavirus has also lifted our numbers a bit. During times of crisis (both real and imagined) people feel an increased need to seek out high-quality, reliable information. In general, a good rule of thumb is <em>go to where the readers are.</em>
+We can trace a lot of our growth to <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">Twitter</a>, <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">my newsletter</a>, and a few other sources, but we also think that the coronavirus has given us a bump. During times of crisis (both real and imagined) people feel an increased need to seek out high-quality, reliable information. In general, a good rule of thumb is this: <em>go to where the readers are.</em>
 </p>
 
 <p>
-Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drinking my own Kool-Aid, but I legit think this is the best coronavirus reading list you'll find anywhere. These are the pieces that people are <em>actually</em> reading:
+Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drinking my own Kool-Aid, but I still want to say this: I genuinely believe that this is the best coronavirus reading list you'll find anywhere. After all, these are the articles that people are <em>actually, really</em> reading:
 </p>
 
 <p>
@@ -40,6 +36,10 @@ Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drin
 <li><a href="https://readup.com/comments/futurism/qa-james-hamblin-md-on-why-youre-likely-to-get-the-coronavirus">Q&A: James Hamblin, MD on Why You’re Likely to Get the Coronavirus</a></li>
 </p>
 </ul>
+</p>
+
+<p>
+If you want to know what's going on, you have to work (read) for it! 
 </p>
 
 <p>
