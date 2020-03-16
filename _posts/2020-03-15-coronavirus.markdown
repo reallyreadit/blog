@@ -25,11 +25,11 @@ YC is looking for startups that are just on the verge of growing like crazy. Con
 </p>
 
 <p>
-We can trace a lot of our growth to Twitter, Bill's blog, etc, but we think that the coronavirus has also lifted our numbers a bit. During times of crisis, people need to find high-quality, reliable information. A general word to the wise: <em>Go to where the readers are.</em>
+We can trace a lot of our growth to <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">Twitter</a>, <a href="https://readup.com/comments/organizer-sandbox/coronavirus-why-you-must-act-now">my newsletter</a>, etc, but we also think that the coronavirus has also lifted our numbers a bit. During times of crisis (both real and imagined) people feel an increased need to seek out high-quality, reliable information. In general, a good rule of thumb is <em>go to where the readers are.</em>
 </p>
 
 <p>
-Coronavirus stories that won AOTD, an excellent #coronavirusreadinglist: 
+Here are the coronavirus stories that won AOTD on Readup. Ya'll know I love drinking my own Kool-Aid, but I legit think this is the best coronavirus reading list you'll find anywhere. These are the pieces that people are <em>actually</em> reading:
 </p>
 
 <p>
@@ -47,5 +47,5 @@ Coronavirus stories that won AOTD, an excellent #coronavirusreadinglist:
 </p>
 
 <p>
-P.S. Some excellent further reading about Y Combinator. This <a href="https://readup.com/read/the-new-yorker/sam-altmans-manifest-destiny">evergreen profile</a> on Sam Altman, former president of YC, pretty much says it all.
+P.S. If you want to read more about Y Combinator, I seriously loved <a href="https://readup.com/read/the-new-yorker/sam-altmans-manifest-destiny">"Sam Altman's Manifest Destiny,"</a> a profile from The New Yorker on former YC president Sam Altman. It's a few years old and aging very well! :) 
 </p>
