@@ -4,10 +4,8 @@ title:  Slow News. Actually.
 date:   2020-03-22
 author: Bill Loundy
 ---
-
-
 <p>
-<img src="http://blog.billloundy.com/pics/kansasone/lightonwater.jpg" style="display:block;margin:0 auto;max-width:100%;">
+<img src="https://billloundy.com/pics/kansasone/lightonwater.jpg" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>
