@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Coronavirus bump? We'll take it!
-date:   2020-03-08
+date:   2020-03-15
 author: Bill Loundy
 ---
 <p>
