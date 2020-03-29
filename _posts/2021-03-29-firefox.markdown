@@ -13,7 +13,7 @@ First of all: Readup just <a href="https://addons.mozilla.org/en-US/firefox/addo
 </p>
 
 <p>
-This is part of a huge update that completely changes the way the Chrome extension works. So, please read this carefully and, as always, [get back at us in the comments].
+This is part of a huge update that completely changes the way the Chrome extension works. So, please read this carefully and, as always, get back at us in <a href="https://readup.com/comments/blogreadupcom/huge-changes-to-the-chrome-extension-and-readup-is-available-on-firefox">the comments</a>.
 </p>
 
 <p>
