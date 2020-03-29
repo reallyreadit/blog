@@ -29,7 +29,7 @@ The new Readup button works the same way on Chrome and Firefox. When you click i
 <ul>
 <li>It turns on reader-mode.</li>
 <li>It turns on the tracking (so you can get credit.)  </li>
-<li>And it stars the article (in case you don't finish).</li>
+<li>And it stars the article (in case you don't finish.)</li>
 </ul> 
 </p>
 
