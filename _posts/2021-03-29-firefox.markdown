@@ -9,7 +9,7 @@ Dear reader,
 </p>
 
 <p>
-First of all: Readup just [launched on Firefox] - add the extension now!
+First of all: Readup just <a href="https://addons.mozilla.org/en-US/firefox/addon/readup/">launched on Firefox</a> - add the extension now!
 </p>
 
 <p>
