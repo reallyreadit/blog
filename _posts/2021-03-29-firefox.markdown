@@ -17,7 +17,7 @@ This is part of a huge update that completely changes the way the Chrome extensi
 </p>
 
 <p>
-<strong>On Chrome, Readup will no longer track you all over the web. Now, to read an article or story on Readup, you must hit the browser button to turn on the tracker.</strong>
+<strong>On Chrome, Readup will no longer track you all over the web. Now you must hit the browser button to turn on the tracker.</strong>
 </p>
 
 <p>
