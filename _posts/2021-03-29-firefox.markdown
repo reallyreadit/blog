@@ -34,7 +34,7 @@ The new Readup button works the same way on Chrome and Firefox. When you click i
 </p>
 
 <p>
-<strong>Chrome users take note: You will no longer get credit for articles and stories that you read WITHOUT activating Reader-mode. <em>So get in the habit of hitting that button!</em></strong>
+<strong>Chrome users take note: You will no longer get credit for articles and stories that you read WITHOUT activating Reader-mode. <em>So get in the habit of hitting that button!</em></strong> These changes will propagate to everyone within the next few days. 
 </p>
 
 <p>
