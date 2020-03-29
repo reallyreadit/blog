@@ -1,0 +1,50 @@
+---
+layout: post
+title:  Huge changes to the Chrome extension. And Readup is available on Firefox!
+date:   2020-03-29
+author: Bill Loundy
+---
+<p>
+Dear reader, 
+</p>
+
+<p>
+First of all: Readup just [launched on Firefox] - add the extension now!
+</p>
+
+<p>
+This is part of a huge update that completely changes the way the Chrome extension works. So, please read this carefully and, as always, [get back at us in the comments].
+</p>
+
+<p>
+<strong>On Chrome, Readup will no longer track you all over the web. Now, to read an article or story on Readup, you must hit the browser button to turn on the tracker.</strong>
+</p>
+
+<p>
+<img src="https://billloundy.com/pics/kansasone/buttondemo1.gif" style="display:block;margin:0 auto;max-width:100%;">
+</p>
+</p>
+
+<p>
+The new Readup button works the same way on Chrome and Firefox. When you click it, it does three things at once:
+<ul>
+<li>It turns on reader-mode.</li>
+<li>It turns on the tracking (so you can get credit.)  <li>
+<li>And it stars the article (in case you don't finish).</li>
+</ul> 
+</p>
+
+<p>
+If you're currently using Chrome, take note: You will no longer get credit for articles and stories you read <strong>UNLESS you turn on Reader-mode.</strong> So get in the habit of hitting that button!
+</p>
+
+<p>
+Sincerely,
+</p>
+
+<p>
+Bill, co-founder of Readup
+</p>
+<p>
+<a href="https://readup.com/@bill">@bill</a>
+</p>
