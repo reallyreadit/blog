@@ -27,7 +27,7 @@ This is part of a huge update that completely changes the way the Chrome extensi
 <p>
 The new Readup button works the same way on Chrome and Firefox. When you click it, it does three things at once:
 <ul>
-<li>It turns on reader-mode.</li>
+<li>It turns on Reader-mode.</li>
 <li>It turns on the tracking (so you can get credit.)  </li>
 <li>And it stars the article (in case you don't finish.)</li>
 </ul> 
