@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Still reeling...
+title: Sunday
 date:   2020-04-05
 author: Bill Loundy
 ---
@@ -17,7 +17,7 @@ For starters, it’s a community of readers - real, living, breathing humans, wh
 </p>
 
 <p>
-But you could also say, “Readup is a website,” and you wouldn’t be wrong. It’s a piece of technology. An app. A platform. A software “product.” A pile of data in a database. Readup is thousands upon thousands of lines of code. 
+You could also say, “Readup is a website,” and you wouldn’t be wrong. It’s a piece of technology. An app. A platform. A software “product.” A pile of data in a database. Readup is thousands upon thousands of lines of code. 
 </p>
 
 <p>
