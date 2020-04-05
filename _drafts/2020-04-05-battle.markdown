@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunday
+title: Keep calm and carry on reading
 date:   2020-04-05
 author: Bill Loundy
 ---
@@ -25,7 +25,7 @@ And, of course, Readup is a business, a C-corporation that’s legally based in 
 </p>
 
 <p>
-But if I had to describe Readup to an alien from outer space, I’d probably start with this: “Readup is the work of two people: me and my friend Jeff.”</p>
+<strong>But if I had to describe Readup to an alien from outer space, I’d probably start with this: “Readup is the work of two people: me and my friend Jeff.”</strong></p>
 
 <p>
 That’s why during these crazy times, when people ask me, “How’s Readup?” I hear a different question. I hear: “How are you and Jeff?” 
@@ -40,7 +40,7 @@ Jeff’s a whole lot more solid than I am right now because he’s got WFH down 
 </p>
 
 <p>
-I spent the beginning of March in San Francisco, living out of my backpack, bouncing around friends’ couches, and finally making a lot of progress with a few key investors. Mere hours before Shelter in Place went into effect across the Bay, I finally got a verbal investment offer, contingent upon being able to get a few other investors on board - people I was planning to meet in the following days and weeks. 
+At the beginning of March, I was in San Francisco, living out of my backpack, bouncing around friends’ couches, and finally making a lot of progress with a few key investors. Mere <em>hours</em> before the order to shelter in place went into effect across the Bay, I finally got a verbal investment offer, contingent upon being able to get a few other investors on board - people I was planning to meet in the following days and weeks. 
 </p>
 
 <p>
@@ -48,7 +48,7 @@ Then — boom — the world stopped.
 </p>
 
 <p>
-The setback is tough, but it’s counterbalanced by a fierce new energy to solve the problem that might even be bigger than the virus itself: Our information systems are failing. Big time. And people are dying because of it. It might be true that most of the world’s information is available to most people, but what’s the point if we can’t make any sense of it? 
+The setback is tough, but not permanent, and it’s counterbalanced by a fierce new energy to solve one of the biggest problems on the planet, one that might even be bigger than the virus itself: Our information systems are failing. Big time. And people are dying because of it. It might be true that most of the world’s information is available to most people, but what’s the point if we can’t make any sense of it? 
 </p>
 
 <p>
