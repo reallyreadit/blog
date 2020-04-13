@@ -9,11 +9,11 @@ Dear reader,
 </p>
 
 <p>
-We had a dorky, data-filled week, so this is going to be a dorky, data-filled email. Rules are rules; if this email *wasn’t* about data (and, more specifically, data around conversions) I’d feel like I wasn’t being honest about what Jeff and I have been up to. So let’s jump right in.
+We had a dorky, data-filled week, so this is going to be a dorky, data-filled email. Rules are rules; if this email <em>wasn’t</em> about data, I’d feel like I wasn’t being honest about what Jeff and I have been up to.
 </p>
 
 <p>
-First of all, the purpose of this exercise is to analyze the experience that NEW readers are having when they join the community. Our goal is to get new folks up and running as quickly as possible. And, conveniently, we get to define what “up and running” means: externally sharing their Readup comments.
+We've been laser focused on the experience that NEW readers are having when they join the community. Our goal is to get new folks up and running as quickly as possible. "Up and running” is more than just reading and posting. The true "touchdown" is getting people to share posts externally, for example as tweets.
 </p>
 
 <p>
@@ -25,11 +25,7 @@ Let's jump in. This is real data, because we always keep it real:
 </p>
 
 <p>
-Let's take this one cell at a time.
-</p> 
-
-<p>
-During the calendar week that ended on Sunday, April 5th, 321 *new* humans checked out Readup. (Again: that doesn’t include the hundreds of *existing* readers who also visited Readup.) That number is depressingly low, but also, kind of a gift. We haven’t spent a penny on marketing, so it’s 100% thanks to people in our community (you!) telling other people they know (your friends!) about Readup. Please keep doing that. It’s keeping us alive.
+So, during the calendar week that ended on Sunday, April 5th, 321 *new* humans checked out Readup. (Again: that doesn’t include the hundreds of *existing* readers who also visited Readup.) That number is depressingly low, but also, kind of a gift. We haven’t spent a penny on marketing, so it’s 100% thanks to people in our community (you!) telling other people they know (your friends!) about Readup. Please keep doing that. It’s keeping us alive.
 </p> 
 
 <p>
