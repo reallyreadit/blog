@@ -41,7 +41,7 @@ We expect to see people viewing articles but not finishing them. (Think of how m
 </p>
 
 <p>
-Here’s what’s so exciting: If we can get that last column up from zero, it will feed more visits. These aren’t huge hurdles by any means (nothing compared to what we’ve built so far!) and once the flywheel is in motion, the growth machinery clicks into gear and - boom! - we’re viral. (Oh wait, I forgot, we are never again using <a href="https://readup.com/read/the-new-yorker/against-the-idea-of-the-coronavirus-as-metaphor">that word</a>!)
+Here’s what’s so exciting: If we can get that last column up from zero, it will feed more Visits. These aren’t huge hurdles by any means (nothing compared to what we’ve built so far!) and once the flywheel is in motion, the growth machinery clicks into gear and - boom! - we’re viral. (Oh wait, I forgot, we are never again using <a href="https://readup.com/read/the-new-yorker/against-the-idea-of-the-coronavirus-as-metaphor">that word</a>!)
 </p>
 
 <p>
