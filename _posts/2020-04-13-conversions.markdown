@@ -25,7 +25,7 @@ Let's jump in. This is real data, because we always keep it real:
 </p>
 
 <p>
-So, during the calendar week that started on Sunday, April 5th, 321 <em>new</em> humans checked out Readup. (Again, that doesn’t include the hundreds of <em>existing</em> readers who also visited Readup.) That number is depressingly low, but also, kind of a gift. We haven’t spent a penny on marketing, so it’s 100% thanks to people in our community (you!) telling other people they know (your friends!) about Readup. (Please keep doing that! It’s keeping us alive!)
+So, during the calendar week that started on Sunday, April 5th, 321 <em>new</em> humans checked out Readup. (Again, that doesn’t include the hundreds of <em>existing</em> readers who also visited Readup.) That number is depressingly low, but also kind of a gift. We haven’t spent a penny on marketing, so it’s 100% thanks to people in our community (you!) telling other people they know (your friends!) about Readup. (Please keep doing that! It’s keeping us alive!)
 </p> 
 
 <p>
