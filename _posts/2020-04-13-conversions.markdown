@@ -41,15 +41,15 @@ We expect to see people viewing articles but not finishing them. (Think of how m
 </p>
 
 <p>
-Here’s what’s so exciting: If we can get that last column up from zero, it will feed more visits. These aren’t huge hurdles by any means (nothing compared to what we’ve built so far!) and once the flywheel is in motion, the growth machinery clicks into gear and - boom! - we’re viral. (Oh wait, I forgot, we are never again using <a href="https://readup.com/read/the-new-yorker/against-the-idea-of-the-coronavirus-as-metaphor">that word</a>
+Here’s what’s so exciting: If we can get that last column up from zero, it will feed more visits. These aren’t huge hurdles by any means (nothing compared to what we’ve built so far!) and once the flywheel is in motion, the growth machinery clicks into gear and - boom! - we’re viral. (Oh wait, I forgot, we are never again using <a href="https://readup.com/read/the-new-yorker/against-the-idea-of-the-coronavirus-as-metaphor">that word</a>!)
 </p>
 
 <p>
-Last thing: I basically need to scream it because data projects like this make it super obvious: It’s downright absurd how intensely we rely on our most active users to keep Readup alive! If you are reading and making comments on a weekly basis, Jeff and I owe you so many beers we can’t keep track. The ship is floating because you’re bailing out the water, which gives us time to patch the holes.
+One more thing. I need to scream this because the data makes it super obvious: <strong>It’s downright absurd how intensely we rely on our most active users to keep Readup alive! If you are reading and making comments on a weekly basis, Jeff and I owe you so many beers we can’t keep track. The ship is floating because you’re bailing out the water, which gives us time to patch the holes.</strong>
 </p>
 
 <p>
-This wouldn’t be fun if it wasn’t a challenge. 
+This wouldn’t be fun if it wasn’t a challenge.  
 </p>
 
 <p>
