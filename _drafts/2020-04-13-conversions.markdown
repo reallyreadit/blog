@@ -13,7 +13,7 @@ We had a dorky, data-filled week, so this is going to be a dorky, data-filled em
 </p>
 
 <p>
-We've been laser focused on the experience that NEW readers are having when they join the community. Our goal is to get new folks up and running as quickly as possible. "Up and running” is more than just reading and posting. The true "touchdown" is getting people to share posts externally, for example as tweets.
+We've been laser focused on the experience that new readers are having when they join the community. Our goal is to get new folks up and running as quickly as possible. "Up and running” is more than just reading and posting. The true "touchdown" is getting people to share posts externally, for example as tweets.
 </p>
 
 <p>
@@ -37,7 +37,7 @@ The ratio (or “conversion”) of Visits to Signups is actually pretty healthy.
 </p> 
 
 <p>
-We expect to see people viewing articles but not finishing them. (Think of how many people get gym memberships but never actually go to the gym!) But that number is still nowhere near healthy. And the fact that only 50-80% of new readers even glance at an article is downright astounding. We have a million ideas, and a lot of work to do. 
+We expect to see people viewing articles but not finishing them. (Think of how many people get gym memberships but never actually go to the gym!) But that number is still nowhere near healthy. And the fact that only ~70% of new readers <em>even glance at an article, immediately after creating an account</em> is downright astounding. We have a million ideas, and a lot of work to do. 
 </p>
 
 <p>
