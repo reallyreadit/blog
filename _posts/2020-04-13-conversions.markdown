@@ -25,15 +25,15 @@ Let's jump in. This is real data, because we always keep it real:
 </p>
 
 <p>
-So, during the calendar week that ended on Sunday, April 5th, 321 *new* humans checked out Readup. (Again: that doesn’t include the hundreds of *existing* readers who also visited Readup.) That number is depressingly low, but also, kind of a gift. We haven’t spent a penny on marketing, so it’s 100% thanks to people in our community (you!) telling other people they know (your friends!) about Readup. Please keep doing that. It’s keeping us alive.
+So, during the calendar week that ended on Sunday, April 5th, 321 <em>new</em> humans checked out Readup. (Again, that doesn’t include the hundreds of <em>existing</em> readers who also visited Readup.) That number is depressingly low, but also, kind of a gift. We haven’t spent a penny on marketing, so it’s 100% thanks to people in our community (you!) telling other people they know (your friends!) about Readup. (Please keep doing that! It’s keeping us alive!)
 </p> 
 
 <p>
-Now, let’s keep moving across that row. Of the 321 people who visited, only 34 people created an account. And of those 34 people who created an account, only 24 people viewed an article. And of those 24 people who viewed an article, only 9 of them finished an article. And of those 9 people who finished an article, not a single person posted a Readup comment to Twitter.
+Moving across that row: Of the 321 people who visited Readup, only 34 people created an account. That's a big drop-off. And of those 34 people who created an account, only 24 people even viewed an article. And of those 24 people who viewed an article, only 9 of them finished an article. And of those 9 people who finished an article, not a single person posted a Readup comment to Twitter.
 </p> 
 
 <p>
-The ratio (or “conversion”) of Visits to Signups is actually pretty healthy. Apps like Readup can’t expect more than ~10-20% percent conversion there. So we’re not going to fret about homepage design anymore. 
+The ratio (or “conversion”) of Visits to Signups is actually pretty healthy. Apps like Readup can’t expect more than ~10-20% percent conversion there. So we’re done fretting about the homepage design. 
 </p> 
 
 <p>
