@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's talk about conversions
+title: New data we're obsessing over
 date:   2020-04-13
 author: Bill Loundy
 ---
