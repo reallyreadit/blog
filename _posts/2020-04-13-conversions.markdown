@@ -63,4 +63,3 @@ Stay real,
 <p>
 Bill
 </p>
-
