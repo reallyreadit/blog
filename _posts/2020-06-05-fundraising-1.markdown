@@ -1,5 +1,9 @@
-FUNDRAISING: DAY 1
-
+---
+layout: post
+title: FUNDRAISING - DAY 1
+date:   2020-06-05
+author: Bill Loundy
+---
 Now that we have achieved product-market fit, Readup is raising one million dollars to grow our team and accelerate our growth.
 
 Product-market fit is [garbage language] for Do you have something that's really important? Something that people really want, something that will solve a problem for them and make their life better. 
