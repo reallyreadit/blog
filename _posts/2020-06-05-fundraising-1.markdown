@@ -77,7 +77,7 @@ Sidenote for journalists, writers, publishers: If you’re reading this, rest ea
 </p>
 
 <p>
-Ten years from now, we’ll look back on these days and we’ll wonder how we survived such dark, confusing times. Bouncing, scrolling, clicking, always moving, moving, moving. The sum of the parts is a distraction machine, which is why we’re building an attention engine. As a bonus, we’ll never again have to wonder whether or not a particular commenter <em>actually<em> read an article they commented on. And not just on Readup, but everywhere. 
+Ten years from now, we’ll look back on these days and we’ll wonder how we survived such dark, confusing times. Bouncing, scrolling, clicking, always moving, moving, moving. The sum of the parts is a distraction machine, which is why we’re building an attention engine. As a bonus, we’ll never again have to wonder whether or not a particular commenter <em>actually</em> read an article they commented on. And not just on Readup, but everywhere. 
 </p>
 
 <p>
