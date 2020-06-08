@@ -77,7 +77,7 @@ Sidenote for journalists, writers, publishers: If you’re reading this, rest ea
 </p>
 
 <p>
-Ten years from now, we’ll look back on these days and we’ll wonder how we survived such dark, confusing times. Bouncing, scrolling, clicking, always moving, moving, moving. The sum of the parts is a distraction machine, which is why we’re building an attention engine. As a bonus, we’ll never have to wonder who read what. We’ll all just know: Jessica read that one, Tarunika read that one, and they both read that other one.
+Ten years from now, we’ll look back on these days and we’ll wonder how we survived such dark, confusing times. Bouncing, scrolling, clicking, always moving, moving, moving. The sum of the parts is a distraction machine, which is why we’re building an attention engine. As a bonus, we’ll never again have to wonder who read what. We’ll all just know: Jessica read X, Tarunika read Y, and they both read Z.
 </p>
 
 <p>
