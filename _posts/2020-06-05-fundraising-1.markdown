@@ -61,7 +61,7 @@ We’ve been laying the groundwork for a few weeks now, so today isn’t <em>act
 </p>
 
 <p>
-We went back and forth on this for months. We’re proud bootstrappers, obsessed with doing everything on our own terms. It’s not that we’re not stubborn — in fact, one of our three core values is “Be open to anything” — but we’re hellbent on breaking the status quo. (When it comes to social media, the status quo needs breaking. Again: no further comment.) 
+We went back and forth on this for months. We’re proud bootstrappers, obsessed with doing everything on our own terms. It’s not that we’re stubborn — in fact, one of our three core values is “Be open to anything” — but we’re hellbent on breaking the status quo. (When it comes to social media, the status quo needs breaking. Again: no further comment.) 
 </p>
 
 <p>
