@@ -57,7 +57,7 @@ Overall, the discipline has paid off. And now we're in an excellent position to 
 </p>
 
 <p>
-We’ve been laying the groundwork for a few weeks now, so today isn’t <em>actually</em> day one, but it feels that way to me, because today is the day that we’re making it official. Today is the day that we’re making the commitment to you, the community, the only stakeholders that we care about.
+We’ve been laying the groundwork for a few weeks now, so today isn’t <em>actually</em> day one, but it feels that way to me, because today is the day that we’re making it official. Today is the day that we’re making the commitment to you, the community, the stakeholders we care most about.
 </p>
 
 <p>
