@@ -45,11 +45,15 @@ We believe in growth, <em>but not just for the sake of it</em>. For us, growth m
 </p>
 
 <p>
-Very few startups will make this claim, and fewer still actually mean it, but we do. And our track record speaks for itself. If you’ve been following closely, you know that we’re perfectly willing to put the breaks on. In fact, it happens all the time. That discipline is now paying off, which puts us in an excellent position to fundraise.
+Very few startups will make this claim, and fewer still actually mean it, but we do. And our track record speaks for itself. If you’ve been following closely, you know that we’re perfectly willing to put the breaks on when necessary. In fact, it has happened many times. <em>But now is not one of those times.</em>
 </p>
 
 <p>
-So there, I said it: We’re fundraising. 
+Overall, the discipline has paid off. And now we're in an excellent position to fundraise.
+</p>
+
+<p>
+<strong>So there, I said it: We’re fundraising.</strong>
 </p>
 
 <p>
