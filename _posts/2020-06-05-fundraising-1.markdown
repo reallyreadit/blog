@@ -17,7 +17,7 @@ Growth, by definition, happens incrementally. It’s a process, not an event. So
 </p>
 
 <p>
-I feel like one of those proud parents who looks away briefly and then, when they look back, the kid is suddenly, magically, all grown up - bigger, stronger, more mature, and, in some ways, borderline unrecognizable. And it feels like it happened overnight. 
+I feel like one of those proud parents who looks away briefly and then, when they look back, their child is suddenly, magically, all grown up - bigger, stronger, more mature, and, in some ways, borderline unrecognizable. And it feels like it happened overnight. 
 </p>
 
 <p>
@@ -41,7 +41,7 @@ And June is on track to be bigger. Much bigger.
 </p>
 
 <p>
-We believe in growth, but not just for the sake of it. For us, growth matters because it leads to deeper, more meaningful engagement, higher-quality article curation, and more thoughtful, enriching commenting experiences.
+We believe in growth, <em>but not just for the sake of it</em>. For us, growth matters because it leads to deeper, more meaningful engagement, higher-quality article curation, and more thoughtful, enriching commenting experiences.
 </p>
 
 <p>
