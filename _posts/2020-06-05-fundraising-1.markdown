@@ -69,7 +69,7 @@ For that reason, we’re looking for angel investors who are willing to play the
 </p>
 
 <p>
-Five years from now, Readup will be synonymous with digital reading. We won’t just be an app. We’ll be the corner of the web where you can actually focus on articles and stories, from top to bottom, and connect with other deep readers. Actually, wait a second, <em>we already are that!</em> The difference is that in five years almost everyone you know will be on there (because it will be embarrassing to not be on there) and you’ll be able to read anything you want, including all premium content from your favorite publishers. The word “paywall” will feel like ancient history. 
+Five years from now, Readup will be synonymous with digital reading. We won’t just be an app. We’ll be the corner of the web where you can actually focus on articles and stories, from top to bottom, and connect with other deep readers. Actually, wait a second, <em>we already are that!</em> The difference is that in five years many people you know will be on there and you’ll be able to read anything you want, including all premium content from your favorite publishers. The word “paywall” will feel like ancient history. 
 </p>
 
 <p>
