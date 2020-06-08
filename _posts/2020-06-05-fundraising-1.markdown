@@ -65,7 +65,7 @@ We went back and forth on this for months. We’re proud bootstrappers, obsessed
 </p>
 
 <p>
-For that reason, we’re looking for angel investors who are willing to play the long game. We’re on a quest to change social media, so of course we need to get huge — and hugely profitable. We need to shift huge chunks of attention-share from Twitter, Facebook, Reddit, etc. And in doing so, we’re going to completely rewrite the social media playbook.
+For that reason, we’re looking for angel investors who are willing to play the long game. We’re on a quest to change social media, so of course we need to get huge, and hugely profitable, to shift as much attention-share from Twitter, Facebook, Reddit, etc., as possible. That's what it's going to take for us to achieve our mission.
 </p>
 
 <p>
