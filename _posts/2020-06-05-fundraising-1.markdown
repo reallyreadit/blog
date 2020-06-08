@@ -73,7 +73,7 @@ Five years from now, Readup will be synonymous with digital reading. We won’t 
 </p>
 
 <p>
-Sidenote for journalists, writers, publishers: If you’re reading this, rest easy. It’s been a rough decade (to the detriment of all) but the era of clickbait is quickly coming to a close. We’re turning the entire incentive structure upside down. Soon, you’ll be able to get paid a meaningful amount per read. Think: nickels, dimes, even quarters, depending on length and quality, instead of the current nightmare where you get a fraction of a fraction of a penny per click.
+Sidenote for journalists, writers, publishers: If you’re reading this, rest easy. It’s been a rough decade (to the detriment of all) but the era of clickbait is quickly coming to a close. We’re turning the entire incentive structure upside down. Soon, you’ll be able to get paid a meaningful amount <em>per read</em>. Think: nickels, dimes, even quarters, depending on length and quality, instead of the current nightmare where you get a fraction of a fraction of a penny per click.
 </p>
 
 <p>
