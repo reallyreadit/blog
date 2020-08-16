@@ -32,6 +32,7 @@ author:
 # Build settings
 theme: minima
 minima:
+  skin: auto
   social_links:
     twitter: ReadupDotCom
 plugins:
