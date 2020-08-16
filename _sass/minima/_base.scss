@@ -1,3 +1,7 @@
+html {
+  font-size: $base-font-size;
+}
+
 /**
  * Reset some basic elements
  */
@@ -6,6 +10,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+
 }
 
 
@@ -15,14 +20,25 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+  color: $light-text-color;
+  background-color: $light-background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  overflow-wrap: break-word;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: $dark-text-color;
+    background-color: $dark-background-color;
+  }
 }
 
 
@@ -35,6 +51,18 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+}
+
+hr {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+/**
+ * `main` element
+ */
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
 
@@ -91,15 +119,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $light-link-base-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $light-link-visited-color;
   }
 
   &:hover {
-    color: $text-color;
+    color: $light-link-hover-color;
     text-decoration: underline;
   }
 
@@ -112,23 +140,45 @@ a {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  a {
+    color: $dark-link-base-color;
+
+    &:visited {
+      color: $dark-link-visited-color;
+    }
+
+    &:hover {
+      color: $dark-link-hover-color;
+    }
+  }
+}
 
 /**
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $light-brand-color;
+  border-left: 4px solid $light-border-color-01;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
   font-style: italic;
 
   > :last-child {
     margin-bottom: 0;
   }
+
+  i, em {
+    font-style: normal;
+  }
 }
 
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    color: $dark-brand-color;
+    border-left: 4px solid $dark-border-color-01;
+  }
+}
 
 
 /**
@@ -136,10 +186,19 @@ blockquote {
  */
 pre,
 code {
-  @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  font-family: $code-font-family;
+  font-size: 0.9375em;
+  border: 1px solid $light-border-color-01;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: $light-code-background-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  pre,
+  code {
+    border: 1px solid $dark-border-color-01;
+    background-color: $dark-code-background-color;
+  }
 }
 
 code {
@@ -157,25 +216,42 @@ pre {
   }
 }
 
+.highlight {
+  border-radius: 3px;
+  background: $light-code-background-color;
+  @extend %vertical-rhythm;
+
+  .highlighter-rouge & {
+    background: $light-code-background-color;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .highlight {
+    background: $dark-code-background-color;
+
+    .highlighter-rouge & {
+      background: $dark-code-background-color;
+    }
+  }
+}
 
 
 /**
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
   @extend %clearfix;
 
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
   }
 }
 
@@ -195,21 +271,74 @@ pre {
 /**
  * Icons
  */
-.icon > svg {
-  display: inline-block;
-  vertical-align: middle;
 
-  path {
-    fill: $grey-color;
+.orange {
+  color: #f66a0a;
+}
+
+.grey {
+  color: #828282;
+}
+
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: currentColor;
+  padding: 5px 3px 2px 5px;
+  vertical-align: text-bottom;
+}
+
+
+/**
+ * Tables
+ */
+table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  color: $light-table-text-color;
+  border-collapse: collapse;
+  border: 1px solid $light-table-border-color;
+  tr {
+    &:nth-child(even) {
+      background-color: $light-table-zebra-color;
+    }
+  }
+  th, td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+  th {
+    background-color: $light-table-header-bg-color;
+    border: 1px solid $light-table-header-border;
+  }
+  td {
+    border: 1px solid $light-table-border-color;
+  }
+
+  @include media-query($on-laptop) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+            -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
 
-.social-media-list {
-  .icon {
-    padding-right: 5px;
-  }
-
-  li + li {
-    padding-top: 5px;
+@media (prefers-color-scheme: dark) {
+  table {
+    color: $dark-table-text-color;
+    border: 1px solid $dark-table-border-color;
+    tr {
+      &:nth-child(even) {
+        background-color: $dark-table-zebra-color;
+      }
+    }
+    th {
+      background-color: $dark-table-header-bg-color;
+      border: 1px solid $dark-table-header-border;
+    }
+    td {
+      border: 1px solid $dark-table-border-color;
+    }
   }
 }
