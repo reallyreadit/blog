@@ -223,16 +223,19 @@ AS $$
 		(
 			SELECT
 				(
-					progress_element IS NOT NULL AND
-					progress_element != 0 AND
+					progress_element.value IS NOT NULL AND
+					progress_element.value != 0 AND
 					CASE
 						sign(
-							lag(progress_element) OVER ()
+							lag(progress_element.value) OVER (
+								ORDER BY
+									progress_element.ordinality
+							)
 						)
 					WHEN 1 THEN
-						progress_element < 0
+						progress_element.value < 0
 					WHEN -1 THEN
-						progress_element > 0
+						progress_element.value > 0
 					ELSE
 						TRUE
 					END
@@ -240,7 +243,13 @@ AS $$
 			FROM
 				unnest(
 					is_reading_progress_valid.reading_progress
-				) AS progress_element
+				)
+				WITH ORDINALITY
+				AS
+					progress_element (
+						value,
+						ordinality
+					)
 		) AS validation_check;
 $$;
 
