@@ -28,6 +28,8 @@ google_analytics: UA-141766719-2
 author:
   name: reallyread.it, inc.
   email: support@readup.com
+disqus:
+  shortname: Readup
 
 # Build settings
 theme: minima
