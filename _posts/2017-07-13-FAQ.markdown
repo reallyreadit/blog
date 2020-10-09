@@ -19,7 +19,7 @@ Yes!<br>
 <strong><i>- On your laptop or PC,</i></strong> use the Chrome extension to read anything you want in the Chrome browser, or star things for later.<br>
 <strong><i>- On your iPhone</i></strong>, you can add articles or stories to your starred list (from Safari, for example) by using the share extension button:</div>
 <div align="middle">
-<img src= "https://blog.readup.com/pics/shareicon.png" width="40px">
+<img src= "/pics/shareicon.png" width="40px">
 </div>
 <br>
 <div style="font-size:25px">

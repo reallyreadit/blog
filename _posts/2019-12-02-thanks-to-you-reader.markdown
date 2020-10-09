@@ -18,7 +18,7 @@ author: Bill Loundy
    To get the most out of Readup, it’s important to know how to send articles to Readup from anywhere on the internet. Here’s a demo to show you how long-tapping works on iOS:  
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/share-extension-long-tap-text.gif" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="/pics/share-extension-long-tap-text.gif" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     Whenever you see an article that you want to read on Readup, just follow these steps:
@@ -47,7 +47,7 @@ That’s it! Then you’ll see the article on your starred list on Readup and yo
     At this point, we have a long enough view to assess the overall impact of several major changes that we recently made to the platform. Here’s how things are looking: 
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/readsnov.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/readsnov.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <p>
     iOS app engagement definitely went up after we launched the new notification system (indicated by the green arrow) but then it appears to plateau. I can’t explain the Chrome spikes (any ideas?!) but overall everything still feels… stuck. So, we’re feeling mostly “meh” about this. 
@@ -56,7 +56,7 @@ That’s it! Then you’ll see the article on your starred list on Readup and yo
     The situation with comments is a slightly rosier picture:
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/commentsnov.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/commentsnov.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <p>
 The AOTDs are doing what they should be doing - encouraging conversation. Notifications (green arrow) worked, for sure. And although November is up from October by a noticeable margin, we’re still nowhere near resting on our laurels.

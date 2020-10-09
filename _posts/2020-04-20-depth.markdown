@@ -17,7 +17,7 @@ But I just checked my stats for this past month and, uhhh… yikes. It’s chaos
 </p>
 
 <p>
-<img src="https://blog.readup.com/pics/billsstats.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="/pics/billsstats.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>

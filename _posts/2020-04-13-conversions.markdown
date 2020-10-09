@@ -21,7 +21,7 @@ Let's jump in. This is real data, because we always keep it real:
 </p>
 
 <p>
-<img src="https://blog.readup.com/pics/conversions.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="/pics/conversions.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>
