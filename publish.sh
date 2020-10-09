@@ -8,7 +8,7 @@ export JEKYLL_ENV
 
 JEKYLL_ENV=production
 
-jekyll build
+bundle exec jekyll build
 
 aws s3 sync _site s3://blog.readup.com --region us-east-2 --delete
 
