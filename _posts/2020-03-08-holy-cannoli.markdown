@@ -33,7 +33,7 @@ The numbers still look great. These days, we're focused on the <em>daily</em> nu
 </p>
 
 <p>
-<img src="http://blog.readup.com/pics/wau111.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="https://blog.readup.com/pics/wau111.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>

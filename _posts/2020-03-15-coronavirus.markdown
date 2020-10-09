@@ -21,7 +21,7 @@ Y Combinator is looking for startups that are just on the verge of growing like 
 </p>
 
 <p>
-<img src="http://blog.readup.com/pics/wau123.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="https://blog.readup.com/pics/wau123.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>

@@ -30,13 +30,13 @@ We're overhauling all logged-out views of the platform, to try to get a higher p
     Finally, a pro tip: Readup automatically saves your spot if you need to take a break in the middle of a long article. The bookmark indicates that your spot was saved: 
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/bookmark.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/bookmark.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     When you return to the article, you'll get prompted to pick up where you left off. (Note: On Chrome, make sure to activate Reader Mode.) 
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/place.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/place.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <div style="width:75%;margin:1.5em auto;border-bottom:1px solid #ccc;"></div>
 <h2>
@@ -46,10 +46,10 @@ We're overhauling all logged-out views of the platform, to try to get a higher p
     Like I said, we <em>knew</em> we were feeling something last week. We're definitely up:  
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/tdc.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/tdc.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/dar.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/dar.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <div style="width:75%;margin:1.5em auto;border-bottom:1px solid #ccc;"></div>
 <h2>
@@ -59,7 +59,7 @@ We're overhauling all logged-out views of the platform, to try to get a higher p
     At the end of the day, we're trying to get people to read. So, here's yet another perspective on that, which also - at the very least - seems to be trending in the right direction:  
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/hours.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="https://blog.readup.com/pics/hours.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <p>
 Readup's alive and life is good. 

@@ -18,7 +18,7 @@ author: Bill Loundy
    To get the most out of Readup, it’s important to know how to send articles to Readup from anywhere on the internet. Here’s a demo to show you how long-tapping works on iOS:  
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/share-extension-long-tap-text.gif" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/share-extension-long-tap-text.gif" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     Whenever you see an article that you want to read on Readup, just follow these steps:

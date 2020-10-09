@@ -27,7 +27,7 @@ We need growth. Twitter needs reading, focus, and slowing down. It's a match mad
 </p>
 
 <p>
-<img src="http://blog.readup.com/pics/keystonee.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="https://blog.readup.com/pics/keystonee.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>

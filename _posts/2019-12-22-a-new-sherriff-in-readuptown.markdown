@@ -14,7 +14,7 @@ author: Bill Loundy
     At midnight last night, <a href="https://readup.com/@SEnkey">SEnkey</a> became the #1 Scout on Readup, after finding and posting an astounding <em>seven</em> of the last thirty Articles of the Day (AOTDs). Straight from the <a href="https://readup.com/leaderboards">leaderboards</a>, here are the current rankings: 
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/senkey.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/senkey.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     Please note that I plan to continue fighting tooth and nail for that top spot. But also, of course, I'm thrilled to pass on the torch. It's downright surreal that my co-founder and I are no longer the most influential readers on the platform that, uh... <em>we built</em>. But that's exactly how we designed it, so we're stoked.
@@ -34,13 +34,13 @@ author: Bill Loundy
     That saying about how startups are like roller-coasters really misses the point because (1) roller-coasters, unlike startups, are fun when they're going down and (2) with startups, the highs keep getting higher and the lows keep getting lower. 
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/tdcc.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/tdcc.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     So, yeah: Holy. Sh*t. <em>What. A. Wild. Week.</em>
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/darr.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="https://blog.readup.com/pics/darr.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <div style="width:75%;margin:1.5em auto;border-bottom:1px solid #ccc;"></div>
 <h2>
