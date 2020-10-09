@@ -38,7 +38,7 @@ author: Bill Loundy
 </p>
 <br>
 <p>
-	<img src="https://blog.readup.com/pics/total_actives.png" style="max-width:100%">
+	<img src="/pics/total_actives.png" style="max-width:100%">
 </p>
 <br>
 <p>

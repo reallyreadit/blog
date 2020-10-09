@@ -35,7 +35,7 @@ So, this week, we did the following:
 </p>
 
 <p>
-    <img src="http://blog.readup.com/pics/import.png" style="display:block;margin:0 auto;max-width:320px;">
+    <img src="/pics/import.png" style="display:block;margin:0 auto;max-width:320px;">
 </p>
 
 <p>

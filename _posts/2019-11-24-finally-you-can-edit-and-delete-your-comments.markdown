@@ -21,7 +21,7 @@ author: Bill Loundy
     In all the places (iOS, Chrome, etc.) you’ll now see two wonderful little buttons underneath all of your comments:  
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/shotr.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="/pics/shotr.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     Here’s how it works:
@@ -50,7 +50,7 @@ author: Bill Loundy
     Next: Yippee! Overall engagement on the AOTDs continues to rise. More and more people are reading and responding, and the shorter articles are especially popular. Here’s a list of Readup’s top publishers: 
 </p> 
 <p>
-    <img src="https://blog.readup.com/pics/graphr.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/graphr.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <p>
     No huge surprises here; we’re tri-state cats with New York in our blood. The Atlantic and WIRED, I’ve noticed, are positively surging in the last few months. 
@@ -63,7 +63,7 @@ author: Bill Loundy
     Making it so that comments can be edited and deleted was surprisingly tricky. Where you see two simple buttons, Jeff, Readup’s fearless CTO, sees this:
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/mapr.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/mapr.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <p>
     Psychedelic, right?

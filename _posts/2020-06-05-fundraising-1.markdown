@@ -29,11 +29,11 @@ May was Readup’s biggest month ever. By far. Pick a metric and it was up. Way 
 </p>
 
 <p>
-<img src="http://blog.readup.com/pics/charta.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="/pics/charta.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>
-<img src="http://blog.readup.com/pics/chartb.png" style="display:block;margin:0 auto;max-width:100%;">
+<img src="/pics/chartb.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>
