@@ -16,3 +16,11 @@
 code {
 	tab-size: 2em;
 }
+
+noscript {
+	display: block;
+	padding: 0.5em;
+	margin-bottom: 0.5em;
+	background: #fdfd80;
+	color: $light-text-color;
+}
