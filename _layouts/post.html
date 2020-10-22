@@ -23,8 +23,18 @@ layout: default
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
+            <span class="p-author h-card" itemprop="name">
+              {%- case author -%}
+                {%- when "Bill Loundy" -%}
+                  <a href="https://billloundy.com/">{{ author }}</a>
+                {%- when "Jeff Camera" -%}
+                  <a href="https://jeffcamera.com/">{{ author }}</a>
+                {%- else -%}
+                  {{ author }}
+              {%- endcase -%}
+            </span>
+          </span>
+          {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
   </header>
