@@ -35,6 +35,7 @@ theme: minima
 minima:
   skin: auto
   social_links:
+    github: reallyreadit
     twitter: ReadupDotCom
 plugins:
   - jekyll-feed
