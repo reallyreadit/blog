@@ -14,19 +14,19 @@ The initial inspiration for Readup was an idea that my co-founder, Bill, had for
 
 From a technical perspective the next question is obvious: How could you know whether or not a person had read a given article? Let's walk through some options, roughly sorted from highest to lowest confidence level:
 
-1. **Read the user's brain.** No APIs available yet. Keeping an eye on Neuralink.
+1. **Read the person's brain.** No APIs available yet. Keeping an eye on Neuralink.
 
-2. **Quiz the user on the content of the article.** A less invasive way to peek inside someone's brain. Bill originally pitched me the idea of keeping non-readers out of the comments back in the spring of 2016, almost a full year before [NRKbeta launched their quiz-to-comment Wordpress plugin](https://www.niemanlab.org/2017/03/this-site-is-taking-the-edge-off-rant-mode-by-making-readers-pass-a-quiz-before-commenting/). I don't remember if we ever discussed this approach at the time, but the biggest limiting factor would have been that a human would have to create the quiz questions for each article. We wanted our reading test to be completely automatic and generic enough that it could be used on any article on the web.
+2. **Quiz the reader on the content of the article.** A less invasive way to peek inside someone's brain. Bill originally pitched me the idea of keeping non-readers out of the comments back in the spring of 2016, almost a full year before [NRKbeta launched their quiz-to-comment Wordpress plugin](https://www.niemanlab.org/2017/03/this-site-is-taking-the-edge-off-rant-mode-by-making-readers-pass-a-quiz-before-commenting/). I don't remember if we ever discussed this approach at the time, but the biggest limiting factor would have been that a human would have to create the quiz questions for each article. We wanted our reading test to be completely automatic and generic enough that it could be used on any article on the web.
 
 	Now, you could generate some questions programmatically. For example: "What was the *n*th word of the *n*th paragraph?" But such questions don't actually test comprehension, are annoying to answer and are just as easy to cheat as they are to create. I'm sure one could create better questions using natural language processing and content relevance algorithms but I still think it would be difficult to generate questions that are tied to the central plot or theme of the article and are not immediately solvable with a quick text search. Still sounds like a fun project though!
 
-3. **Track the user's eye movements with a camera.** Worth a mention because again it sounds like a fun project. Since there aren't any standard eye-tracking APIs we'd require live camera access which is of course a huge invasion of privacy. Come to think of it, a standard eye-tracking API might be even creepier. Either way we can rule this one out due to privacy concerns.
+3. **Track the reader's eye movements with a camera.** Worth a mention because again it sounds like a fun project. Since there aren't any standard eye-tracking APIs we'd require live camera access which is of course a huge invasion of privacy. Come to think of it, a standard eye-tracking API might be even creepier. Either way we can rule this one out due to privacy concerns.
 
-4. **Verify that the user has scrolled to the bottom of the article.** You may have run into this when signing up for a new service or installing a new program. There's [a section in the InstallShield docs](https://docs.flexera.com/installshield23helplib/helplibrary/EulaScrollWatcher.htm) that explains how to require users to scroll through the End-User License Agreement before proceeding with the installation. There's also [some discussion on the UX Stack Exchange](https://ux.stackexchange.com/questions/35932/whats-the-best-way-to-make-a-user-read-terms-and-conditions-before-continuing-a) explaining why it's a bad idea.
+4. **Verify that the reader has scrolled to the bottom of the article.** You may have run into this when signing up for a new service or installing a new program. There's [a section in the InstallShield docs](https://docs.flexera.com/installshield23helplib/helplibrary/EulaScrollWatcher.htm) that explains how to require users to scroll through the End-User License Agreement before proceeding with the installation. There's also [some discussion on the UX Stack Exchange](https://ux.stackexchange.com/questions/35932/whats-the-best-way-to-make-a-user-read-terms-and-conditions-before-continuing-a) explaining why it's a bad idea.
 
 	For our purposes the user experience concerns aren't an issue since articles, unlike most EULAs, are (ideally) written to be read. The main issue is that this check is absurdly easy to bypass. Press the End key or drag the scroll bar to the bottom and you're in. We're looking for something more comprehensive but unfortunately we're also nearing the bottom of our list.
 
-5. **Verify that the user has spent enough time on the page.** No instant bypass here, but time alone doesn't tell us much. The user could have left to get a cup of coffee for 15 minutes and we wouldn't know the difference. We could look for periodic input or scroll events as a sign of activity but it still wouldn't tell us whether the user is reading.
+5. **Verify that the reader has spent enough time on the page.** No instant bypass here, but time alone doesn't tell us much. The reader could have left to get a cup of coffee for 15 minutes and we wouldn't know the difference. We could look for periodic input or scroll events as a sign of activity but it still wouldn't tell us whether the reader is reading.
 
 So we've reached the end of our list without a single solution. Options 1, 2 and 3 were each ruled out completely for different reasons but 4 and 5 merely failed to provide a robust enough solution on their own. Maybe we can combine them to create something better than the sum of their parts. Let's back up a bit first though. What does it actually mean to read an article? Or rather, to avoid the obvious metaphysical quandaries of such a question, how would we model it programmatically? We've got a hunch about the inputs (scroll position and time), but what about the outputs? Before we even start mucking around with an implementation, let's consider the broader architecture.
 
@@ -34,11 +34,11 @@ So we've reached the end of our list without a single solution. Options 1, 2 and
 
 Since any program that attempts to model a slice of reality is always battling against the aforementioned metaphysical quandaries it's useful to establish some axiomatic anchor points that we can tether ourselves to. Let's begin, working from the most general to most specific:
 
-1. **It's impossible to really know whether a user has read an article.** Again, no Neuralink API. What we're really looking to do is establish degrees of plausibility given the information and infrastructure available to us.
+1. **It's impossible to really know whether a reader has read an article.** Again, no Neuralink API. What we're really looking to do is establish degrees of plausibility given the information and infrastructure available to us.
 
 2. **You can't trust client input.** Given our information (scroll position and time) and infrastructure (the web) it's important to keep in mind that any client request received by the server is untrustworthy. It doesn't matter how fancy the client-side algorithms are. Any request can be forged.
 
-3. **There must be a binary threshold somewhere.** We've acknowledged that our inputs are fuzzy, but ultimately we need to reduce the state of the relationship between any given user to any given article to a binary value. Yes, user *X* did read article *Y* or no, user *X* did not read article *Y*.
+3. **There must be a binary threshold somewhere.** We've acknowledged that our inputs are fuzzy, but ultimately we need to reduce the state of the relationship between any given reader to any given article to a binary value. Yes, reader *X* did read article *Y* or no, reader *X* did not read article *Y*.
 
 4. **You can't un-read something you've read.** This might sound obvious but it's actually really helpful. Mutability increases the complexity of a system dramatically. If a piece of data must be mutable, the ramifications can at least be mitigated by narrowing the paths and limits of mutation.
 
@@ -46,18 +46,18 @@ Now keeping all that in mind, let's think about data structures. We know we need
 
 ```sql
 CREATE TABLE
-	user_article (
-		user_id    int REFERENCES user (id),
+	reader_article (
+		reader_id  int REFERENCES reader (id),
 		article_id int REFERENCES article (id),
 		is_read    bool NOT NULL,
 		PRIMARY KEY (
-			user_id,
+			reader_id,
 			article_id
 		)
 	);
 ```
 
-Needlessly complex it is not, but even at a glance it's missing some important information. One could imagine it might be nice to know when you read that article, but even if we change the name of the column from `is_read` to `date_read` and the data type from `bool` to `timestamp` we've still got some problems. What if a user is half way through reading an hour long article and decides to take a break and finish it later? We need a way to store partial progress.
+Needlessly complex it is not, but even at a glance it's missing some important information. One could imagine it might be nice to know when you read that article, but even if we change the name of the column from `is_read` to `date_read` and the data type from `bool` to `timestamp` we've still got some problems. What if a reader is half way through reading an hour long article and decides to take a break and finish it later? We need a way to store partial progress.
 
 ```sql
 CREATE DOMAIN
@@ -70,19 +70,19 @@ CHECK (
 
 
 CREATE TABLE
-	user_article (
-		user_id    int REFERENCES user (id),
+	reader_article (
+		reader_id  int REFERENCES reader (id),
 		article_id int REFERENCES article (id),
 		progress   reading_progress NOT NULL,
 		date_read  timestamp,
 		PRIMARY KEY (
-			user_id,
+			reader_id,
 			article_id
 		)
 	);
 ```
 
-A definite improvement, but is it good enough? For some domains it might be, but this model is predicated on the assumption that reading is a strictly linear process, or at least it fails to distinguish between reading say the first 20% or last 20% of an article. Or how about the first 5% of each of the first 10 paragraphs? Skimming might not count as reading but it's a wide-spread behavior that we would fail to capture. What we really want to know is which parts of an article a user has read. Let's get crazy and see what it would take to track whether each individual word has been read or not. We could of course zoom in even further to individual morphemes or characters but let's not get too carried away.
+A definite improvement, but is it good enough? For some domains it might be, but this model is predicated on the assumption that reading is a strictly linear process, or at least it fails to distinguish between reading say the first 20% or last 20% of an article. Or how about the first 5% of each of the first 10 paragraphs? Skimming might not count as reading but it's a wide-spread behavior that we would fail to capture. What we really want to know is which parts of an article a reader has read. Let's get crazy and see what it would take to track whether each individual word has been read or not. We could of course zoom in even further to individual morphemes or characters but let's not get too carried away.
 
 ```sql
 CREATE DOMAIN
@@ -104,13 +104,13 @@ CREATE TABLE
 	);
 
 CREATE TABLE
-	user_word (
-		user_id    int REFERENCES user (id),
+	reader_word (
+		reader_id  int REFERENCES reader (id),
 		article_id int,
 		index      word_index,
 		date_read  timestamp NOT NULL,
 		PRIMARY KEY (
-			user_id,
+			reader_id,
 			article_id,
 			index
 		),
@@ -126,21 +126,21 @@ CREATE TABLE
 	);
 ```
 
-Well, it's pretty normalized! It's also completely horrifying. First there's the storage concerns. We're looking at thousands, perhaps tens of thousands, of rows required per article and then potentially an equal amount per user per article. Then there's the computation. One could imagine that we might want to know how many users have read article *X*, but without caching that value we'd constantly be aggregating each word every user has read in order to answer that question. I think some optimization is justified and luckily we now have an excess of information on our hands. Would we ever really care that the 101st word of an article was read 10 milliseconds after the 100th? I think it's safe to say we can dial that resolution back a bit. In order to optimize, let's first take a look at some sample data using that model to see if we notice any patterns.
+Well, it's pretty normalized! It's also completely horrifying. First there's the storage concerns. We're looking at thousands, perhaps tens of thousands, of rows required per article and then potentially an equal amount per reader per article. Then there's the computation. One could imagine that we might want to know how many readers have read article *X*, but without caching that value we'd constantly be aggregating each word every reader has read in order to answer that question. I think some optimization is justified and luckily we now have an excess of information on our hands. Would we ever really care that the 101st word of an article was read 10 milliseconds after the 100th? I think it's safe to say we can dial that resolution back a bit. In order to optimize, let's first take a look at some sample data using that model to see if we notice any patterns.
 
 ```sql
--- Retrieve the reading progress for user 7 on article 8.
+-- Retrieve the reading progress for reader 7 on article 8.
 SELECT
 	word.index,
-	user_word.date_read
+	reader_word.date_read
 FROM
 	word
-	LEFT JOIN user_word ON
-		user_word.article_id = word.article_id AND
-		user_word.index = word.index
+	LEFT JOIN reader_word ON
+		reader_word.article_id = word.article_id AND
+		reader_word.index = word.index
 WHERE
 	word.article_id = 8 AND
-	user_word.user_id = 7
+	reader_word.reader_id = 7
 ORDER BY
 	word.index;
 
@@ -180,15 +180,15 @@ Looking better, but still pretty redundant. Since we only have two possible valu
 {7, 3, 2, 2, 1, 3, 1, 1}
 ```
 
-That's seven `TRUE`s followed by three `NULL`s followed by two `TRUE`s followed by two `NULL`s followed by one `TRUE` followed by three `NULL`s followed by one `TRUE` followed by one `NULL`. Or wait, does that sequence start with seven `NULL`s? What if the user skips the first words of the article? We need some way to indicate whether we're counting clusters of words that have been read or not read. Luckily for us we can represent that information while still just using an array of integers by utilizing the number's sign.
+That's seven `TRUE`s followed by three `NULL`s followed by two `TRUE`s followed by two `NULL`s followed by one `TRUE` followed by three `NULL`s followed by one `TRUE` followed by one `NULL`. Or wait, does that sequence start with seven `NULL`s? What if the reader skips the first words of the article? We need some way to indicate whether we're counting clusters of words that have been read or not read. Luckily for us we can represent that information while still just using an array of integers by utilizing the number's sign.
 
 ```sql
 {7, -3, 2, -2, 1, -3, 1, -1}
 ```
 
-That's it! That's the reading progress for user 7 on article 8 condensed into a single value. Positive numbers represent clusters of words that have been read and negative numbers represent clusters of words that have not been read. Storing arrays in a database column always feels a little strange, and for good reason. But we did our due diligence by exploring the relational modeling of the data and I believe we made the case for using an array instead due to our practical concerns about storage and computational complexity.
+That's it! That's the reading progress for reader 7 on article 8 condensed into a single value. Positive numbers represent clusters of words that have been read and negative numbers represent clusters of words that have not been read. Storing arrays in a database column always feels a little strange, and for good reason. But we did our due diligence by exploring the relational modeling of the data and I believe we made the case for using an array instead due to our practical concerns about storage and computational complexity.
 
-You might point out that running the aggregate calculations on this array column could be even more expensive than doing the same over the word tables. But since we dropped the timestamps for individual words we must go back to using a nullable `date_read` column to capture the one timestamp that we do care about which will make counting reads a breeze. Let's update the previous `user_article` table but change the underlying data type and check expression for the `reading_progress` domain with a tailored integer array instead.
+You might point out that running the aggregate calculations on this array column could be even more expensive than doing the same over the word tables. But since we dropped the timestamps for individual words we must go back to using a nullable `date_read` column to capture the one timestamp that we do care about which will make counting reads a breeze. Let's update the previous `reader_article` table but change the underlying data type and check expression for the `reading_progress` domain with a tailored integer array instead.
 
 ```sql
 /*
@@ -262,25 +262,25 @@ CHECK (
 );
 
 CREATE TABLE
-	user_article (
-		user_id    int REFERENCES user (id),
+	reader_article (
+		reader_id  int REFERENCES reader (id),
 		article_id int REFERENCES article (id),
 		progress   reading_progress NOT NULL,
 		date_read  timestamp,
 		PRIMARY KEY (
-			user_id,
+			reader_id,
 			article_id
 		)
 	);
 ```
 
-So is this it? Are we finally done with this data model? It's looking pretty solid, but the keen among you might have realized that while the sample data with 20 words looked nice and tidy we're still in a position where we could end up with a massive array with a length equal to the number of words in the article. Imagine a user read every other word of a 10,000 word article. The reading progress array would look like this: `{1, -1, 1, -1, 1, -1...}`. The pattern would continue all the way up to the 10,000th element but would nevertheless satisfy our validation function.
+So is this it? Are we finally done with this data model? It's looking pretty solid, but the keen among you might have realized that while the sample data with 20 words looked nice and tidy we're still in a position where we could end up with a massive array with a length equal to the number of words in the article. Imagine a reader read every other word of a 10,000 word article. The reading progress array would look like this: `{1, -1, 1, -1, 1, -1...}`. The pattern would continue all the way up to the 10,000th element but would nevertheless satisfy our validation function.
 
-This might look like a bug but I'd argue that it's actually a feature. Could a human even read in such a way that would generate that crazy reading progress array or did we just spot our first bot or malicious user? Well that depends on the implementation. What a perfect segue!
+This might look like a bug but I'd argue that it's actually a feature. Could a human even read in such a way that would generate that crazy reading progress array or did we just spot our first bot or malicious reader? Well that depends on the implementation. What a perfect segue!
 
 ## The Implementation
 
-Let's circle back to our inputs (scroll position and time) and our execution environment (web browser) and see what we can do to color in our data model. We've already established that there's no event that will fire when a user reads a word of an article so we're going to have to start making some assumptions. Requiring a user to press a key or tap a button to indicate that they're reading would be a terrible user experience so we'll have to just assume that the user is reading the text on their screen. Web pages are just structured text documents so that shouldn't be too difficult, right?
+Let's circle back to our inputs (scroll position and time) and our execution environment (web browser) and see what we can do to color in our data model. We've already established that there's no event that will fire when a reader reads a word of an article so we're going to have to start making some assumptions. Requiring a reader to press a key or tap a button to indicate that they're reading would be a terrible user experience so we'll have to just assume that the reader is reading the text on their screen. Web pages are just structured text documents so that shouldn't be too difficult, right?
 
 Well if you randomly sample even just a handful of articles from different publishers you might notice that the actual text content of the article is often only a small part of the web page document. There is a lot of noise, not just in the visual representation but also in the markup. Determining which parts of the document comprise the actual article content is a complicated problem that we'll save for a future blog post which could easily be even longer than this one. For now let's assume that we know where the article text is within the document and use the following simplified model of the reading environment.
 
@@ -294,7 +294,7 @@ Is this enough information? Well, kind of. We can calculate that 50% of the area
 
 Context is very important here. At the time of writing Readup consists entirely of two people, only one of whom is a developer, both from the United States. As a result of our small size and limited resources we're only going to be focusing on English text for the time being. This is important because although English speakers might take it as a given that words are separated by spaces this is not the case in every language. Check out this Stack Overflow question as an example: [How does Chrome decide what to highlight when you double-click Japanese text?](https://stackoverflow.com/questions/61672829/how-does-chrome-decide-what-to-highlight-when-you-double-click-japanese-text). The [Text boundaries & wrapping](https://r12a.github.io/scripts/tutorial/part5) section of [An Introduction to Writing Systems & Unicode](https://r12a.github.io/scripts/tutorial/index), cited in a comment on an answer to that question, also does a great job of illustrating the complexities of determining what a word even is. Text direction is another factor that can vary from language to language but again we're going to stick with the English rules of top-to-bottom, left-to-right for now.
 
-As an aside, even though we're only designing for English, there are quite a few other languages that will work just fine without any extra effort. A user recently [posted an article](https://readup.com/comments/newsweek-belgi/moeten-we-ons-opmaken-voor-een-ijskoude-oorlog-aan-de-polen-deel-1---newsweek-be) from a Belgian publisher written in Dutch. Thanks to a suggestion from the user I was able to use Google Chrome's translation feature to translate the text and get credit for reading the article on Readup. The tracker measures slightly different word counts between the original Dutch and the English translation but the mapping between these two languages is close enough that it just works.
+As an aside, even though we're only designing for English, there are quite a few other languages that will work just fine without any extra effort. A reader recently [posted an article](https://readup.com/comments/newsweek-belgi/moeten-we-ons-opmaken-voor-een-ijskoude-oorlog-aan-de-polen-deel-1---newsweek-be) from a Belgian publisher written in Dutch. Thanks to a suggestion from the reader I was able to use Google Chrome's translation feature to translate the text and get credit for reading the article on Readup. The tracker measures slightly different word counts between the original Dutch and the English translation but the mapping between these two languages is close enough that it just works.
 
 Acknowledging all those caveats, for our purposes a word is simply going to be defined as any contiguous grouping of one or more non-whitespace characters. This will be relatively quick to calculate and reason about and should work as a decent enough approximation.
 
@@ -351,7 +351,7 @@ paragraphElements.forEach(nestTextWithinSpanElement);
 
 Now we're getting somewhere. If we call `Element.getClientRects` on any of those freshly minted span elements we get an array of `DOMRect`s containing the dimensions and coordinates of each line of text. Let's pause here for a minute though and consider what is actually gained from this little trick. We still don't know which words are on which lines, so is this really any better than the previous approach? For accuracy? Barely. You'll see in a moment that we'd start reading at the 16th word instead of the 13th which is more accurate but I don't think that's enough of an improvement to justify the additional complexity of worrying about individual lines of text.
 
-What does justify the complexity, I'd argue, is improved visual debugging and the ability to reason about reading progress on a line level versus a paragraph or article level. The visual debugging is a fun party trick, but it's also crucial in helping to track down reading bugs. If you haven't realized it by now, we take reading very seriously. It's sacred, and bugs that result in users not getting credit for articles they've read are considered critical. The execution environments are also an absolute nightmare. Every publisher and CMS has a different document structure with different scripts running in different browsers and web views on different devices. There will be an endless supply of compatibility bugs so the ability to enable high resolution visual debugging on the fly is an important asset. Being able to see exactly where the tracker thinks each line of text is versus just the entire paragraph gives us a much clearer picture of what's going on under the hood. Tap the button below to check it out!
+What does justify the complexity, I'd argue, is improved visual debugging and the ability to reason about reading progress on a line level versus a paragraph or article level. The visual debugging is a fun party trick, but it's also crucial in helping to track down reading bugs. If you haven't realized it by now, we take reading very seriously. It's sacred, and bugs that result in readers not getting credit for articles they've read are considered critical. The execution environments are also an absolute nightmare. Every publisher and CMS has a different document structure with different scripts running in different browsers and web views on different devices. There will be an endless supply of compatibility bugs so the ability to enable high resolution visual debugging on the fly is an important asset. Being able to see exactly where the tracker thinks each line of text is versus just the entire paragraph gives us a much clearer picture of what's going on under the hood. Tap the button below to check it out!
 
 <div id="com_readup_blog_post_debug_container" style="margin: 2em; text-align: center;">
 	<button id="com_readup_blog_post_debug_button" style="padding: 1em;">Toggle Visual Debugging</button>
@@ -490,11 +490,11 @@ Let's let that run for 5 seconds on our example web page and see where we end up
 
 ![Reading Environment Diagram](/assets/2020/08/reading-environment-diagram-4.svg)
 
-And that's it! As the interval delegate continues to fire, the rest of the lines visible within the viewport will continue to be marked as read, as will those currently outside the viewport as the user scrolls them into view. I think you might agree that initiating a request to the server every 200 ms to update the progress in the database would be a bit excessive. We can instead let the progress accumulate in memory on the client for a while and create another interval that will combine all the individual line reading progress arrays and send it off to the server every few seconds. (Readup currently does this every three seconds.)
+And that's it! As the interval delegate continues to fire, the rest of the lines visible within the viewport will continue to be marked as read, as will those currently outside the viewport as the reader scrolls them into view. I think you might agree that initiating a request to the server every 200 ms to update the progress in the database would be a bit excessive. We can instead let the progress accumulate in memory on the client for a while and create another interval that will combine all the individual line reading progress arrays and send it off to the server every few seconds. (Readup currently does this every three seconds.)
 
 Speaking of timing, how did we end up with that 200 ms [magic number](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) for our reading interval? 300 words per minute is a [commonly cited reading rate](https://digest.bps.org.uk/2019/06/13/most-comprehensive-review-to-date-suggests-the-average-persons-reading-speed-is-slower-than-commonly-thought/) but there is quite a bit of variance between studies. There is also a lot of debate about speed reading and the difference between reading and skimming. John F. Kennedy said he could read 1,200 words per minute but [Ronald Carver thought that was "bunk"](https://slate.com/news-and-politics/2000/02/the-1000-word-dash.html) based on his 1985 study: *How Good Are Some of the World's Best Readers?*. Carver's findings seem pretty convincing to us so to be on the safe side we've set the actual tracker rate to the upper limit of the fastest readers at a whopping 600 words per minute. On the flip side we use a lower limit rate of only 184 words per minute when estimating article length.
 
-Another thing we'll have to keep in mind is that HTML documents are fluid by nature. At any point in time a user can rotate their device or resize their browser window and the dimensions of our paragraph elements and every node within them can change to accommodate the new viewport dimensions. The text will be reflowed and the number of lines within each paragraph can change. There are events that fire under both those circumstances but any random DOM manipulation could also change the position of the article text since the last time we measured it so Readup has yet another interval running that periodically rechecks those measurements every three seconds just to be on the safe side.
+Another thing we'll have to keep in mind is that HTML documents are fluid by nature. At any point in time a reader can rotate their device or resize their browser window and the dimensions of our paragraph elements and every node within them can change to accommodate the new viewport dimensions. The text will be reflowed and the number of lines within each paragraph can change. There are events that fire under both those circumstances but any random DOM manipulation could also change the position of the article text since the last time we measured it so Readup has yet another interval running that periodically rechecks those measurements every three seconds just to be on the safe side.
 
 There are countless other scenarios (such as restoring an existing reading progress array to resume reading) and necessary validation checks that are unaccounted for by the code samples in this article. In fact all of the code samples are simplified versions of the real thing with the exception of the database reading progress array validation check. The intent was to boil the functionality down to the basics so that you could hopefully get a sense of the core mechanics of the Readup tracker. Before we finish there's one last thing I want to circle back to.
 
@@ -504,7 +504,7 @@ Now that you hopefully have a pretty good understanding of how the system works,
 
 1. **This is about way more than just keeping non-readers out of the comment section.** We want to surface the best articles on the internet based on the deepest level of engagement possible. We want to capture all the bounces, all the skimming and all the deep reading and use that data to rank articles instead of relying on superficial "likes" and "upvotes" which are mostly just knee-jerk reactions to headlines. [A study conducted by researchers at Notre Dame University](https://ieeexplore.ieee.org/document/8026184) on Reddit voting behavior supports this assertion:
 
-	 > We find that most users do not read the article that they vote on, and that, in total, 73% of posts were rated (i.e., upvoted or downvoted) without first viewing the content.
+	 > We find that most readers do not read the article that they vote on, and that, in total, 73% of posts were rated (i.e., upvoted or downvoted) without first viewing the content.
 
 	 And these researchers, [like Twitter](https://twitter.com/twittersupport/status/1270783537667551233), equate viewing an article with reading an article. What percentage of people who did bother to click the link to an article actually read it to completion? We can do better, people. We have to!
 
@@ -516,9 +516,9 @@ Now that you hopefully have a pretty good understanding of how the system works,
 
 	 They're still using the same quiz plug-in all these years later which is at least a partial testament to that approach.
 
-4. **You can only get away with so much.** Even if you are cheating, you can only cheat so much. If we run a database query and see that a user has read 3 hour long articles within a 5 minute time span we would know something is up. It would also look suspicious if someone appeared to be reading non-stop at a constant rate for 24-hours straight. Basically, although cheating is inevitable there are at least some patterns we could guard against if it ever becomes a big enough problem on the platform.
+4. **You can only get away with so much.** Even if you are cheating, you can only cheat so much. If we run a database query and see that a reader has read 3 hour long articles within a 5 minute time span we would know something is up. It would also look suspicious if someone appeared to be reading non-stop at a constant rate for 24-hours straight. Basically, although cheating is inevitable there are at least some patterns we could guard against if it ever becomes a big enough problem on the platform.
 
-    Another potential approach might be to compare entire reading progress update streams to look for patterns that might emerge for different articles. Do users always read at a constant rate or are there certain sections of certain articles that they might tend to read faster or slower which a reading bot would fail to emulate? This is pure speculation but it's something that I think would be very interesting to look at one day.
+    Another potential approach might be to compare entire reading progress update streams to look for patterns that might emerge for different articles. Do readers always read at a constant rate or are there certain sections of certain articles that they might tend to read faster or slower which a reading bot would fail to emulate? This is pure speculation but it's something that I think would be very interesting to look at one day.
 
 So yes, while it is possible to cheat there are some hard limits thanks to our server-side architecture and more importantly we hope that you find Readup to be a useful tool for keeping yourself honest and accountable. I can remember many instances where I had a visceral, negative reaction to an article's headline and proceeded to read it just so I could leave a scathing comment. However, what usually ends up happening is that taking the time to read takes the edge off. By the time I finish the article I'm often left with a positive or at least more nuanced impression of the author's point of view.
 
