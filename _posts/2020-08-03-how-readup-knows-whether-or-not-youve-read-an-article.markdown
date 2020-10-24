@@ -68,7 +68,6 @@ CHECK (
 	VALUE <@ '[0, 1]'::numrange
 );
 
-
 CREATE TABLE
 	reader_article (
 		reader_id  int REFERENCES reader (id),
@@ -136,11 +135,11 @@ SELECT
 FROM
 	word
 	LEFT JOIN reader_word ON
+		reader_word.reader_id = 7 AND
 		reader_word.article_id = word.article_id AND
 		reader_word.index = word.index
 WHERE
-	word.article_id = 8 AND
-	reader_word.reader_id = 7
+	word.article_id = 8
 ORDER BY
 	word.index;
 
