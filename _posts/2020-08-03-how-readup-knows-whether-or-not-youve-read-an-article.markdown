@@ -8,6 +8,8 @@ author: Jeff Camera
 
 This is Readup's first technical blog post so naturally it has to be about the read-tracker. Our entire platform is centered on article completion so the read-tracker, which determines whether or not someone has read an article, is absolutely foundational. Rather than just explain why things are they way they are I thought I'd try to walk you through the design process. My hope is that structuring the article this way will make it more interesting and easier to follow along. Code snippets are in PostgreSQL or TypeScript in a browser environment. If you're not a programmer feel free to skip the code sections or just read the comments within them. I tried to write this in such a way that it would make sense to non-programmers as well as those with a technical background.
 
+The [sample code repository](https://github.com/reallyreadit/blog-tech-samples/tree/master/01) contains some additional resources and seed data.
+
 ## The Problem Domain
 
 The initial inspiration for Readup was an idea that my co-founder, Bill, had for improving the quality of discourse in article comment sections: Make commenting a privilege for those who put in the time to actually read the article and keep everyone else out. Doing so might not result in a commenting utopia, but it seemed like a reasonable minimum requirement for participation that no one had bothered to implement.
