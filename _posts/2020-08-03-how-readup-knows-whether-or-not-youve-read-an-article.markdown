@@ -391,7 +391,9 @@ interface Paragraph {
 function createLines(paragraphElement: HTMLElement) {
 	// take some measurements
 	const
-		clientRects = paragraphElement.firstElementChild.getClientRects(),
+		clientRects = Array.from(
+			paragraphElement.firstElementChild.getClientRects()
+		),
 		lineCount = clientRects.length,
 		wordCount = countWords(paragraphElement),
 		minLineWordCount = Math.floor(wordCount / lineCount);
@@ -437,7 +439,7 @@ function tryReadWord(lines: Line[]) {
 	have to check the sign of the last element in the array.
 	*/
 	const unfinishedLines = lines.filter(
-		line => line[line.length - 1] < 0
+		line => line.readingProgress[line.readingProgress.length - 1] < 0
 	);
 	// return false if there is nothing left to read
 	if (!unfinishedLines.length) {
@@ -468,7 +470,7 @@ function tryReadWord(lines: Line[]) {
 }
 // create an array of lines from the paragraphs
 const lines = paragraphs.reduce(
-	(lines, paragraph) => lines.concat(paragraph.lines)
+	(lines, paragraph) => lines.concat(paragraph.lines),
 	[]
 );
 // set an interval to read a word every 200 ms (equal to 300 word per minute)
