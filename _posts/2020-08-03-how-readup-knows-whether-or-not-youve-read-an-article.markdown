@@ -85,7 +85,7 @@ A definite improvement, but is it good enough? For some domains it might be, but
 
 ```sql
 CREATE DOMAIN
-	word_index
+	word_number
 AS
 	int
 CHECK (
@@ -95,10 +95,10 @@ CHECK (
 CREATE TABLE
 	word (
 		article_id int REFERENCES article (id),
-		index      word_index,
+		number     word_number,
 		PRIMARY KEY (
 			article_id,
-			index
+			number
 		)
 	);
 
@@ -106,21 +106,21 @@ CREATE TABLE
 	reader_word (
 		reader_id  int REFERENCES reader (id),
 		article_id int,
-		index      word_index,
+		number     word_number,
 		date_read  timestamp NOT NULL,
 		PRIMARY KEY (
 			reader_id,
 			article_id,
-			index
+			number
 		),
 		FOREIGN KEY (
 			article_id,
-			index
+			number
 		)
 		REFERENCES
 			word (
 				article_id,
-				index
+				number
 			)
 	);
 ```
@@ -130,44 +130,44 @@ Well, it's pretty normalized! It's also completely horrifying. First there's the
 ```sql
 -- Retrieve the reading progress for reader 7 on article 8.
 SELECT
-	word.index,
+	word.number,
 	reader_word.date_read
 FROM
 	word
 	LEFT JOIN reader_word ON
 		reader_word.reader_id = 7 AND
 		reader_word.article_id = word.article_id AND
-		reader_word.index = word.index
+		reader_word.number = word.number
 WHERE
 	word.article_id = 8
 ORDER BY
-	word.index;
+	word.number;
 
-| index | date_read               |
-|-------|-------------------------|
-|   0   | 2020-01-01T12:00:00.000 |
-|   1   | 2020-01-01T12:00:00.326 |
-|   2   | 2020-01-01T12:00:00.652 |
-|   3   | 2020-01-01T12:00:01.304 |
-|   4   | 2020-01-01T12:00:01.630 |
-|   5   | 2020-01-01T12:00:01.956 |
-|   6   | 2020-01-01T12:00:02.282 |
-|   7   | NULL                    |
-|   8   | NULL                    |
-|   9   | NULL                    |
-|   10  | 2020-01-01T12:00:04.000 |
-|   11  | 2020-01-01T12:00:04.326 |
-|   12  | NULL                    |
-|   13  | NULL                    |
-|   14  | 2020-01-01T12:00:05.000 |
-|   15  | NULL                    |
-|   16  | NULL                    |
-|   17  | NULL                    |
-|   18  | 2020-01-01T12:00:06.000 |
-|   19  | NULL                    |
+| number | date_read               |
+|--------|-------------------------|
+|    0   | 2020-01-01T12:00:00.000 |
+|    1   | 2020-01-01T12:00:00.326 |
+|    2   | 2020-01-01T12:00:00.652 |
+|    3   | 2020-01-01T12:00:01.304 |
+|    4   | 2020-01-01T12:00:01.630 |
+|    5   | 2020-01-01T12:00:01.956 |
+|    6   | 2020-01-01T12:00:02.282 |
+|    7   | NULL                    |
+|    8   | NULL                    |
+|    9   | NULL                    |
+|   10   | 2020-01-01T12:00:04.000 |
+|   11   | 2020-01-01T12:00:04.326 |
+|   12   | NULL                    |
+|   13   | NULL                    |
+|   14   | 2020-01-01T12:00:05.000 |
+|   15   | NULL                    |
+|   16   | NULL                    |
+|   17   | NULL                    |
+|   18   | 2020-01-01T12:00:06.000 |
+|   19   | NULL                    |
 ```
 
-Twenty words is a small sample size but we can make it work for this analysis. You can picture the same pattern of timestamps and nulls spread over a 2,000 word article or just imagine a 20 word sentence being read on a Tamagotchi. Either way we've got a cluster of reading at the start followed by some skimming to the end. We've already established that we don't care too much about knowing the exact millisecond that each word has been read, so given that, how can we compress the rest of the information into a more manageable structure? If we replace the timestamps with any non-null constant (we'll use `TRUE` in the following example) then all we have is a sequence of binary values. Let's represent this sequence as an array instead of a set. Since array elements have an intrinsic index we can ditch the `index` column in addition to the timestamp value.
+Twenty words is a small sample size but we can make it work for this analysis. You can picture the same pattern of timestamps and nulls spread over a 2,000 word article or just imagine a 20 word sentence being read on a Tamagotchi. Either way we've got a cluster of reading at the start followed by some skimming to the end. We've already established that we don't care too much about knowing the exact millisecond that each word has been read, so given that, how can we compress the rest of the information into a more manageable structure? If we replace the timestamps with any non-null constant (we'll use `TRUE` in the following example) then all we have is a sequence of binary values. Let's represent this sequence as an array instead of a set. Since array elements have an intrinsic index we can ditch the `number` column in addition to the timestamp value.
 
 ```sql
 {TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, NULL, NULL, NULL, TRUE, TRUE, NULL, NULL, TRUE, NULL, NULL, NULL, TRUE, NULL}
