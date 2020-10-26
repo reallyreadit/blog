@@ -5,7 +5,7 @@ date: 2020-10-26
 author: Bill Loundy
 ---
 
-Technology is moving fast and breaking things. Perhaps you’re already aware that that was once the official Facebook motto, coined by Mark Zuckerberg — “Move fast and break things” — but it’s not just Facebook. It’s everything in Silicon Valley. It’s the hardware and the software. It’s all of the platforms that have become essential to our everyday existence, as well as the companies that own them and the people who own those companies.
+Technology is moving fast and breaking things. That was once the official Facebook motto, coined by Mark Zuckerberg — “Move fast and break things” — but it’s not just Facebook. It’s everything in Silicon Valley. It’s the hardware and the software. It’s all of the platforms that have become essential to our everyday existence, as well as the companies that own them and the people who own those companies.
 
 And it’s _us_. We’re all moving a million miles a minute — even in the midst of a global pandemic — and it’s making us, frankly, insane. 
 
@@ -15,7 +15,7 @@ We are pleased to announce a brand new [Privacy Policy and Terms of Use](https:/
 
 These are bold claims. We know. We expect you to be skeptical. In fact, we want you to be skeptical, and we hope that you’ll respond to that skepticism accordingly: Dig in. _Actually read the freaking thing!_ And pore over every detail with a fine tooth comb. This one contract sets the official terms of the relationship between Readup and our readers. With that in mind, we wish to remind you that healthy relationships require work from _both parties_. Trust isn’t a one-sided endeavor.
 
-Also keep in mind the bigger picture. We’re not just asking you for the five or ten minutes that it takes to read this one contract. We’re asking you to give a big chunk of your time and attention — your most precious resource, your _life_ — to Readup. The people who get the most out of Readup are reading and commenting for hours a day. In that context, it should feel almost absurd to ignore the single, relatively short document that governs the entire arrangement between all of us. 
+Also keep in mind the bigger picture. We’re not just asking you for five or ten minutes to read this one contract. We’re asking you to give a big chunk of your time and attention — your most precious resource, your _life_ — to Readup. The people who get the most out of Readup are reading and commenting for hours a day. In that context, it should feel almost absurd to ignore the single, relatively short document that governs the entire arrangement between all of us. 
 
 With this blog post, I have two objectives: (1) To encourage you to _actually_ read our new [Privacy Policy and Terms of Use](https://readup.com/privacy) and (2) To make the case that the best privacy policy is the _most humane_ privacy policy, and that no organization has a more humane privacy policy than Readup.
 
@@ -23,11 +23,11 @@ With this blog post, I have two objectives: (1) To encourage you to _actually_ r
 
 First of all, absolutely no lawyers were involved in the creation of our new policy. Jeff and I are the only two people working on Readup and we’re both humans. The people who use Readup are humans. Thus, we figured that we could work this stuff out on our own, without any middle-people, and that doing so would be a healthy exercise and learning experience. To get a sense for the general landscape, we read a bunch of privacy policies and we realized that they’re all pretty much the same and that they’re universally inhumane. So we started from scratch.
 
-Clear, honest communication is humane in a very literal sense. It’s what distinguishes us from animals. Communication enables collaboration. I almost wrote ‘It’s the bedrock of democracy,’ before I realized that it’s actually the bedrock of _civilization_. So, yeah, it’s really freaking important. 
+Clear, honest communication is humane in a very literal sense. Language distinguishes us from animals. It enables profound levels of collaboration. I almost wrote ‘It’s the bedrock of democracy,’ before I realized that it’s actually the bedrock of _civilization_. So, yeah, it’s really freaking important. 
 
 Unfortunately, most tech companies assume (or, even worse, they _pretend_ to assume) that end-users don’t have the capacity or interest to understand anything remotely technical. So they don’t even try to level with people. That’s wrong for two reasons: (1) because it’s not true and (2) because it’s unethical. 
 
-It’s also a bad business move. Public awareness of privacy-related topics is increasing rapidly. Everyone knows that we’re all getting used and abused. Similarly, there’s growing consensus that if a person is smart enough to use Facebook, they’re smart enough to understand how Facebook works. And, even if it requires extra work, the experts have an obligation to explain things in clear, human terms. That obligation will keep ramping up. Especially as companies like Readup enter the field, blowing up the norms and expectations by simply speaking as humans to humans. 
+It’s also a bad business move. Public awareness of privacy-related topics is increasing rapidly. Everyone knows that we’re all getting used and abused. Similarly, there’s growing consensus that if a person is smart enough to use a tool like Facebook, they’re smart enough to understand how it works. And, even if it requires extra work, the experts have an obligation to explain things in clear, human terms. That obligation will keep ramping up. Especially as companies like Readup enter the field, blowing up the norms and expectations by simply speaking as humans to humans. 
 
 People can handle complexity. People can handle nuance. To assume that they can’t is an affront to the basic concept that all humans have dignity. It’s inhumane.
 
@@ -49,7 +49,7 @@ Regardless, it’s important to us that our readers have more than just a superf
 
 1. Understanding how the platform works is key to identifying with our mission. And identifying with our mission is, in turn, key to our extremely simple marketing strategy: People use Readup, love it, love the mission, and then they tell their friends and family about it. (Maybe now is a good time to ask you to please share this blog post?) 
 
-2. For four years we have been growing very slowly but very _sturdily_. Whatever viral is, we’re the opposite. We have uncommonly high loyalty and low churn and we aim to keep it that way. We’re free from paranoia about a “mass revolt” because we engage with the toughest topics out in the open. It keeps us sane. 
+2. For four years we have been growing very slowly but very _sturdily_. Whatever viral is, we’re the opposite. Thus, we have uncommonly high loyalty and low churn and we aim to keep it that way. We’re free from paranoia about a “mass revolt” because we engage with the toughest topics out in the open. It keeps us sane. 
 
 3. General awareness about online privacy is going to be very good for Readup because our practices are downright saintly in comparison to all other media organizations. And I’m not just referring to the known monsters, like Facebook and Twitter. When you read an article on The New York Times website, for example, as many as [fifty different companies are spying](https://readup.com/read/-the-new-york-times-company/this-article-is-spying-on-you) on your every move. By their own admission, “From a privacy perspective, news websites are among the worst on the web.” Dark stuff. 
 
@@ -59,9 +59,9 @@ If you’re still not convinced that Readup has the best privacy policy on the p
 
 It doesn’t make sense for me to paraphrase the policy here, especially since the actual [Privacy Policy and Terms of Use](https://readup.com/privacy) is about half as long (and twice as interesting) as this blog post. (How cool is that?) I do, however, want to highlight two things that are truly ground-breaking:
 
-1. **We do not share ANY of your data with ANY third parties. Ever.** This is virtually unheard of across the technology industry, where data flows like water across organizations and companies. You can think of Readup as a “no-fly” zone, a private party, a walled garden, or a lockbox. I will surely elaborate on the significance of this in future blog posts. 
+1. **We do not share ANY of your data with ANY third parties. Ever.** This is unheard of across the technology industry, where data flows like water across organizations and companies. You can think of Readup as a “no-fly” zone, a private party, a walled garden, or a lockbox. I will elaborate on the significance of this in future blog posts. 
 
-2. **Instead of granting ourselves blanket permission to collect whatever data we need, we clearly note every single data point that we collect.** In my entire career in tech, I have never heard of any other company doing this. I also did a bunch of research to try to find _any_ other company that does this, and as far as I know we’re the only ones. In fact, the way we do things is basically the exact _opposite_ of what most companies do -- get as much data as they possibly can. Instead, we promise not to take even the tiniest, least-significant piece of data without clearly disclosing it to you. 
+2. **Instead of granting ourselves blanket permission to collect whatever data we need, we clearly note _every single data point_ that we collect.** In my entire career in tech, I have never heard of any other company doing this. (I also did some research to to confirm that we're the only ones.) Basically, the way we do things is the _opposite_ of what most companies do -- get as much data as they possibly can. Instead, we make huge efforts to _avoid_ collecting any information that we don't need. And we promise NOT to take even the tiniest piece of data without clearly disclosing it to you in our official, binding policy. 
 
 Thus, almost half of our privacy policy is a point-by-point breakdown of **every single data point that we collect**, a complete crib-sheet so that you can see exactly what personal information you give to Readup, paired with plain-language explanations for how and why we collect it. 
 
