@@ -30,7 +30,7 @@ author: Bill Loundy
     And previous AOTD winners now have a new home, which you can see by clicking Previous Winners:
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/contenders.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/contenders.png" style="display:block;margin:0 auto;max-width:100%;">
 </p> 
 <p>
     There's nothing tricky or technical about our insanely good AOTDs; it's just the power of our small community of readers, reading stuff they enjoy. When you read something fully, you give it points, which "ups" it. (And for the record, when we chose the name Readup, we didn't quite realize just how <em>on the nose</em> that name would be!)
@@ -63,7 +63,7 @@ author: Bill Loundy
     Here's the graph I shared last week, but with seven more days of data: 
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/upnov17.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/upnov17.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <p>
     I like that our recent lows seem kinda high(ish?) but I still don't like that it's not a hockey stick. 
@@ -72,7 +72,7 @@ author: Bill Loundy
     And it looks like pretty much the same story with recent commenting activity. Not a dream, not a nightmare: 
 </p>
 <p>
-    <img src="https://blog.readup.com/pics/commsnov17.png" style="display:block;margin:0 auto;max-width:100%;">
+    <img src="/pics/commsnov17.png" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 <div style="width:75%;margin:1.5em auto;border-bottom:1px solid #ccc;"></div>
 <h2>

@@ -30,13 +30,13 @@ author: Bill Loundy
     <strong>Vibe can’t exist if people can’t express themselves.</strong> So, this week, we <em>finally</em> enabled some basic markdown formatting in the comments! <em><strong>Get expressive, people!</strong></em> Become a markdown master by memorizing the shorthand:  
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/guide.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="/pics/guide.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
     That handy cheat-sheet is always just one click away:
 </p>
 <p>
-    <img src="http://blog.readup.com/pics/guidebutton.png" style="display:block;margin:0 auto;max-width:100%;"> 
+    <img src="/pics/guidebutton.png" style="display:block;margin:0 auto;max-width:100%;"> 
 </p>
 <p>
 Finally, linking in the comments actually works now, including redirects within Readup. (Don't ask if it was easy!) External web pages load in safari preview or you can nav out of the article and back to another Readup screen within the app.

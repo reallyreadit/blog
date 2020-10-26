@@ -21,7 +21,7 @@ This is part of a huge update that completely changes the way the Chrome extensi
 </p>
 
 <p>
-<img src="http://blog.readup.com/pics/weirdo.gif" style="display:block;margin:0 auto;max-width:100%;">
+<img src="/pics/weirdo.gif" style="display:block;margin:0 auto;max-width:100%;">
 </p>
 
 <p>

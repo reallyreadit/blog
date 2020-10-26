@@ -5,7 +5,7 @@ date:   2020-02-09
 author: Bill Loundy
 ---
 
-<p> Dear Reader, </p> <p> I spent most of last night meditating on this: </p> <p> <img src="http://blog.readup.com/pics/darfeb.png" style="display:block;margin:0 auto;max-width:100%;"> </p> <p> It's a hockey stick. No doubt about it. And since this growth is actually a few weeks early, we're expecting to see a vertical wall within a month. We don’t just want a "spark" or a "pop." We want this thing to <em>fucking explode</em>.* </p> <p> The presidential election is right around the corner. In more ways than one, all eyes are on social media. Our goal is to move millions of eyes <em>away from the noise</em> and over to something better: <strong>reading</strong>. </p> <div style="width:75%;margin:1.5em auto;border-bottom:1px solid #ccc;"></div> <p> Stuff that happened this week: </p> 
+<p> Dear Reader, </p> <p> I spent most of last night meditating on this: </p> <p> <img src="/pics/darfeb.png" style="display:block;margin:0 auto;max-width:100%;"> </p> <p> It's a hockey stick. No doubt about it. And since this growth is actually a few weeks early, we're expecting to see a vertical wall within a month. We don’t just want a "spark" or a "pop." We want this thing to <em>fucking explode</em>.* </p> <p> The presidential election is right around the corner. In more ways than one, all eyes are on social media. Our goal is to move millions of eyes <em>away from the noise</em> and over to something better: <strong>reading</strong>. </p> <div style="width:75%;margin:1.5em auto;border-bottom:1px solid #ccc;"></div> <p> Stuff that happened this week: </p> 
 
 <p>
     <ul>

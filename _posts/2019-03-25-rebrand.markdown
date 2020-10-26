@@ -5,7 +5,7 @@ date:   2019-03-25
 categories:
 ---
 
-<img src="https://blog.readup.com/pics/logo.png">
+<img src="/pics/logo.png">
 
 Readers, 
 

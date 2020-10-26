@@ -48,7 +48,7 @@ Furthermore, we have a giant advantage that we still haven't capitalized on. Tha
 
 Anywho, one of our several failed attempts at share still currently exists on the site. If you haven't noticed it, you're not alone:  
 
-<img src="https://blog.readup.com/pics/lilshare.png">
+<img src="/pics/lilshare.png">
 
 Needless to say, we need to do _a lot_ better than that. And we need to figure it out soon. 
 
