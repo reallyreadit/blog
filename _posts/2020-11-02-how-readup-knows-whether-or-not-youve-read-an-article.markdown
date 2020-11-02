@@ -355,7 +355,7 @@ Now we're getting somewhere. If we call `Element.getClientRects` on any of those
 What does justify the complexity, I'd argue, is improved visual debugging and the ability to reason about reading progress on a line level versus a paragraph or article level. The visual debugging is a fun party trick, but it's also crucial in helping to track down reading bugs. If you haven't realized it by now, we take reading very seriously. It's sacred, and bugs that result in readers not getting credit for articles they've read are considered critical. The execution environments are also an absolute nightmare. Every publisher and CMS has a different document structure with different scripts running in different browsers and web views on different devices. There will be an endless supply of compatibility bugs so the ability to enable high resolution visual debugging on the fly is an important asset. Being able to see exactly where the tracker thinks each line of text is versus just the entire paragraph gives us a much clearer picture of what's going on under the hood. Tap the button below to check it out!
 
 <div id="com_readup_blog_post_debug_container" style="margin: 2em; text-align: center;">
-	<button id="com_readup_blog_post_debug_button" style="padding: 1em;">Toggle Visual Debugging</button>
+	<button id="com_readup_blog_post_debug_button" style="font-size: 12pt;font-family: sans-serif;padding: 1em;color: #222;background: #eee;border: 1px solid #ccc;border-radius: 3px;">Toggle Visual Debugging</button>
 	<div id="com_readup_blog_post_script">
 		<script>
 			document
