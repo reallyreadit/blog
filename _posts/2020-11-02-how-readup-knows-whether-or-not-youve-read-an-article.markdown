@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Readup Knows Whether or Not You've Read an Article
-date: 2020-08-03
+date: 2020-11-02
 author: Jeff Camera
 ---
 ## Preface
@@ -285,11 +285,11 @@ Let's circle back to our inputs (scroll position and time) and our execution env
 
 Well if you randomly sample even just a handful of articles from different publishers you might notice that the actual text content of the article is often only a small part of the web page document. There is a lot of noise, not just in the visual representation but also in the markup. Determining which parts of the document comprise the actual article content is a complicated problem that we'll save for a future blog post which could easily be even longer than this one. For now let's assume that we know where the article text is within the document and use the following simplified model of the reading environment.
 
-![Reading Environment Diagram](/assets/2020/08/reading-environment-diagram-1.svg)
+![Reading Environment Diagram](/assets/2020/11/reading-environment-diagram-1.svg)
 
 Looking at that diagram it's plain to see what text is visible within the viewport but making that determination programmatically isn't going to be so easy. The first problem is that we can't just ask the browser about lines of text or individual words or characters. We can get the size and coordinates of the paragraph element rectangles using `Element.getBoundingClientRect` but we cannot peer any deeper than that. The CSS Object Model actually does have a limited notion of characters (via `first-letter` and `initial-letter`) and lines of text (via `first-line`) but there's no analog in the Document Object Model. We can read the text content of the paragraph as a string, but we'll have no idea where the line breaks are. Programmatically what we see looks more like this.
 
-![Reading Environment Diagram](/assets/2020/08/reading-environment-diagram-2.svg)
+![Reading Environment Diagram](/assets/2020/11/reading-environment-diagram-2.svg)
 
 Is this enough information? Well, kind of. We can calculate that 50% of the area of the first paragraph intersects with the viewport and we know what text each paragraph contains. Our data model is based on read and unread words so we could just start marking the second half of the words within the first paragraph as having been read. In order to do that the first thing we need to do is count the number of words in each paragraph. Easy enough, right? Not so fast.
 
@@ -426,7 +426,7 @@ const paragraphs = paragraphElements.map(
 
 Let's take a look at our reading model after mapping our paragraph elements.
 
-![Reading Environment Diagram](/assets/2020/08/reading-environment-diagram-3.svg)
+![Reading Environment Diagram](/assets/2020/11/reading-environment-diagram-3.svg)
 
 It was a lot of work getting to this point, but you can probably see how easy it's going to be to write the reading loop thanks to all that preparation. Let's wrap this up!
 
@@ -491,7 +491,7 @@ const readingInterval = setInterval(
 
 Let's let that run for 5 seconds on our example web page and see where we end up.
 
-![Reading Environment Diagram](/assets/2020/08/reading-environment-diagram-4.svg)
+![Reading Environment Diagram](/assets/2020/11/reading-environment-diagram-4.svg)
 
 And that's it! As the interval delegate continues to fire, the rest of the lines visible within the viewport will continue to be marked as read, as will those currently outside the viewport as the reader scrolls them into view. I think you might agree that initiating a request to the server every 200 ms to update the progress in the database would be a bit excessive. We can instead let the progress accumulate in memory on the client for a while and create another interval that will combine all the individual line reading progress arrays and send it off to the server every few seconds. (Readup currently does this every three seconds.)
 
