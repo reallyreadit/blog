@@ -457,14 +457,43 @@ function tryReadWord(lines: Line[]) {
 	// increment the progress array left to right if found
 	if (readableLine) {
 		const progress = readableLine.readingProgress;
+		/*
+		We'll start by marking the next word as having been read. First we'll
+		check the array's length. The progress array of a completely unread line
+		will contain only a single negatively-signed integer.
+		*/
 		if (progress.length === 1) {
+			/*
+			If that's the case we'll insert a 1 at the beginning of the array to
+			represent the word that we've just read since we're reading from left
+			to right.
+			*/
 			progress.unshift(1);
 		} else {
+			/*
+			If there is already more than one element in the array then we know
+			this line is partially read. Since we're reading from left to right we
+			know the first element is a positive integer so we just increment it
+			by one to represent the word that we've just read.
+			*/
 			progress[0]++;
 		}
+		/*
+		Next we'll check to see if we've finished reading this line by checking
+		the value of the negatively-signed integer in the second position of the
+		array.
+		*/
 		if (progress[1] === -1) {
+			/*
+			If it equals -1 then there was only one word left to read and we can
+			just remove it from the array.
+			*/
 			progress.splice(1, 1);
 		} else {
+			/*
+			Otherwise we'll increment the value which will decrease the count of
+			unread words by one since this is a negative number.
+			*/
 			progress[1]++;
 		}
 	}
