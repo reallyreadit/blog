@@ -1,0 +1,8 @@
+{%- if page.comments != false -%}
+  {%- if jekyll.environment == "production" -%}
+    {%- assign embed_script_url = "https://static.readup.com/embed/bundle-1.0.1.js" -%}
+  {%- else -%}
+    {%- assign embed_script_url = "https://static.dev.readup.com/embed/bundle-1.0.1.js" -%}
+  {%- endif -%}
+  <script defer src="{{ embed_script_url }}"></script>
+{%- endif -%}

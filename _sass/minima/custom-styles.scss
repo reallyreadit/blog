@@ -1,6 +1,26 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+// skins/auto.scss
+@media (prefers-color-scheme: dark) {
+	.highlight {
+		.c     { color: #646464; } // Comment
+		.cm    { color: #646464; } // Comment.Multiline
+		.cp    { color: #646464; } // Comment.Preproc
+		.c1    { color: #646464; } // Comment.Single
+		.cs    { color: #646464; } // Comment.Special
+	}
+}
+
+// _base.scss
 code {
 	tab-size: 2em;
+}
+
+noscript {
+	display: block;
+	padding: 0.5em;
+	margin-bottom: 0.5em;
+	background: #fdfd80;
+	color: $light-text-color;
 }

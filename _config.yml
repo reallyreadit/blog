@@ -27,12 +27,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: reallyread.it, inc.
   email: support@readup.com
+disqus:
+  shortname: Readup
 
 # Build settings
 theme: minima
 minima:
   skin: auto
   social_links:
+    github: reallyreadit
     twitter: ReadupDotCom
 plugins:
   - jekyll-feed

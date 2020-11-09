@@ -14,4 +14,4 @@ aws s3 sync _site s3://blog.readup.com --region us-east-2 --delete
 
 JEKYLL_ENV=development
 
-git push
+bundle exec jekyll build
