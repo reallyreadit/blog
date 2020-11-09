@@ -39,7 +39,7 @@ In a matter of weeks, Readup isn’t going to be free anymore. We’re positione
 
 What do you think? 
 
-In next week’s blog post, I’ll dive deeper into how and why we're (1) allowing you to choose how much you want to pay and (2) why we're giving half of our revenue away, starting from the very first penny we earn. (Hint: Writers are humans too. We rely on them way more than we realize and they're really getting skinned right now. Another hint: Our motivations are not _not_ selfish. Obviously.)  
+In next week’s blog post, I’ll dive deeper into how and why we're (1) allowing you to choose how much you want to pay and (2) giving half of our revenue away, starting from the very first penny we earn. (Hint: Writers are humans too. We rely on them more than we realize and they're getting skinned right now. Another hint: Our motivations are not _not_ selfish. Obviously.)  
 
 We’ll always have fond memories of these “free days” where we built something cool and gave it away, but we’re extremely excited for Readup 2.0, and it doesn't mean that it's the end of gifting and sharing.
 
