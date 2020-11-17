@@ -30,7 +30,7 @@ Conclusion: Blame simplicity. Reject the binaries. Embrace complexity. Embrace f
 
 Over the weekend, Apple slapped me in the face with the dark side of complexity, the dystopian reality in which we all currently live: 
 
-!(Privacy)[]
+![Privacy](/assets/2020/11/apple.privacy.png)
 
 No. I didn’t read it. And not because I don’t want to, but because I literally can’t. I tried. It’s too dense, too confusing. I have an English degree from Stanford. I have worked in tech for over a decade. I have written several privacy policies. This. Stuff. Makes. No. Sense. 
 
@@ -102,7 +102,7 @@ There are more questions to answer:
 
 - What happens if an article has multiple authors?
 - What happens if an author is dead? (Are we supposed to pay Ernest Hemingway?)
-- What happens if the system doesn’t recognize an author? ([Jay Vidyarthi](readup.com/@jayvidya), for example, is a Top Writer on Readup, but our system fails to pick up any author metadata in some of his blog posts, like [this one](https://readup.com/comments/attention-activist/front-row-seats-to-our-fragility--attention-activist). Can we fix that? Probably. After the close of a billing cycle? Maybe not.) 
+- What happens if the system doesn’t recognize an author? ([Jay Vidyarthi](https://readup.com/@jayvidya), for example, is a Top Writer on Readup, but our system fails to pick up any author metadata in some of his blog posts, like [this one](https://readup.com/comments/attention-activist/front-row-seats-to-our-fragility--attention-activist). Can we fix that? Probably. After the close of a billing cycle? Maybe not.) 
 - How do we verify writers? (How do we know that “Glenn Greenwald” is _the_ Glenn Greenwald? What about Andrew Sullivan? The latter is, frustratingly, a fairly common name. We already have writers in our system with duplicate names. Oh lord.)
 
 Anyone who has ever built software knows that edge cases can be a nightmare. 
