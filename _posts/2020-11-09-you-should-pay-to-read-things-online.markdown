@@ -11,7 +11,7 @@ Along the way, we always gave ourselves unlimited freedom to explore new ideas a
 
 First and foremost, our core values. We treat the community with dignity and respect. Always. In other words, like humans. It's a huge honor that people give Readup their time and attention and we take that gift seriously.
 
-Here's another thing that has not changed since day one: We have always known that our proprietary [read-tracking technology](https://readup.com/read/blogreadupcom/how-readup-knows-whether-or-not-youve-read-an-article), and specifically the binary output that it can produce — Person A read Article X; Person B did NOT read Article Y — is the key to the entire system and our unique way to create value for readers, individually and as a community. For this reason alone, I never use the word “pivot” when describing the way that Readup’s vision has evolved.
+Here's another thing that has not changed since day one: We have always known that our proprietary [read-tracking technology](https://blog.readup.com/2020/11/02/how-readup-knows-whether-or-not-youve-read-an-article.html), and specifically the binary output that it can produce — Person A read Article X; Person B did NOT read Article Y — is the key to the entire system and our unique way to create value for readers, individually and as a community. For this reason alone, I never use the word “pivot” when describing the way that Readup’s vision has evolved.
 
 And, finally, our plan for making money has always been crystal clear: **People will pay to use Readup.** 
 
@@ -25,7 +25,7 @@ My first job out of college was at a B2B startup that sold "solutions” (consul
 
 A few years and several jobs later, I decided I needed a major reset. I moved to New Hampshire and worked at a rural gas station-general store. I ran the dairy department. Farmers came in and sold me milk and eggs. I marked up the prices (a reasonable amount) and sold them to customers. The simplicity of the whole arrangement — “honest” work — was a revelation. 
 
-For a while, I was just [completely disenchanted](https://readup.com/read/bill-loundy/the-importance-of-being-earnest-about-screen-time) with tech. But, over time, I have come to see that it's possible for tech companies to be radically transparent, real, and honest. But it takes a lot of work. And a lot of writing! And it might never be quite as simple as "Give me five dollars and I'll give you a gallon of milk," but, conceptually, it's good to have an ideal to chase.
+For a while, I was just [completely disenchanted](https://www.billloundy.com/2019/06/11/screens.html) with tech. But, over time, I have come to see that it's possible for tech companies to be radically transparent, real, and honest. But it takes a lot of work. And a lot of writing! And it might never be quite as simple as "Give me five dollars and I'll give you a gallon of milk," but, conceptually, it's good to have an ideal to chase.
 
 I have spent a lot of time thinking and reading about gifts, in both personal and professional contexts. (Lewis Hyde's _The Gift_ and Robin Wall Kimmerer's _Braiding Sweetgrass_ are two books that have impacted me greatly.) For a few years after that B2B job, I was a Product Manager responsible for community development at Couchsurfing, a global community where millions of people shared freely (and quite personally) without any expectation of reciprocity. That's what makes gifting so beautiful.
 
@@ -39,7 +39,7 @@ In a matter of weeks, Readup isn’t going to be free anymore. We’re positione
 
 What do you think? 
 
-In next week’s blog post, I’ll dive deeper into how and why we're (1) allowing you to choose how much you want to pay and (2) why we're giving half of our revenue away, starting from the very first penny we earn. (Hint: Writers are humans too. We rely on them way more than we realize and they're really getting skinned right now. Another hint: Our motivations are not _not_ selfish. Obviously.)  
+In next week’s blog post, I’ll dive deeper into how and why we're (1) allowing you to choose how much you want to pay and (2) giving half of our revenue away, starting from the very first penny we earn. (Hint: Writers are humans too. We rely on them more than we realize and they're getting skinned right now. Another hint: Our motivations are not _not_ selfish. Obviously.)  
 
 We’ll always have fond memories of these “free days” where we built something cool and gave it away, but we’re extremely excited for Readup 2.0, and it doesn't mean that it's the end of gifting and sharing.
 
