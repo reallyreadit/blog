@@ -12,7 +12,7 @@ It might be true that actions speak louder than words, but it’s also true that
 
 There’s nothing inherently evil about the words “use” and “user,” but they’ve been bugging me long enough that finally, over the weekend, I decided to do something about it. So that’s the purpose of this blog post. This is an attempt to use words to create a change in behavior which, in turn, will alter Readup’s DNA. Maybe a little. Maybe a lot. We’ll see. At the very least, exercises like this help me to clarify — both to myself and to others — why we do what we do. And how. 
 
-“User” doesn’t feel humane. Robots “use” things. The gather inputs which, in turn, trigger actions. My truck is a machine that “uses” gasoline and oil, in very specific amounts and in very specific ways. But there’s no art involved in “using” something. Robots can't read! 
+“User” doesn’t feel humane. Robots “use” things. They gather inputs which, in turn, trigger actions. My truck is a machine that “uses” gasoline and oil, in very specific amounts and in very specific ways. But there’s no art involved in “using” something. Robots can't read! 
 
 On the flip side, you don’t “use” a book. You read it. Imagine how weird it would be if your friend gave you a book and said, “I already used this one,” or “I used half the books on my shelf.” It makes no sense. The same goes for newspapers and magazines. We don’t use these things. We *read* them. 
 
@@ -22,7 +22,7 @@ So, to be clear: Readup has several uses, but it has one primary use, reading, a
 
 Some people use Readup to track and improve their online reading habits. Some people use Readup to find amazing articles and stories. Some people use Readup to connect with other readers — friends, strangers, or some combination of both. And many people use Readup for all of these reasons. But every single one of these “use cases” has a deeper, more important use case in common: reading. 
 
-Ultimately, if you’re not reading, you’re not actually using Readup. Without reading, you can’t comment. You can’t “vote with your attention” in the AOTD game. Your profile and your Stats graph will remain blank and you won’t appear on any of the Leaderboards. But then, as soon as you start reading, Readup comes to life. And, as you read more and more, the experience keeps getting better and better. And we’re definitely not trying to take all of the credit. Reading is work, but it’s also inherently rewarding. 
+Ultimately, if you’re not reading, you’re not actually using Readup. Without reading, you can’t comment. You can’t “vote with your attention” in the AOTD game. Your Profile and your Stats graph will remain blank and you won’t appear on any of the Leaderboards. But then, as soon as you start reading, Readup comes to life. And, as you read more and more, the experience keeps getting better and better. And we’re definitely not trying to take all of the credit. Reading is work, but it’s also inherently rewarding. 
 
 Our #1 core value has always been “Respect the users.” Now it’s “Respect the Readers.” This might sound like a superficial change. And maybe it is. But only for now. That’s because Jeff (Readup’s CTO) and I are the only two people working on Readup. We believe that if we live and work according to our values, others will experience the manifestation of those values in the product we’re building and the community we’re creating. And we spend hours on end talking about them. That’s ten-thousand times more important than a one word change. 
 
