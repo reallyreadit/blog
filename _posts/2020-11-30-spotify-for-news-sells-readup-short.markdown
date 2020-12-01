@@ -29,13 +29,11 @@ And yes, the last one is the best one. Because yes: Free money!
 
 Back to Spotify: They heavily promote free trials. Readup isn’t going to have any kind of free trial. It would undermine our entire purpose. Think about it: Reading on Readup *means* paying writers. If you don’t pay to read, every time, the Writers can’t get paid, and nothing makes any sense. This is a new-model, *more direct* transaction between Reader and Writer. We want Readers to feel good about this part of the product. And we want it to feel bad when you circumvent Readup. In that case, you’re back to “paying” advertisers with your distracted, partial-attention. And you're not paying Writers. Why? 
 
-Readers are the ones feeding money into the system, so here's our pricing strategy: Make it as attractive to Readers as possible. We decided to chop our revenues 50/50 because we need readers to (1) understand it, in order to (2) believe in it. It *needs* to be simple and fair. Conveniently, it’s also easy to remember. You might forget 60/40 (or was it 40/60?) but you’ll never forget 50/50. 
+Readers are the ones feeding money into the system, so here's our pricing strategy: Make it as attractive to Readers as possible. We decided to chop our revenues 50/50 because we need readers to understand it in order to believe in it. It *needs* to be simple and fair. Conveniently, it’s also easy to remember. You might forget 60/40 (or was it 40/60?) but you’ll never forget 50/50. 
 
 It’s worth noting that we could have gone the Spotify route: Keeping it all totally opaque so that you don’t even know where your money is going. We also could have just decided to keep all the money.
 
-Or, the opposite end of the spectrum: We could have decided to give one hundred percent of Reader contributions. We'd still have to subtract (or hide) the Stripe and Apple fees. 
-
-The skeptics will always have something to say, regardless. If we transitioned into full-on non-profit mode, that would also mean figuring out how to fund the business with grants from wealthy individuals and foundations. I refuse.
+Or, the opposite end of the spectrum: We could have decided to give one hundred percent of Reader contributions to Writers. We'd still have to subtract (or hide) the Stripe and Apple fees. So the skeptics would still have plenty to complain about. If we transitioned into full-on non-profit mode, that would also mean figuring out how to fund the business with grants from wealthy individuals and foundations. I refuse.
 
 The point is this: What we’re doing — and the *way* we’re doing it — is completely new. For the first time ever, online Readers will be able to pay the writers they are reading, directly, and visualize, clearly, exactly where all of their money is going. It’s going to feel good to give more and to read more. 
 
@@ -65,18 +63,18 @@ I estimate that by the middle of next year we’ll have statistically significan
 
 In that case, finding articles and stories on Readup will start feeling like Spotify, like “browsing everything.” In the meantime, we have a pretty awesome sweet spot. These are the current Top Publishers on Readup, as of November 30, 2020: 
 
-The New York Times
-The New Yorker
-Medium
-The Atlantic
-The Guardian
-CNBC
-The Washington Post
-CNN
-WIRED
-The Cut
+- The New York Times
+- The New Yorker
+- Medium
+- The Atlantic
+- The Guardian
+- CNBC
+- The Washington Post
+- CNN
+- WIRED
+- The Cut
 
-Writers at those publications are likely to get the fattest paychecks when paid Readup launches. We’ll see. A lot of that depends on how well we convert current Readers (from unpaid to paid) and how many “paying newbies” come rushing in. Hopefully tons. And hopefully they have good taste in reading.
+Writers at those publications are likely to get the fattest paychecks when we launch Readup 2.0. We’ll see. A lot of that depends on how well we convert current Readers (from unpaid to paid) and how many “paying newbies” come rushing in. Hopefully tons. And hopefully they have good taste in reading.
 
 *****
 
