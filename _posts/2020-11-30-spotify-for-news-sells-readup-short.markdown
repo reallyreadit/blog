@@ -10,15 +10,13 @@ Readup, unlike Spotify, actually invented something — a completely new busines
 
 In this blog post, I’ll walk you through the innovation that my co-founder and I cooked up, and I’ll explain why I'm going to stop using “Spotify for News” as a way to describe Readup.
 
-I spent much of the last three years telling everybody who would listen that I’m building “Spotify for News,” and that “Reading needs a Spotify,” and all kinds of other Spotify-related things like that.
-
-The analogy captures a lot of information, which makes introductory conversations much easier: Readup is also a tech startup in the “media and entertainment” space. Readup is also growing a community and a marketplace in which consumers pay for easier, more direct access to a huge and well-organized library of material. Spotify has listeners and musicians. Readup has Readers and Writers. 
+The analogy captures a lot of information, which makes introductory conversations much easier: Like Spotify, Readup is also a tech startup in the “media and entertainment” space. Readup is also growing a community and a marketplace in which consumers pay for easier, more direct access to a huge and well-organized library of material. Spotify has users and artists, aka "listeners" and "musicians." Readup has Readers and Writers. 
 
 With just that one analogy, many people can pretty quickly connect the value of Spotify (listen to whatever song or artist you want, whenever you want, free of ads, for a fee) to the value Readup can offer (pay a fee to read whatever you want, whenever you want, without ads).
 
 But that’s basically where the comparison ends. Spotify has, at best, a spotty reputation among musicians. Whether or not they’re destroying the music industry is definitely up for debate. What’s not up for debate is whether or not they’re revitalizing it. Because everyone knows they aren’t. 
 
-And so that, Reader, is our primary point of departure from Spotify. Readup is going to have a positive impact on the journalism industry by providing a direct, new revenue stream for writers. And we’re doing it transparently. Someone recently said to me, “It’s like you’re pirating from the advertisers.” Exactly! 
+And so that, Reader, is our primary point of departure from Spotify. Readup is going to have a positive impact on the journalism industry by providing a direct, *new* revenue stream for writers. And we’re doing it transparently. Someone recently said to me, “It’s like you’re pirating from the advertisers.” Exactly! 
 
 Here’s the pitch to Writers: 
 - Read and reply to comments from *verified* Readers of your articles.
@@ -29,7 +27,7 @@ And yes, the last one is the best one. Because yes: Free money!
 
 Back to Spotify: They heavily promote free trials. Readup isn’t going to have any kind of free trial. It would undermine our entire purpose. Think about it: Reading on Readup *means* paying writers. If you don’t pay to read, every time, the Writers can’t get paid, and nothing makes any sense. This is a new-model, *more direct* transaction between Reader and Writer. We want Readers to feel good about this part of the product. And we want it to feel bad when you circumvent Readup. In that case, you’re back to “paying” advertisers with your distracted, partial-attention. And you're not paying Writers. Why? 
 
-Readers are the ones feeding money into the system, so here's our pricing strategy: Make it as attractive to Readers as possible. We decided to chop our revenues 50/50 because we need readers to understand it in order to believe in it. It *needs* to be simple and fair. Conveniently, it’s also easy to remember. You might forget 60/40 (or was it 40/60?) but you’ll never forget 50/50. 
+Readers are the ones feeding money into the system, so here's our pricing strategy: *Make it as attractive to Readers as possible.* We decided to chop our revenues 50/50 because we want Readers to trust it. Simple and fair are truthworthy. Conveniently, it’s also easy to remember. You might forget 60/40 (or was it 40/60?) but you’ll never forget 50/50. 
 
 It’s worth noting that we could have gone the Spotify route: Keeping it all totally opaque so that you don’t even know where your money is going. We also could have just decided to keep all the money.
 
