@@ -13,3 +13,5 @@ Remember that we're building all of this stuff *and* figuring out how to market 
 You can reply in the comments or send emails to support@readup.com 
 
 ![pics](/pics/homeypage.png)
+
+Can't wait to hear what you think! -Bill
