@@ -48,7 +48,7 @@ On Readup, every single conversation starts with a mutual-listening expereince -
 
 I have been reading on Readup so religiously that most other sites feel weird now. Reddit and Hacker News especially. The comment threads still feel like rooms, but they're really packed and wild. More like a mosh pit than a living room. Interesting conversations happen (which is good) but they tend to invite abuse (which is bad). 
 
-Plus, I find it disorienting to have to constantly remind myself that most of the people in a given conversation haven’t actually read the article in question. There’s a major tax on your brainspace when you have to be skeptical of every single commenter on every single article: *Did A read B? Did X read Y?* On Readup you never have to have those thought. 
+Plus, I find it disorienting to have to constantly remind myself that most of the people in a given conversation haven’t actually read the article in question. There’s a major tax on your brainspace when you have to be skeptical of every single commenter on every single article: *Did A read B? Did X read Y?* On Readup you never have to have those thoughts. 
 
 Then there's Facebook and Twitter. Posting there is nothing like a room. It feels like going out into the street with a megaphone. These platforms incentivize screaming. It pays to pipe up. And listening does nothing. So nobody does it. 
 
