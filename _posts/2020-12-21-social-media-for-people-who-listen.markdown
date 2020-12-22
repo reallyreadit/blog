@@ -30,7 +30,9 @@ With that in mind, imagine the internet as a giant cluster of communication chan
 
 An alien from outer space wouldn’t be able to see much of a difference between what I’m doing right now (blogging, to an audience of Readers on Readup) and what billions of other people do all the time -- post stuff on social media.
 
-This is what we do online. We blast updates all over the place.
+This is what we do online. We blast updates and information all over the place.
+
+But not all blasts are created equal!
 
 To illustrate how a Readup post is fundamentally distinct from a Twitter post, I'll introduce a metaphor: A living room. Or a salon, perhaps. This room is a Readup comment thread. Everyone in this room is holding the same article in their hands. It's a good article. Everyone in this room read the article. Some people are talking about it. Not everybody. But several. 
 
@@ -40,23 +42,23 @@ In this room, agreeing or disagreeing isn't the point. It still happens a lot, a
 
 Good conversations require mutual understanding and shared information. 
 
-Amongst Readers, opinions and feelings are bound to diverge, but the core experience is still shared and universal. You read together. You listened together. Which puts you in a really good space to start listening to each other. 
+Amongst Readers, opinions and feelings are bound to diverge, but the core experience is still shared and universal. You read together. You listened together. This puts you in a really good space to start listening to each other. 
 
-On Readup, you can say that every single conversation starts with a mutual-listening expereince - reading. 
+On Readup, every single conversation starts with a mutual-listening expereince - reading. 
 
 I have been reading on Readup so religiously that most other sites feel weird now. Reddit and Hacker News especially. The comment threads still feel like rooms, but they're really packed and wild. More like a mosh pit than a living room. Interesting conversations happen (which is good) but they tend to invite abuse (which is bad). 
 
-Plus, I find it disorienting to have to constantly remind myself that most of the people in a given conversation haven’t actually read the article in question. There’s a major tax on brainspace when you have to be skeptical of every single commenter on every single article: Did A read B? Did X read Y? On Readup you never have to have that thought. 
+Plus, I find it disorienting to have to constantly remind myself that most of the people in a given conversation haven’t actually read the article in question. There’s a major tax on brainspace when you have to be skeptical of every single commenter on every single article: *Did A read B? Did X read Y?* On Readup you never have to have those thought. 
 
 Then there's Facebook and Twitter. Posting there is nothing like a room. It feels like going out into the street with a megaphone. These platforms incentivize screaming. It pays to pipe up. And listening does nothing. So nobody does it. 
 
-The scariest part of all is that the impression that you’re “speaking out” can also be a mirage. 
+The scariest part of all is that you might not even be “speaking out” at all. It might be a mirage.
 
-Perhaps the best way to visualize Twitter is by imagining a stadium full of people, collectively screaming into a void. Amplifying the noise, a megatron scans the crowds and everyone is engaged in a perpetual battle for a few seconds on the big screen. And nobody is listening to anything.
+Perhaps the best way to visualize Twitter is by imagining a stadium full of people, collectively screaming into a void. Amplifying the noise, a megatron scans the crowds and everyone is engaged in a perpetual battle for a few seconds with the big mic on the big screen. Meanwhile, nobody can hear anything that anybody is saying.
 
-By the way, I have really *tried* to listen to Twitter. *On* Twitter. You know what I mean -- I tried to use Twitter to listen. No dice.
+By the way, I have really *tried* to listen to Twitter. Or, tried to listen *on* Twitter. You know what I mean. I tried to use Twitter to listen. No surprise: No dice.
 
-And when Readup launched the Twitter integration, I even tweeted a bit. *I did what the thing told me to do: Made some noise.* Or, I tried to. Didn't work either. 
+When Readup launched the Twitter integration, I even tweeted a bit. *I did what the thing told me to do. I made some noise.* Or, I tried to at least. But that didn't work either. 
 
 Pretty much every experience I have ever had on Twitter has left me feeling duped. Too much noise. Not enough signal. Static everywhere. The zone, flooded with shit. Years after the problem was identified, it’s still flooded. And still shit.
 
@@ -66,11 +68,7 @@ Was I following the wrong people? I tried to diversify. That was hard. If I wasn
 
 Social media should diversify our perspectives, not bury us in pigeon-holes. 
 
-More broadly, we shouldn't have to worry about this kind of stuff in general. Echo-chambers. What ads are doing to our brains. To subvert something that attacks your decision-making skills is a mindfuck. And that's more brain tax. Which means less time and focus on the reading, the listening. 
-
-AT this point, most of the internet just looks like bait to me. Which makes sense, because it's almost entirely free. 
-
-But I'm sick of paying with my brain. And you should be sick of it too.
+More broadly, we shouldn't have to worry about this kind of stuff in general. Echo-chambers. What ads are doing to our brains. To subvert something that attacks your decision-making skills is a mindfuck. More brain tax. That means less time to focus on reading, on listening. 
 
 One of my favorite things about Readup is that I can see other people reading things that I have recommended. It's a subtle joy, but also quite profound.
 
@@ -79,5 +77,3 @@ I got six people to read [The Man Who Sailed His House](https://readup.com/read/
 Forty minutes is a *lot* of listening time! 
 
 When we're talking about an article that long, I can't compare a Readup-verified Read to a like or comment on any other platform. It's like night and day. Reads are deep listens. Likes are more like fragments of thought, often impulsive. They are flicks of the finger, actions that require so little brain power they're hard to distinguish from the actions of automatons.
-
--Bill
