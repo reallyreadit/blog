@@ -48,7 +48,7 @@ On Readup, every single conversation starts with a mutual-listening expereince -
 
 I have been reading on Readup so religiously that most other sites feel weird now. Reddit and Hacker News especially. The comment threads still feel like rooms, but they're really packed and wild. More like a mosh pit than a living room. Interesting conversations happen (which is good) but they tend to invite abuse (which is bad). 
 
-Plus, I find it disorienting to have to constantly remind myself that most of the people in a given conversation haven’t actually read the article in question. There’s a major tax on brainspace when you have to be skeptical of every single commenter on every single article: *Did A read B? Did X read Y?* On Readup you never have to have those thought. 
+Plus, I find it disorienting to have to constantly remind myself that most of the people in a given conversation haven’t actually read the article in question. There’s a major tax on your brainspace when you have to be skeptical of every single commenter on every single article: *Did A read B? Did X read Y?* On Readup you never have to have those thought. 
 
 Then there's Facebook and Twitter. Posting there is nothing like a room. It feels like going out into the street with a megaphone. These platforms incentivize screaming. It pays to pipe up. And listening does nothing. So nobody does it. 
 
@@ -60,19 +60,11 @@ By the way, I have really *tried* to listen to Twitter. Or, tried to listen *on*
 
 When Readup launched the Twitter integration, I even tweeted a bit. *I did what the thing told me to do. I made some noise.* Or, I tried to at least. But that didn't work either. 
 
-Pretty much every experience I have ever had on Twitter has left me feeling duped. Too much noise. Not enough signal. Static everywhere. The zone, flooded with shit. Years after the problem was identified, it’s still flooded. And still shit.
-
-On a few seperate occasions, I really tried to give Twitter the benefit of the doubt. I blamed myself. 
-
-Was I following the wrong people? I tried to diversify. That was hard. If I wasn’t *extremely* careful, my feed kept turning into a bunch of older white guys. I purged, started over, and it happened again. And again. 
-
-Social media should diversify our perspectives, not bury us in pigeon-holes. 
-
-More broadly, we shouldn't have to worry about this kind of stuff in general. Echo-chambers. What ads are doing to our brains. To subvert something that attacks your decision-making skills is a mindfuck. More brain tax. That means less time to focus on reading, on listening. 
+Pretty much every experience I have ever had on Twitter has left me feeling duped. Too much noise. Not enough signal. Static everywhere. The zone, flooded with shit. Years after the problem was identified, it’s still flooded. And still shit. To subvert something that attacks your decision-making skills is a mindfuck. More brain tax. That means less time to focus on reading, on listening. 
 
 One of my favorite things about Readup is that I can see other people reading things that I have recommended. It's a subtle joy, but also quite profound.
 
-I got six people to read [The Man Who Sailed His House](https://readup.com/read/gq/the-man-who-sailed-his-house), a 40-minute GQ feature that I absolutely loved. As I watched that number slowly climb over the course of the day, I thought about each one of those people spending forty minutes -- *forty whole minutes!* -- on that article, and it really mattered to me.
+Earlier this week, I got six people to read [The Man Who Sailed His House](https://readup.com/read/gq/the-man-who-sailed-his-house), a 40-minute GQ feature that I absolutely loved. As I watched that number slowly climb over the course of the day, I thought about each one of those people spending forty minutes -- *forty whole minutes!* -- on that article, and it really mattered to me.
 
 Forty minutes is a *lot* of listening time! 
 
