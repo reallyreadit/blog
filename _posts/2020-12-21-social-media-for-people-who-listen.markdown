@@ -16,7 +16,7 @@ I’m aware of the problem, and I'm working on it.
 
 And, apparently, almost everybody everywhere thinks they’re a much better listener than their friends and co-workers say they actually are. That doesn’t surprise me at all. 
 
-And I think it's pretty easy to draw a straight line between our collective problem with listening and the way that the internet fragments our attention, reducing our ability to focus. 
+I think it's pretty easy to draw a straight line between our collective problem with listening and the way that the internet fragments our attention, reducing our ability to focus. 
 
 In this blog post, I’ll try to connect that line (basically: the internet makes us bad listeners) and then point out some of the ways that listening is built into Readup.
 
