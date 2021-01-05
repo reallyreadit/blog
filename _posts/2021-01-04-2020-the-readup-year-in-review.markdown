@@ -64,7 +64,8 @@ In 2020, while the world grappled with COVID, Readup grappled with money. We’r
 
 2020 is the year that we figured out what we need to be. 2021 is the year we make it happen.
 
-Stay tuned, 
-Bill Loundy
+Stay tuned,  
+Bill Loundy  
+CEO & co-founder of Readup
 
 P.S. Next week we announce **Readup's Top Reads of 2020**. 
