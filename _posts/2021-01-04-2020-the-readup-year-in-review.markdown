@@ -34,7 +34,7 @@ At the end of a distracted summer, I went to New Jersey so that Jeff and I could
 
 We resolved to get to revenue as quickly as possible, and *before* fundraising. We knew that it would be hard, especially given the ongoing challenges we were already having with growth. But we also reasoned that revenue would dramatically accelerate conversations with investors. And finally, revenue would put the company in the most secure overall position, an important consideration during an unfathomably tumultuous year.
 
-By that time, it had already been a busy year in terms of product development. We connected to Apple for easier sign up and sign in, created an orientation for new Readers, article issue flagging, a twitter integration, a firefox extension, writer pages & leaderboards, discover, dark mode. We also overhauled the blog, launched firefox, safari and edge extensions and a mac app.
+By that time, it had already been a busy year in terms of product development. We connected to Apple for easier sign up and sign in, created an orientation for new Readers, article issue flagging, a Twitter integration, Writer pages & leaderboards, Discover, and Dark Mode. We also overhauled the blog, launched the Firefox, Safari and Edge extensions _and_ a Mac app.
 
 We also rewrote our Privacy Policy, from scratch, to reflect the values and vision of the company. Now, finally, the world's most humane social media platform also had the world's most humane privacy policy. 
 
