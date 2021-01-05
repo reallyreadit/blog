@@ -24,9 +24,9 @@ At exactly the wrong time, we tried to fundraise on our own. That didn't work. I
 
 It was hellish, but we were boosted by the fact that Readup kept growing. 
 
-Throughout an otherwise dark year, Readup itself was a bright light. Day after dat, Readup served up a combination of high-quality, reliable information about COVID, _and_ necessary entertainment and distraction from all things COVID.
+Throughout an otherwise dark year, Readup itself was a bright light. Day after day, Readup served up a combination of high-quality, reliable information about COVID, _and_ necessary entertainment and distraction from all things COVID.
 
-In April, an Australian designer and writer named Kai Brach wrote about Readup in Dense Discovery, his newsletter, and Readup got hundreds of new signups in a relative instant. 
+In April, an Australian designer and writer named Kai Brach wrote about Readup in [Dense Discovery](https://www.densediscovery.com/), his newsletter, and Readup got hundreds of new signups in a relative instant. 
 
 So the roller coaster soared up, but then it crashed back down again. After each surge, we were forced to confront some harsh realities: Growth wasn’t endemic to the platform. (It still isn’t.) We could fan the flames, manually, but there was no reinforcing loop, no “product-market fit.”
 
