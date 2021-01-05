@@ -56,7 +56,7 @@ Instead:
 
 ![pics](/pics/rev.png)
 
-Readup is only going to take a 5% cut. Our growth hypothesis revolves around Writer evangeliation. Think: "Read me on Readup so I can make money!" Writer excitement about big payouts will drive them to evangelize Readup. That will further increase the payouts which will further increase the evangelizing... and so on and so forth.
+Readup is only going to take a 5% cut. Our growth hypothesis revolves around Writer evangelization. Think: "Read me on Readup so I can make money!" Writer excitement about big payouts will drive them to evangelize Readup. That will further increase the payouts which will further increase the evangelizing... and so on and so forth.
 
 Even if we decided to take a larger share of revenue, we'd want to pour it back into advertising and promotion. This move allows us to decentralize that growth machinery. Rather than be responsible for growing Readup, we're strengthening the incentive for Writers to do the growing for us.
 
