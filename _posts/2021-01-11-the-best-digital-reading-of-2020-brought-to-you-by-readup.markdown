@@ -8,7 +8,7 @@ author: Bill Loundy
 
 Uniquely, Readup sources top-quality reading material without any individual human interference. Curation is fully decentralized across the entire community of Readers. 
 
-Every time a reader [finishes an article](https://blog.readup.com/2020/11/02/how-readup-knows-whether-or-not-youve-read-an-article.html), it gets boosted in the universal algorithm. On a daily basis, articles compete for the coveted AOTD (Article of the Day) trophy and once a year we announce the *ultimate* winners, the Articles of the Year.
+Every time a Reader [finishes an article](https://blog.readup.com/2020/11/02/how-readup-knows-whether-or-not-youve-read-an-article.html), it gets boosted in the universal algorithm. On a daily basis, articles compete for the coveted AOTD (Article of the Day) trophy and once a year we announce the *ultimate* winners, the Articles of the Year.
 
 As we did [last year](https://blog.readup.com/2019/12/29/readups-top-reads-of-2019.html), we broke the list into three sections (based on length, shown as estimated reading time) and cut it off after the top 5 in each category. Without further ado, the winners:
 
@@ -37,6 +37,8 @@ Zachary Crockett in _The Hustle_
 [How to identify The Most Important Thing](https://readup.com/comments/alexdancocom/how-to-identify-the-most-important-thing)  
 Alex Danco  
 As we go through life, we encounter situations from time to time where we need to make a decision about something complex. Planning a product development roadmap? Navigating a tricky interpersonal ... 
+
+<br>
 
 [I have the coronavirus. So far, it isn’t that bad.](https://readup.com/comments/washingtonpost/i-have-the-coronavirus-so-far-it-isnt-that-bad)  
 Carl Goldman in _The Washington Post_  
