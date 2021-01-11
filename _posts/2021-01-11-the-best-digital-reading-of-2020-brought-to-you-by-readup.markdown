@@ -18,7 +18,7 @@ As we did [last year](https://blog.readup.com/2019/12/29/readups-top-reads-of-20
 Sabrina Orah Mark in _The Paris Review_  
 > What does it mean to be worth something? Or worth enough? Or worthless? What does it mean to earn a living? 
 
-#### [The real Lord of the Flies: what happened when six boys were shipwrecked for 15 months](https://readup.com/comments/the-guardian/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-m)  
+#### [The real Lord of the Flies꞉ what happened when six boys were shipwrecked for 15 months](https://readup.com/comments/the-guardian/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-m)  
 Rutger Bregman in _The Guardian_  
 > When a group of schoolboys were marooned on an island in 1965, it turned out very differently to William Golding’s bestseller, writes Rutger Bregman
 
@@ -36,7 +36,7 @@ Carl Goldman in _The Washington Post_
 
 ## Medium (15-30 mins)
 
-#### [‘It’s bullshit’: Inside the weird, get-rich-quick world of dropshipping](https://readup.com/comments/wired-uk/its-bullshit-inside-the-weird-get-rich-quick-world-of-dropshipping)  
+#### [‘It’s bullshit’꞉ Inside the weird, get-rich-quick world of dropshipping](https://readup.com/comments/wired-uk/its-bullshit-inside-the-weird-get-rich-quick-world-of-dropshipping)  
 Sirin Kale in _WIRED_  
 > In Bali, western immigrants are selling products they've never handled, from countries they've never visited, to consumers they've never met
 
