@@ -36,7 +36,7 @@ Zachary Crockett in _The Hustle_
 
 [How to identify The Most Important Thing](https://readup.com/comments/alexdancocom/how-to-identify-the-most-important-thing)  
 Alex Danco  
-As we go through life, we encounter situations from time to time where we need to make a decision about something complex. Planning a product development roadmap? Navigating a tricky interpersonal ... 
+> As we go through life, we encounter situations from time to time where we need to make a decision about something complex. Planning a product development roadmap? Navigating a tricky interpersonal ... 
 
 <br>
 
