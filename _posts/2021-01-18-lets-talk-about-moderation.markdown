@@ -40,13 +40,13 @@ Comment and share to further boost.
 
 Rinse and repeat. 
 
-It works. In our entire history, we have not had a single report of abuse. We have not had to hide or delete a single comment or article. But we're most proud of the fact that the entire information environment is completely transparent and decentralized. What makes Readup so powerful is that no individuals on the platform is particularly powerful.
+It works. In our entire history, we have not had a single report of abuse. We have not had to hide or delete a single comment or article. But we're most proud of the fact that the entire information environment is completely transparent and decentralized. What makes Readup so powerful is that no individual on the platform is particularly powerful.
 
-A few months ago, immediately after we published our new [Privacy Policy](https://readup.com/privacy), I tried to post it on /r/privacy, one of the largest privacy-focused online communities on the planet. A few hours later, I got a message from a moderator that my post had been removed.
+A few months ago, immediately after we published our new [Privacy Policy](https://readup.com/privacy), I tried to post it on the reddit privacy sub, /r/privacy, one of the largest privacy-focused online communities on the planet. A few hours later, I got a message from a moderator that my post had been removed.
 
 Gatekeepers peeve me, but I decided to play along. I was genuinely interested in forming a relationship with the mods. 
 
-I explained why I thought my topic fit the sub and the audience and followed all the rules. My post was about readability - what it means and why it matters. Why it *should* matter. I particularly wanted to hear from other early-stage entrepreneurs. 
+I explained why I thought my topic fit the sub and how I followed all the rules. My post was about readability - what it means and why it matters. Why it *should* matter. I particularly wanted to hear from other early-stage entrepreneurs. 
 
 The mod would have none of it. 
 
@@ -60,9 +60,9 @@ For the last few years, we have been waiting for the moment when something crazy
 
 Spam happens. Violence is a reality of human existence. When the time comes to protect our community, we’ll be ready to handle it openly, to remain clear and transparent. You should know if people are hiding things from you. So we’ll tell you.
 
-A few years ago, an investor asked me, “What if a bunch of right-wing extremists try to take over Readup? What precautions are you taking to prevent that from happening?” My answers were “So what?” and “Nothing.” And not because I don’t care, but because I know that Readup attracts and retains high-caliber independent-thinking humans by default. It’s not a fun place for people who just want to be trouble-makers. 
+A few years ago, an investor asked me, “What if a bunch of right-wing extremists try to take over Readup? What precautions are you taking to prevent that from happening?” My answers were “So what?” and “Nothing.” And not because I don’t care, but because I know that Readup attracts and retains high-caliber, independent-thinking humans by default. It’s not a fun place for people who just want to be trouble-makers. 
 
-These days, those questions seem less hypothetical. The pressing : “What are you going to do if Donald Trump creates an account on Readup?” 
+These days, those questions seem less hypothetical. To cut to the chase: “What do we do if Donald Trump creates an account on Readup?” 
 
 The honest answer is: nothing. At least initially. We don’t have any policy about kicking people off the platform, because we haven’t ever needed to have a policy to do that. Like everyone else, Trump would be subject to the same strict rules that everybody must adhere to: The platform requires you to read articles and stories if you wish to comment on them. 
 
