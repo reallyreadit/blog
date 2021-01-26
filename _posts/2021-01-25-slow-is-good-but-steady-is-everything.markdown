@@ -5,17 +5,17 @@ date: 2021-01-25
 author: Bill Loundy
 ---
 
-I like myths and legends and fantasies, but I think I like fables the most. Of the lot, they’re the shortest and simplest, and unlike the others they don’t dance around their own meaning. Fables are blunt. Fables are like a friend who can explain why right is right and wrong is wrong. Fables straight-up tell you how to live. 
+I like myths and legends and fantasies, but I think I like fables the most. Of the lot, they’re the shortest and simplest, and unlike the others they don’t dance around their own meaning. Fables are blunt. Fables are like a friend who can explain why right is right and wrong is wrong. Fables straight-up tell you how to live. ([Here's a bunch](http://read.gov/aesop/001.html) by the legendary Aesop.)
 
 I especially like the one about the tortoise and the hare, the origin of the widely-used expression “slow and steady wins the race.” Although there’s no official version of the story, the moral is held together by a few key details that seem to appear in almost every retelling.
 
 It always starts with a boast. 
 
-Hare says something like, “Ha! You’re slow!” to Tortoise. That leads to a bet and a long-distance race overseen by Fox, who sets out a course for them and agrees to play referee, which he does with surprising candor given his otherwise slippery reputation.
+Hare says something like, “Ha! You’re slow!” to Tortoise. That leads to a bet and a long-distance race overseen by Fox, who sets out a course for them and agrees to play referee, which he does with surprising candor given his otherwise slippery reputation in the other fables.
 
 And you know what happens next. 
 
-Hare, naturally much faster than Tortoise, gets so far ahead that he allows himself a snooze on the side of the road. (In drafting this blog post, I wondered whether or not this is where we get the expression “resting on your laurels,” because, indeed, that’s precisely what Hare was doing when he decided to pull over. But alas, it is not. The laurels, however, do date back to ancient Greece; they’re the laurels that were placed on the heads of victorious Olympic athletes. “Resting on your laurels” appeared in the 1800s as a way to say, “Don’t be lazy with your skills.”) But the Tortoise never stops and ultimately wins. His steadiness is the moral engine of the story, and the locus of “slow and steady.”
+Hare, naturally much faster than Tortoise, gets so far ahead that he allows himself a snooze on the side of the road. (In drafting this blog post, I wondered whether or not this is where we get the expression “resting on your laurels,” because, indeed, that’s precisely what Hare was doing when he decided to pull over. But alas, it is not. The laurels, however, do date back to ancient Greece; they’re the laurels that were placed on the heads of victorious Olympic athletes. “Resting on your laurels” appeared in the 1800s as a way to say, “Don’t be lazy with your skills.”) But the Tortoise never stops and ultimately wins. His steadiness is the moral engine of the story, and the locus of “slow and steadyn wins the race.”
 
 It’s important to note that the Hare didn't *need* to pull over for that breather. His failure is due to pure foolishness and poor decision-making skills. It’s a brain mistake, not a body mistake. Nobody doubts that Hare has greater overall potential and speed than Tortoise, but the story wouldn’t make sense if Fox decided to settle the bet with a speedometer because the story isn’t about potential or capability. It’s about execution. It’s about the importance of mind-body alignment in pursuit of your goals. And, above all else, it seems to be about that one, super-important word: steady. Slow doesn’t necessarily win the race, but slow *and steady* does. 
 
