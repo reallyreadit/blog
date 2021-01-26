@@ -5,7 +5,7 @@ date: 2021-01-25
 author: Bill Loundy
 ---
 
-I like myths and legends and fantasies, but I think I like fables the most. Of the lot, they’re the shortest and simplest, and unlike the others they don’t dance around their own meaning. Fables are blunt. Fables are like a friend who can explain why right is right and wrong is wrong. Fables straight-up tell you how to live. ([Here's a bunch](http://read.gov/aesop/001.html) by the legendary Aesop.)
+I like all kinds of myths and legends and fantasies, but sometimes I just want a simple fable. Of the lot, fables the shortest and simplest, and unlike other more complex story forms, fables don’t dance around their own meaning. Fables are blunt. Fables are like a friend who can explain why right is right and wrong is wrong. Fables straight-up tell you how to live. ([Here's a bunch](http://read.gov/aesop/001.html) by the legendary Aesop.)
 
 I especially like the one about the tortoise and the hare, the origin of the widely-used expression “slow and steady wins the race.” Although there’s no official version of the story, the moral is held together by a few key details that seem to appear in almost every retelling.
 
