@@ -42,11 +42,11 @@ At the same time, we strive to make Readup feel welcoming and interesting to all
 
 Readup is the right size. It’s the size it’s meant to be. Growth will be a result of our success, but growth itself is not the goal. Wherever we are is where we’re meant to be and however big we are is how big we’re meant to be. This is more than a zen mantra; it’s the closest thing to a “corporate strategy” that we’ve got.
 
-We aim to think and communicate in clear, human terms. We default to transparency. Readup has no “fine print.” For example, even our [Privacy Policy and Terms of Use](https://readup.com/privacy) was written to be read.
+We aim to think and communicate in clear, human terms. We default to transparency. Readup has no “fine print.” For example, even our [Privacy Policy and Terms of Use](https://readup.com/privacy) was written to be read. We wish that that wasn't something to be proud of, but these days it definitely is.
 
 We resist the urge to force certain outcomes. To us, Readup feels more like a living organism than a machine that we manage, so we try to listen to what Readup itself wishes to become and respond accordingly.
 
-No single individual controls Readup. Legal ownership and decision-making authority have been decentralized from day one; at its inception, the organization was split fifty-fifty between two co-founders, Bill Loundy and Jeff Camera. As Readup grows and continues to decentralize, it will become more resilient and more impactful.
+No single individual controls Readup. Legal ownership and decision-making authority have been decentralized from day one; at its inception, the organization was split fifty-fifty between two co-founders, [Bill Loundy](https://readup.com/@bill) and [Jeff Camera](https://readup.com/@jeff). As Readup grows and continues to decentralize, it will become more resilient and more impactful.
 
 Readup doesn’t have “users.” We have Readers. Every person who reads on Readup is a human being, deserving of dignity and respect.
 
