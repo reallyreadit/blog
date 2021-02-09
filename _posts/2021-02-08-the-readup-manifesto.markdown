@@ -28,7 +28,7 @@ We reject the increasingly superficial rapid-fire daily news cycle and the tende
 
 We regret that a [growing number of people](https://knightfoundation.org/wp-content/uploads/2020/03/KnightFoundation_AmericansViews_Client_Report_010917_Final_Updated.pdf) feel uninformed and unempowered to figure out for themselves what’s actually happening in the world. We fear what we see as a growing tendency for individuals to outsource their thinking to various Orwellian “Ministries of Truth.” 
 
-Nobody can tell you what’s right or wrong, fact or fake and we find it alarming when any network, publisher, or platform even suggests that they can solve that problem for you. They can’t. 
+Nobody can tell you what’s right or wrong, fact or fake, and we find it alarming when any network, publisher, or platform even suggests that they can solve that problem for you. They can’t. 
 
 Ultimately, truth isn’t a solvable problem. It’s a lifelong practice. Deep reading is a great way to anchor your existence in reality.
 
@@ -42,7 +42,7 @@ At the same time, we strive to make Readup feel welcoming and interesting to all
 
 Readup is the right size. It’s the size it’s meant to be. Growth will be a result of our success, but growth itself is not the goal. Wherever we are is where we’re meant to be and however big we are is how big we’re meant to be. This is more than a zen mantra; it’s the closest thing to a “corporate strategy” that we’ve got.
 
-We aim to think and communicate in clear, human terms. We default to transparency. Readup has no “fine print.” For example, even our [Privacy Policy and Terms of Use] was written to be read.
+We aim to think and communicate in clear, human terms. We default to transparency. Readup has no “fine print.” For example, even our [Privacy Policy and Terms of Use](https://readup.com/privacy) was written to be read.
 
 We resist the urge to force certain outcomes. To us, Readup feels more like a living organism than a machine that we manage, so we try to listen to what Readup itself wishes to become and respond accordingly.
 
