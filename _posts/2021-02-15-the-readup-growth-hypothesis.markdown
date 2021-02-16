@@ -86,18 +86,22 @@ We want to grow like a tree. Trees grow in a really beautiful, coordinated (yet 
 
 Soon, we're going to introduce our ultimate innovation: a brand new revenue stream for writers. It has taken way longer than we expected it to, but it's coming. When we launch our Subscriptions product, it's going to create a lot of growth really fast. Here's how: 
 
-It's important to understand that this isn't a "zero-sum" victory; We're not "taking" revenue from somewhere else. That's what makes this a *true* innovation. We're doing something that's never been done before: We're going to ask readers to pay to read *free stuff*. But it will be worth it because (1) the reading experience on Readup is infinitely better than reading anywhere else and (2) you are *directly* supporting the writers you read.
+New Readers are going to have to pay to use Readup. 
 
-And here's what's so awesome: As Readup grows, that revenue stream will grow with us. And the revenue stream will go straight into the pockets of writers, so they're going to want to grow it even more. That's our growth hypothesis: Writers will be motivated to get people reading on Readup. 
+That money will be distributed to Writers, which will create a strong incentive for them to encourage other people to read on Readup. 
+
+On a recent phone call, Jeff outlined a backwards way of arriving at the same conclusion which I find very helpful. (1) In order to be impactful, Readup needs to grow. (2) In order to grow, we need money. (3) In order to make money, we have three options: sell ads, sell people's data, or charge people to use Readup. Because of our primary core value (Respect the Readers) the last option is the only option. (4) To be impactful, we should reinvest all of our money in growth. Thus (5) In lieu of "hype" or "marketing," let's just give the money to Writers and let them do the marketing for us. 
+
+It's important to understand that this isn't a "zero-sum" victory; We're not "taking" revenue from somewhere else. That's what makes this a true innovation. We're doing something that's never been done before. We're asking readers to pay for a better all-around online reading experience. And the fact that we're giving the money to Writers is, in a way, just a bonus. 
+
+Some people will appreciate that they're supporting the writers they love. Some people won't care. It doesn't matter. The Writers are still getting paid, and the more they promote Readup the more they'll get paid. As Readup grows, that revenue stream will grow. That's the growth hypothesis.
 
 As a result of our growth, all of the following will happen: 
 - More people will spend more time in the flow of "deep reading."
 - People will see fewer ads and experience fewer distractions. 
 - Chaos, globally, will subside. 
 
-That last bulletpoint isn't meant to be tongue-in-cheek, but it's okay if you take it with a grain of salt. Just remember: If you believe that reading makes you a better, happier, healthier person (and almost nobody argues with that) than how can you *not* believe that more people reading is good for everything and everyone. 
-
-Reading makes me feel sane. Therefore, if everyone reads more, maybe we'll all just feel a little more sane. 
+That last bulletpoint isn't meant to be tongue-in-cheek, but it's okay if you take it with a grain of salt. Just remember: If you believe that reading makes you a better, happier, healthier person (and almost nobody argues with that) than how can you *not* believe that more people reading is good for everything and everyone.
 
 Yesterday, I stood with my friend at the edge of a large, snow-covered field. On the other side of the field were some giant cottonwood trees with a seemingly-infinite number of fractal branches that reached up to the sky. 
 
