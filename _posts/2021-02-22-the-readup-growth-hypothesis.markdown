@@ -43,4 +43,4 @@ As we get closer to a fully-formed vision for what Readup needs to become, free 
 
 The thing I love most about all of this new technical and financial infrastructure that Readup is building is that it all ties back to our singular true north: Reading. And, to be even more specific, the reading *flow state*. That’s the activity that Readup recognizes and tracks. That’s what needs to happen in order to make a slice of pie for a Writer. That’s the lifeblood of the curation algorithm. And it’s even the way that I’ll measure the performance of this blog post that you’re reading right now. 
 
-So thanks for making it to the end! And remember, it’s not just about *what* we build, it’s also about *how* we built it. So, please: Keep us honest. And keep reading! 
+So thanks for making it to the end! And remember, it’s not just about *what* we build, it’s also about *how* we build it. So, please: Keep us honest. And keep reading! 
