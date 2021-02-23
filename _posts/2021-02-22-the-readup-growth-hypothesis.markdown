@@ -31,7 +31,7 @@ I’m happy to report that as we move along we continue to notice smaller, posit
 
 Also, more Readers on Readup means better comments and conversations, higher quality articles in the AOTD game, better Discovery, and more opportunity for competition on the Leaderboards. In countless ways, growth leads to more growth.
 
-There is one reason why any of this is even remotely possible: Because Readup already is a thriving community. It took five long years and a lot of meaningful input from thousands of people all around the world. We are small, but powerful. I can’t overstate how much NEW energy this about to be infused into the platform. All new Readers will be *paying* Readers. At the very least, it’ll be a hoot to watch all of the changes go into effect. Our top-level revenue numbers will be visible to the public in real time.
+There is one reason why any of this is even remotely possible: Because Readup already is a thriving community. It took five long years and a lot of meaningful input from thousands of people all around the world. We are small, but powerful. And a whole lot of new energy is about to be infused into the community. All new Readers will be *paying* Readers. At the very least, it’ll be a hoot to watch all of the changes go into effect. Our top-level revenue numbers will be visible to the public in real time.
 
 We also transformed the entire RI (Reader Interface) around the concept of My Impact. A few weeks ago, we had wireframes, and now we have a working prototype:  
 
