@@ -35,7 +35,7 @@ There is one reason why any of this is even remotely possible: Because Readup al
 
 We also transformed the entire RI (Reader Interface) around the concept of My Impact. A few weeks ago, we had wireframes, and now we have a working prototype:  
 
-
+![oyler](/assets/2021/02/oyler.png)
 
 That’s a real world simulation using my personal, real reading data. For testing purposes, we took a look at what My Impact would look like at a $14.99 subscription that started on the first day of the month. You can see my entire payment in an interactive graph getting chopped up and doled out to all of the Writers I’ve read. In this case, Lauren Oyler, one of my favorite Writers, gets almost a buck. Oyler’s article was 25 minutes long. It’s the longest article I read, so she gets the largest piece of pie. As I keep reading, the pie changes shape. And at the end of the month, I watch everything click from my account to Oyler’s account, and everyone else’s accounts. 
 
