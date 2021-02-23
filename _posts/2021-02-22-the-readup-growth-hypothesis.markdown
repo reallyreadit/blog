@@ -23,7 +23,7 @@ Our message to Writers is clear: “You deserve to get paid every time someone r
 
 And that’s why that number — that “x” — is so very important. The first Writer payouts can be small, but not so small that they’re meaningless. Writers won’t cash out for just three or four dollars. But they will for fifty. 
 
-We’ve done the math and we like our odds. But more importantly, we like our value proposition. Unlike our competitors (Medium and Substack, for example) we don’t ask Writers to feed Readup with lots of new writing in order to have a chance at making money. Instead, Writers earn money every time they’re read on Readup. Every complete read triggers a payment. Most of the Writers who do well on Readup write high-quality, evergreen stuff. The Article of the Day (AOTD) trophy is the ultimate prize. Soon, it will have a major financial reward attached to it.
+We’ve done the math and we like our odds. But more importantly, we like our value proposition. Unlike our competitors (Medium and Substack, for example) we don’t ask Writers to feed Readup with lots of new writing in order to have a chance at making money. Instead, Writers earn money every time they’re read on Readup, no matter where they're published. Every complete read triggers a payment. Many of the Writers who are currently doing well on Readup write high-quality, evergreen stories for the world's top publications. The Article of the Day (AOTD) trophy is the ultimate prize. Soon, it will have a major financial reward attached to it.
 
 Within this massive new vision there are hundreds of features that still need to be built. For example, each one of the following features is actually about a dozen smaller features: Writer Verification, Writer Profiles, and Writer Earnings to put on the Writer Profiles.
 
@@ -31,7 +31,7 @@ I’m happy to report that as we move along we continue to notice smaller, posit
 
 Also, more Readers on Readup means better comments and conversations, higher quality articles in the AOTD game, better Discovery, and more opportunity for competition on the Leaderboards. In countless ways, growth leads to more growth.
 
-There is one reason why any of this is even remotely possible: Because Readup already is a thriving community. It took five long years and a lot of meaningful input from thousands of people all around the world. We are small, but powerful. I can’t overstate how much NEW energy this is going to create on the platform. New Readers will be required to pay for the privilege to read and comment. At the very least, it’ll be a hoot to watch it all go down. Our top-level revenue numbers will be visible to the public in real time.
+There is one reason why any of this is even remotely possible: Because Readup already is a thriving community. It took five long years and a lot of meaningful input from thousands of people all around the world. We are small, but powerful. I can’t overstate how much NEW energy this about to be infused into the platform. All new Readers will be *paying* Readers. At the very least, it’ll be a hoot to watch all of the changes go into effect. Our top-level revenue numbers will be visible to the public in real time.
 
 We also transformed the entire RI (Reader Interface) around the concept of My Impact. A few weeks ago, we had wireframes, and now we have a working prototype:  
 
@@ -41,6 +41,6 @@ That’s a real world simulation using my personal, real reading data. For testi
 
 As we get closer to a fully-formed vision for what Readup needs to become, free Readup is already starting to look like something that belongs in the past. Almost every aspect of the Reader journey is about to change, and the new and improved version needs to be simpler and clearer than everything we have now. The homepage needs an overhaul. Onboarding needs spiffing up. Soon, you’ll need to create an account in order to poke around.
 
-The thing I love most about all of this new technical and financial infrastructure that Readup is building is that it all ties back to our singular true north: Reading. And, to be even more specific, the reading flow state. That’s the activity that Readup recognizes and tracks. That’s what needs to happen in order to slice some a piece of pie for a Writer. That’s the lifeblood of the curation algorithm. And it’s even the way that I’ll measure the performance of this blog post that you’re reading right now. 
+The thing I love most about all of this new technical and financial infrastructure that Readup is building is that it all ties back to our singular true north: Reading. And, to be even more specific, the reading *flow state*. That’s the activity that Readup recognizes and tracks. That’s what needs to happen in order to make a slice of pie for a Writer. That’s the lifeblood of the curation algorithm. And it’s even the way that I’ll measure the performance of this blog post that you’re reading right now. 
 
-So thanks for making it to the end! And remember, it’s not just about what we build, it’s also about how we built it. So, please: Keep us honest. And keep reading! 
+So thanks for making it to the end! And remember, it’s not just about *what* we build, it’s also about *how* we built it. So, please: Keep us honest. And keep reading! 
