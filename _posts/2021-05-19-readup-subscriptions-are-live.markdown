@@ -1,10 +1,9 @@
----
 layout: post
 title: Readup Subscriptions Are Live! 
 date: 2021-05-19
 author: Bill Loundy
 ---
-On May 3rd, 2021 we launched Readup Subscriptions, the new, paid version of Readup. 
+On May 3rd, 2021 we launched Readup Subscriptions -- the new, paid version of Readup. 
 
 It was actually a series of deployments that took place over the course of several days, starting with an announcement to our existing community of readers that they could be among the first to upgrade to a paid account. In doing so, they could see the marketplace in action and watch their fees go directly to the writers they read. 
 
