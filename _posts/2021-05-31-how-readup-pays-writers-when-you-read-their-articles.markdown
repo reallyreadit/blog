@@ -42,6 +42,8 @@ To start with, we only collect data from our readers and writers that is necessa
 
 We also believe that transparency is just as important as privacy. Our total amount of revenue and the amount allocated to writers is public and updated in real time right on our home page. All writer account balances and payout amounts are public and earnings never expire. Check out [readup.com/earnings](https://readup.com/earnings) to see the full accounting. Every reader can always see exactly where their subscription money is going, right down to the penny.
 
+Looking forward, Readup will have a lot to offer publishers as well. Once we have a large enough subscription base we could offer publishers a substantial new revenue stream in exchange for access to articles that are currently locked behind paywalls.
+
 ## Turn on, Tune in, Read up
 
 If you like our vision for a sustainable, ad-free future for online reading then [get started on Readup](https://readup.com/) today and try it out for yourself! You can create an account for free and see what articles our readers are talking about without having to create a subscription. In you're looking for some additional reading inspiration check out our [recent and best ever Article of the Day winners](https://readup.com/aotd/history). Even at our small scale the power of reading has the ability to surface amazing articles and spark meaningful conversations and connections. There truly is no better way to spend time online.
