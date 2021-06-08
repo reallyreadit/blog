@@ -28,7 +28,7 @@ Readup is the first and only subscription platform to use the read as a basis fo
 
 ![My Impact](/assets/2021/06/my-impact.png)
 
-In order to receive their payouts, writers must first be verified and have an account balance of at least $10 USD. Verification is a manual, human-to-human process that ensures we're sending the money to the right person. The first round of payouts will be processed manually as well, completed using the writer's choice of PayPal or Venmo. Future payouts will be processed automatically for verified accounts via direct deposit. All writers have to do is sit back and collect their earnings from every article that they've ever written anywhere on the Web.
+In order to receive their payouts, writers must first be verified and have an account balance of at least $10 USD. Verification is a manual, human-to-human process that ensures we're sending the money to the right person. Once a writer has been verified, they can link their bank account to their Readup account via our integration with Stripe. Payouts will then be sent automatically every month as long as the current balance is at least $10 USD. All writers have to do is sit back and collect their earnings from every article that they've ever written anywhere on the Web.
 
 ## The Bigger Picture
 
