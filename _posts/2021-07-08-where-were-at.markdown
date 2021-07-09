@@ -8,7 +8,7 @@ We recently celebrated the fundamental aliveness of Readup, *as a business*, on 
 
 For five years before that, Readup was free. But then, suddenly, we introduced a hard paywall. It was a decision that we knew would be impossible to reverse. Thank heavens, people started paying. And so the new-and-improved machine whirred to life.
 
-Soon after that, writers began to arrive on Readup. There was a one month delay, because that's how long it takes for money to go from reader to writer on Readup. (For more info on that, check out [this article](https://blog.readup.com/2021/06/08/how-readup-pays-writers-when-you-read-their-articles.html)). That gave us some time to prepare, but it was still a shock to the system. Readup was built for readers. Making Readup work for readers and writers is a whole different ballgame.
+Soon after that, writers began to arrive on Readup. There was a one month delay, because that's how long it takes for money to go from reader to writer on Readup. (For more info on that, check out [this article](https://blog.readup.com/2021/06/08/how-readup-pays-writers-when-you-read-their-articles.html)). That gave us some time to prepare, but it was still a shock to the system. Readup was built for readers. Making Readup work for readers *and* writers is a whole different ballgame.
 
 Day in and day out, I've been talking to writers - via email, phone, and zoom. The conversations have been mostly positive and full of surprises.
 
