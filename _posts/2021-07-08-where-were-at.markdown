@@ -24,6 +24,6 @@ My favorite thing about Readup life right now is that we're responding to featur
 - **I did the Credder podcast!** It was super fun! You can watch it [here](https://www.youtube.com/watch?v=550SrS3oOHQ).
 - **IP update.** We finally got something called a Notice of Allowance from the USPTO, which means: We got the patent! The whole process took several years and a lot of blood, sweat and tears, but now it's done. Now we own our unique invention. We're just waiting on the certificate in the mail and you better believe that it will be hanging on Jeff's wall.
 
-Thanks for reading! As always, I welcome your feedback in the comments.
+Thanks for reading! As always, I welcome your feedback in [the comments](https://readup.com/comments/blogreadupcom/where-were-at).
 
 -[@bill](https://readup.com/@bill)
