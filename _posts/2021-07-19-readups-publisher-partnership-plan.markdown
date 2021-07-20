@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Readup's Publisher Partnership Plan
-date: 2021-07-08 17:10:32 -0400
+date: 2021-07-19 17:10:32 -0400
 author: Bill Loundy
 ---
 <p>
