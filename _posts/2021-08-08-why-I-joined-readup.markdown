@@ -40,7 +40,7 @@ I wasn't really a reader before Readup. Since the end of 2019, Readup added this
 
 I've always been a casual reader of books. But when it came to texts of shorter form, news sites or articles; I'd only really read something when actively researching a topic, getting articles linked through a social platform, or when my dad left a magazine on the kitchen table. Throughout most of 2019, I maybe read about five articles per month. If I read them at all.
 
-![Magazine](/assets/2021/08/magazine.jpg)
+![Magazine](/assets/2021/08/magazine.jpeg)
 
 Enter Readup. Readup's community recommendations consistently piqued my interest and my activity reading followed suit. Since I joined, I've been enjoying at least twenty insightful pieces monthly, often long-form pieces of over 20 minutes, by just being on Readup.
 
