@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Joined Readup
-date: 2021-08-08 
+date: 2021-09-08 
 author: Thor Galle
 ---
 Hello readers! My name is Thor, now officially the third employee at Readup. Together with Bill and Jeff, I'm working daily to build and grow the world's best reading app. 
