@@ -18,7 +18,7 @@ Readup is technology that respects and enriches humans. To Readup, I personally 
 
 My Readup story began before Readup. I'd been a techie throughout my teenage years, so starting a career in software development & design followed naturally. In Computer Science grad school however, I became disillusioned with the tech world outside my coursework. What was I working towards?
 
-Facebook, Instagram and others had morphed from being an exciting new place of connection into largely time-draining pools of meaninglessness, capitalizing on attention without much afterthought. I realized that gazing daily at the lunch of an acquaintance vacationing halfway around the globe was not the most valuable use of my time, and yet, tech's rising giants kept finding ways to fish for more of my engagement and more of my attention.
+Facebook, Instagram and others had morphed from being an exciting new plane of connection into largely time-draining pools of meaninglessness, capitalizing on attention without much afterthought. I realized that gazing daily at the lunch of an acquaintance vacationing halfway around the globe was not the most valuable use of my time, and yet, tech's rising giants kept finding ways to fish for more of my engagement and more of my attention.
 
 I was not alone in this feeling. Tristan Harris and Aza Raskin founded the Time Well Spent movement (now the CHT, [Center for Humane Tech](https://en.wikipedia.org/wiki/Center_for_Humane_Technology)), and by religiously following their activities, podcasts and [attending conference talks](https://thorgalle.me/articles/7-cool-things-at-slush-2018), I learned more about the global issues exacerbated by the attention economy: social injustice, loneliness, and more recently, misinformation.
 
