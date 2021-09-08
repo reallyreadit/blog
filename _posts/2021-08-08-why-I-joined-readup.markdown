@@ -76,6 +76,6 @@ We will always stay true to our core value: respect the readers. We're always li
 
 The writing is on the wall. Readers and potential readers need Readup to reconnect with deep reading, with inspiring and challenging thoughts. Independent writers need Readup to build a sustainable income, automatically. The journalism industry needs Readup to absolve itself from a dwindling traditional reading market and sketchy clickbait. 
 
-A good friend said in a call recently, *Readup is on the right side of history*. And I'm absolutely thrilled and honoured that I can contribute to shape that history!
+On a recent phone call, a of mine said, "Readup is on the right side of history." I agree. And I'm thrilled and honoured that I can contribute to shape that history!
 
 If you're not on Readup yet, get the app!
