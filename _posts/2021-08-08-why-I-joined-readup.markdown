@@ -8,7 +8,7 @@ Hello readers! My name is Thor, now officially the third employee at Readup. Tog
 
 Like many readers, I often leave crumbs of my identity in my Readup posts: you may have found that I'm a Belgian living in the European north, a (humane) tech aficionado, elaborate comment writer, and generally interested in an ever-increasing variety of articles. That last interest wasn't always there: it's something that Readup evoked in me.
 
-![Thor in hammock](/assets/2021/08/thor.hammock.jpg)
+{% include image.html url="/assets/2021/08/thor.hammock.jpg" description="Readup reading in a hammock!" %}
 
 I also happen to like running (mostly 1 miles), cycling (the commuting kind, and the week-long touring kind), sauna (very hot & Finnish), and the occasional beer (every other one non-alcoholic). But that's not what I'm here to write about. In what follows I want to tell you how I joined Readup, why I did so, and why I believe the world needs Readup. Because it truly does. 
 
@@ -40,7 +40,7 @@ I wasn't really a reader before Readup. Since the end of 2019, Readup added this
 
 I've always been a casual reader of books. But when it came to texts of shorter form, news sites or articles; I'd only really read something when actively researching a topic, getting articles linked through a social platform, or when my dad left a magazine on the kitchen table. Throughout most of 2019, I maybe read about five articles per month. If I read them at all.
 
-![Magazine](/assets/2021/08/magazine.jpeg)
+{% include image.html url="/assets/2021/08/magazine.jpeg" description="A magazine on the kitchen table" %}
 
 Enter Readup. Readup's community recommendations consistently piqued my interest and my activity reading followed suit. Since I joined, I've been enjoying at least twenty insightful pieces monthly, often long-form pieces of over 20 minutes, by just being on Readup.
 
@@ -66,7 +66,7 @@ So many online publications confirm it to me: reading on the internet is horribl
 
 Which writer can truthfully say: "Yes please! Add some flashy advertisements next to my article and in between my paragraphs! And while you're at it, pop up a video or two as well." Which publisher of serious articles can be proud of having to promote polarizing clickbait titles to get more ad views, shoving thirty tracking cookies onto site visitors? And which reader rationally thinks that ad-blocking is an economically healthy way to consume articles on internet?
 
-![Ken Liu Screenshot](/assets/2021/08/ken.screen.png)
+{% include image.html url="/assets/2021/08/ken.screen.png" description="An award-winning article on an all-too-common looking site. Practically unreadable!" %}
 
 None of this sounds great. And yet, it is the state of reading on the internet today. As with social media, the problem of the article industry is inextricably linked with a deadlocked business model. Readers expect easy, complete and cheap access to an overly-fragmented world of online writing. Writers want to get paid. And no one connects them directly. Readup can, because Readup changes the business model.
 
