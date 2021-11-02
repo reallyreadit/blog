@@ -355,25 +355,7 @@ Now we're getting somewhere. If we call `Element.getClientRects` on any of those
 What does justify the complexity, I'd argue, is improved visual debugging and the ability to reason about reading progress on a line level versus a paragraph or article level. The visual debugging is a fun party trick, but it's also crucial in helping to track down reading bugs. If you haven't realized it by now, we take reading very seriously. It's sacred, and bugs that result in readers not getting credit for articles they've read are considered critical. The execution environments are also an absolute nightmare. Every publisher and CMS has a different document structure with different scripts running in different browsers and web views on different devices. There will be an endless supply of compatibility bugs so the ability to enable high resolution visual debugging on the fly is an important asset. Being able to see exactly where the tracker thinks each line of text is versus just the entire paragraph gives us a much clearer picture of what's going on under the hood. Tap the button below to check it out!
 
 <div id="com_readup_blog_post_debug_container" style="margin: 2em; text-align: center;">
-	<button id="com_readup_blog_post_debug_button" style="font-size: 12pt;font-family: sans-serif;padding: 1em;color: #222;background: #eee;border: 1px solid #ccc;border-radius: 3px;">Toggle Visual Debugging</button>
-	<div id="com_readup_blog_post_script">
-		<script>
-			document
-				.getElementById('com_readup_blog_post_debug_button')
-				.addEventListener(
-					'click',
-					event => {
-						event.stopPropagation();
-						window.postMessage(
-							{
-								type: 'toggleVisualDebugging'
-							},
-							'*'
-						);
-					}
-				);
-		</script>
-	</div>
+	<button id="com_readup_blog_post_debug_button" style="font-size: 12pt;font-family: sans-serif;padding: 1em;color: #222;background: #eee;border: 1px solid #ccc;border-radius: 3px;" onclick="event.stopPropagation(); window.postMessage({ type: 'toggleVisualDebugging' }, '*');">Toggle Visual Debugging</button>
 </div>
 
 Before we get to the reading loop where we'll start marking off words as having been read let's set up our client side data model to give some structure to all this information we're going to be gathering. We'll also create some additional helper functions to map our paragraph elements to `Paragraph` objects which will each contain an array of `Line` objects representing the individual lines of text. A nice feature of our reading progress array data structure is that we can store a single array representing the whole article in the database, easily split it up into smaller arrays when reading on the client and then recombine them to update the stored progress. We'll create and update reading progress arrays for each line and combine them on the fly whenever we want to send a snapshot of our progress to the server.
