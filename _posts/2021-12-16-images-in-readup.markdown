@@ -22,7 +22,7 @@ Last month I rolled out an app-wide experiment to show a featured image on the A
 
 That image has been received well, so now I'm expanding it to yesterday's Article of the Day among [other changes](https://www.notion.so/Readup-Changelog-c1dc41a59947419f90d7f30e100a54d5) that make it easier to dive into a next read mindfully.
 
-[![Readup's new homepage on the desktop app](https://blog.readup.com/assets/2021/12/new-readup-desktop.png)](https://blog.readup.com/assets/2021/12/new-readup-desktop.png)
+[![Readup's new homepage on the desktop app](/assets/2021/12/new-readup-desktop.png)](/assets/2021/12/new-readup-desktop.png)
 
 The two most recent AOTDs got big, left-aligned images on desktop apps, and top images on mobile apps. Consider them the daily cover mosaic of the Readup! The preceding AOTD winners got smaller, right-aligned thumbnails. I believe they are fun but generally less meaningful for a decision on whether or not to pick an article from a list. The titles, descriptions and Readup metadata come first in this process. Right-aligning list item thumbnails [sounded like a good idea](https://www.nngroup.com/articles/mobile-list-thumbnail/) to support this. Previous Winners' images are not shown on mobile yet, because I felt they are too overpowering compared to the titles. We might experiment with other, possibly configurable, mobile layouts later.
 
