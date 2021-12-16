@@ -15,5 +15,14 @@ This is the repository for [blog.readup.com](https://blog.readup.com), a [Jekyll
 Run `./run.sh` in your terminal to start a live development server.
 
 ## Deployment
-- Install the [AWS CLI](https://aws.amazon.com/cli/)
-- TODO
+
+### Get & configure the AWS CLI
+1. Install the [AWS CLI](https://aws.amazon.com/cli/)
+2. If you're here, you likely already received an IAM user account with proper admin permissions. You'll need it.
+3. [Create an access key ID and secret access key](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-prereqs.html#getting-started-prereqs-keys), if you haven't already.
+4. Follow the [Quick Setup](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html) to configure your CLI. The default region of Readup is `us-east-2`. To use the deployment commands here as-is, you should configure the `reallyreadit` profile:
+    `aws configure --profile reallyreadit`
+5. Check if you can access the S3 blog bucket with `aws s3 ls s3://blog.readup.com --region us-east-2`
+
+### Publishing
+Run `./publish.sh`
