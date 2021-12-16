@@ -20,7 +20,7 @@ I approached this design challenge like I promise to tackle all design challenge
 
 Last month I rolled out an app-wide experiment to show a featured image on the Article of the Day - the first image in the Readup app. The AOTD is an article that has proven its quality. It deserves to be highlighted, because it has been vetted by the deep reading attention and ratings of our readers. With other words: it deserves an image to draw in readers.
 
-That image has been received well, so now I'm expanding it to yesterday's Article of the Day among [other changes](https://www.notion.so/Readup-Changelog-c1dc41a59947419f90d7f30e100a54d5) that make it easier to dive into a next read mindfully.
+That image has been received well, so now I'm expanding it to yesterday's Article of the Day among [other changes](https://readup.notion.site/readup/Readup-Changelog-c1dc41a59947419f90d7f30e100a54d5) that make it easier to dive into a next read mindfully.
 
 [![Readup's new homepage on the desktop app](/assets/2021/12/new-readup-desktop.png)](/assets/2021/12/new-readup-desktop.png)
 
