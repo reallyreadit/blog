@@ -1,6 +1,34 @@
 This is the repository for [blog.readup.com](https://blog.readup.com), a [Jekyll](jekyllrb.com/) blog.
 
 ## Installation
+
+### With Docker
+
+This is probably the easiest, because this project relies on outdated Jekyll, ruby and ruby gem dependencies. This might clash with what's installed on your system already (especially on macOS).
+
+From within this directory, run:
+
+To run a live development server at `http://localhost:4000`:
+```
+docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  -p 4000:4000 \
+  -it jekyll/jekyll:4.1.0 \
+jekyll serve
+```
+
+To build the site a single time:
+```
+docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  -it jekyll/jekyll:4.1.0 \
+jekyll build
+```
+
+To rebuild the site on each file change, add `-w` after jekyll build.
+
+### Manual installation & usage
+
 - [Install Jekyll](https://jekyllrb.com/docs/installation/).
     - Make sure to add the directory for Ruby gems binaries to your path (the installer should warn you about this with instructions), e.g. `export PATH=$PATH:/Users/thor/.gem/ruby/2.6.0/bin`.
     - For Thor's recent macOS installation on Big Sur, no additional ruby runtime needed to be installed, but rdoc needed to be installed to avoid an error. This worked:
@@ -9,10 +37,7 @@ This is the repository for [blog.readup.com](https://blog.readup.com), a [Jekyll
         ```
     
 - Run `bundle install` to install dependencies.
-
-## Development
-
-Run `./run.sh` in your terminal to start a live development server.
+- Run `./run.sh` in your terminal to start a live development server.
 
 ## Deployment
 
@@ -25,4 +50,7 @@ Run `./run.sh` in your terminal to start a live development server.
 5. Check if you can access the S3 blog bucket with `aws s3 ls s3://blog.readup.com --region us-east-2`
 
 ### Publishing
+
+TODO: instructions don't work with Docker yet here.
+
 Run `./publish.sh`
