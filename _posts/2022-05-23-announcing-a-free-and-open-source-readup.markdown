@@ -13,11 +13,11 @@ We're therefore glad to announce that we will refocus on the most successful asp
 
 At the same time, we are gradually restructuring our company into a **community-driven, non-profit** organization. By readers, for readers.
 
-Here are some of the upcoming changes:
+Here are some of the changes:
 
 - [Readup.com](http://readup.com/) will become [Readup.org](http://readup.org/), a community-driven reading service.
-- We will fully **open-source** the code of the Readup under the AGPL license, and anyone can contribute.
-- You will be able to financially support our continued development via the **Readup Collective** , an non-profit [Open Collective](https://opencollective.com/).
+- We have fully **open-sourced** the code of the Readup under the AGPLv3 license, and anyone can contribute. Find the code on [GitHub](https://github.com/reallyreadit/dev-env).
+- You can financially support our continued development via the [Readup Collective](https://opencollective.com/readup-collective), the **non-profit organization** that now maintains Readup.
 - Readup is returning to the web via a new and improved web extension, as many readers have asked.
 
 Read on to learn why we are making these changes, and how you can contribute.
@@ -60,8 +60,10 @@ Reading is the lifeblood of Readup. It is the most important thing you can do to
 
 If you want to go a little further, help grow the community. Scout and post new articles, or share articles with friends & family. They can now also read without restrictions.
 
-For financial support, we will be in touch soon about our upcoming non-profit **Readup Collective**: we would be very grateful if you could spare a handful of dollars monthly to help us pay for our servers, maintenance and development. We have now cancelled all the subscriptions from our remaining generous subscribers, totalling about $450 monthly. Our server costs alone are currently between $200-300 per month.
+For financial support, we have opened the [Readup Collective](https://opencollective.com/readup-collective): we would be very grateful if you could spare a handful of dollars monthly to help us pay for our servers, maintenance and development. We have now cancelled all the subscriptions from our remaining generous subscribers, totalling about $450 monthly. Our server costs alone are currently between $200-300 per month (we are trying to reduce those as much as possible).
 
-Finally, if you are a developer or are willing to contribute skills that you think would be useful to Readup (design, marketing, social media, ...), please let us know [on our Discord server](https://discord.gg/XQZa8pHdVs) or [contact our Community Lead Thor](mailto:thorgalle+readup@gmail.com) directly.
+Finally, if you are a developer or are willing to contribute skills that you think would be useful to Readup (design, marketing, social media, ...), please let us know [on our Discord server](https://discord.gg/XQZa8pHdVs).
 
 Thank you for reading, and we'll see you in the comments on Readup!
+
+_*Updated on June 23rd to link to the now existing GitHub and Open Collective pages._
