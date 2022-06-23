@@ -6,9 +6,18 @@ This is the repository for [blog.readup.com](https://blog.readup.com), a [Jekyll
 
 This is probably the easiest, because this project relies on outdated Jekyll, ruby and ruby gem dependencies. This might clash with what's installed on your system already (especially on macOS).
 
-From within this directory, run:
+### With Docker Compose
+If you have set up the Docker Compose [dev environment](https://github.com/reallyreadit/dev-env), run the following to start a live-reloading development server (from this directory):
 
-To run a live development server at `http://localhost:4000`:
+```
+docker compose -f ../dev-env/docker-compose.yml -p readup up blog -d
+```
+
+You can then access this server via [`https://blog.dev.readup.com`](https://blog.dev.readup.com).
+
+### Individual container
+
+Alternatively, for a Docker setup that does not depend on other repositories, to run a live development server at [`http://localhost:4000`](http://localhost:4000):
 ```
 docker run --rm \
   --volume="$PWD:/srv/jekyll:Z" \
@@ -51,6 +60,4 @@ To rebuild the site on each file change, add `-w` after jekyll build.
 
 ### Publishing
 
-TODO: instructions don't work with Docker yet here.
-
-Run `./publish.sh`
+Run `./publish.sh`, or `./publish-docker.sh`, depending on your setup.
