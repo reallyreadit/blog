@@ -1,4 +1,4 @@
-This is the repository for [blog.readup.com](https://blog.readup.com), a [Jekyll](jekyllrb.com/) blog.
+This is the repository for [blog.readup.org](https://blog.readup.org), a [Jekyll](jekyllrb.com/) blog.
 
 ## Installation
 
@@ -13,7 +13,7 @@ If you have set up the Docker Compose [dev environment](https://github.com/reall
 docker compose -f ../dev-env/docker-compose.yml -p readup up blog -d
 ```
 
-You can then access this server via [`https://blog.dev.readup.com`](https://blog.dev.readup.com).
+You can then access this server via [`https://blog.dev.readup.org`](https://blog.dev.readup.org).
 
 ### Individual container
 
@@ -56,7 +56,7 @@ To rebuild the site on each file change, add `-w` after jekyll build.
 3. [Create an access key ID and secret access key](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-prereqs.html#getting-started-prereqs-keys), if you haven't already.
 4. Follow the [Quick Setup](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html) to configure your CLI. The default region of Readup is `us-east-2`. To use the deployment commands here as-is, you should configure the `reallyreadit` profile:
     `aws configure --profile reallyreadit`
-5. Check if you can access the S3 blog bucket with `aws s3 ls s3://blog.readup.com --region us-east-2`
+5. Check if you can access the S3 blog bucket with `aws s3 ls s3://blog.readup.org --region us-east-2`
 
 ### Publishing
 

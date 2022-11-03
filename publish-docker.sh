@@ -21,4 +21,4 @@ docker run --rm \
   jekyll/jekyll:4.1.0 \
   jekyll build
 
-aws s3 sync _site s3://blog.readup.com --region us-east-2 --delete
+aws s3 sync _site s3://blog.readup.org --region us-east-2 --delete
