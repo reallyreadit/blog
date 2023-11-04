@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Readup Pays Writers When You Read Their Articles
+description: A detailed look at the financial model and technical infrastructure that powers Readup's reader/writer marketplace.
 date: 2021-06-08
 author: Jeff Camera
 ---

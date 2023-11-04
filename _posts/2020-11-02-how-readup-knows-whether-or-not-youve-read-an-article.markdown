@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Readup Knows Whether or Not You've Read an Article
+description: A deep dive into Readup's read-tracking technology.
 date: 2020-11-02
 author: Jeff Camera
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Readup is Built
+description: An overview of Readup's architecture, from Git repositories to AWS services.
 date: 2021-12-10
 author: Jeff Camera
 ---
