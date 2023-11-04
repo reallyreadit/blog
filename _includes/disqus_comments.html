@@ -10,9 +10,9 @@
 
 {%- if page.comments != false -%}
   {%- if jekyll.environment == "production" -%}
-    {%- assign embed_script_url = "https://static.readup.org/embed/bundle-1.0.2.js" -%}
+    {%- assign embed_script_url = "https://static.readup.org/embed/bundle-1.0.3.js" -%}
   {%- else -%}
-    {%- assign embed_script_url = "https://static.dev.readup.org/embed/bundle-1.0.2.js" -%}
+    {%- assign embed_script_url = "https://static.dev.readup.org/embed/bundle-1.0.3.js" -%}
   {%- endif -%}
   <script defer src="{{ embed_script_url }}"></script>
 {%- endif -%}
